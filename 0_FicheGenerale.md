@@ -21,6 +21,8 @@
 ## Caractéristiques de combat
 | | |
 |-|-|
+|**Bonus d'initiative**|+3|
+|**Classe d'armure**|14 = 11 (Armure de cuir) + 3 (DEX)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -34,10 +36,18 @@
 |**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
 ### Sorts
-|Nom|Level|
-|-|-|
-|**Eldritch Blast**|Cantrip|
-|**Prestidigitation**|Cantrip|
+
+*DD de sauvegarde contre les sorts* - **13** (8+prof+CHA)
+
+*Modificateur d'attaque pour les sorts* - **+5** (prof+CHA)
+
+|Nom - EN|Nom - FR|Level| Cheat Sheet |
+|-|-| - |-|
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip||
+|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip||
+|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1||
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1||
+|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1||
 
 ## Ability scores
 
@@ -45,18 +55,32 @@
 |-|-|-|-|
 |Force|**8**|**-1**|**-1**|
 |Dextérité|**16**|**+3**|**+3**|
-|Constitution|**13**|**+1**|**+1**|
-|Intelligence|**12**|**+1**|**+1**|
+|Constitution|**12**|**+1**|**+1**|
+|Intelligence|**13**|**+1**|**+1**|
 |Sagesse|**10**|**+0**|**+2** (prof)|
 |Charisme|**16**|**+3**|**+5** (prof)|
 
-*Cat's Talent* - You have proficiency in the Perception and Stealth skills.
 
-*Far Traveler* - You have proficiency in Insight and Perception.
-
-Tromperie
-
-Arcanes
+|Nom|Type|Proficiency|Bonus|
+|-|-|-|-|
+|Acrobaties|DEX||+3|
+|Arcanes|INT|x (Warlock)|+3|
+|Athlétisme|FOR||-1|
+|Discrétion|DEX|x (Tabaxi)|+5|
+|Dressage|SAG||+0|
+|Escamotage|DEX||+3|
+|Histoire|INT||+1|
+|Intimidation|CHA||+3|
+|Intuition/Perspicacité|SAG|x (Far Traveler)|+2|
+|Investigation|INT||+1|
+|Médecine|SAG||+0|
+|Nature|INT||+1|
+|Perception|SAG|x (Tabaxi)|+2|
+|Persuasion|CHA||+3|
+|Religion|INT||+1|
+|Représentation|CHA||+3|
+|Survie|SAG||+0|
+|Tromperie|CHA|x (Warlock)|+5|
 
 ## Traits
 ### Traits raciaux
@@ -76,6 +100,12 @@ You can summon the tentacle a number of times equal to your proficiency bonus, a
 
 #### Gift of the Sea
 You can breathe underwater.
+
+## Invocations Occultes
+
+*Agonizing Blast (Décharge déchirante)* - Quand vous lancez *décharge occulte*, ajoutez votre modificateur de Charisme aux dégâts causés par le sort.
+
+*Devil's Sight (Vision du Diable)* - Vous voyez normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.
 
 ### Maîtrises
 
@@ -125,6 +155,7 @@ You are from a distant place, one so remote that few of the common folk in the N
 Although you will undoubtedly find some of this land's ways to be strange and discomfiting, you can also be sure that some things its people take for granted will be to you new wonders that you've never laid eyes on before. By the same token, you're a person of interest, for good or ill, to those around you almost anywhere you go.
 
 ### Otherwordly patron - Fathomless
+![Ayum](./_images/Aiumhykl'itheth.png)
 You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
 
 Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron's grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
@@ -133,6 +164,7 @@ Entities of the deep that might empower a warlock include krakens, ancient water
 
 ### Choix
 *Raison du voyage* - Vagabond (désire voyager pour explorer le monde)
+
 *Origine* - Île d'Alaron (au large de la Côte des Epées)
 
 | | |
