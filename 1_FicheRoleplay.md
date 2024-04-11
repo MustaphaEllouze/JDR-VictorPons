@@ -5,43 +5,71 @@
 |||
 |-|-|
 |**Alignement**|Chaotic Neutral|
-|**MBTI**|???|
+|**MBTI**|INTP|
 |**Colors**|<img src="./_images/BluePip.png" alt="drawing" width="50"/><img src="./_images/BlackPip.png" alt="drawing" width="50"/><img src="./_images/RedPip.png" alt="drawing" width="50"/>|
 
-## Background (Player Handbook)
+## Background - Far Traveler
+Voir [Histoire](./HISTOIRE/_Sommaire.md).
 
-### Texte introductif
-Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common: they live out their lives without ever traveling more than a few miles from where they were born.
+De nature très curieuse, **Ayum** cherche toujours de la nouveauté et de la stimulation dans tout ce qu'il entreprend. Il s'est mis en voyage pour découvrir le plus possible sur le monde et ses merveilles.
 
-You aren't one of those folk.
+En tout cas, avant de faire la connaissance avec son *protecteur*...
 
-You are from a distant place, one so remote that few of the common folk in the North realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous stories. You have come to this part of Faerûn for your own reasons, which you might or might not choose to share.
+## Personnalité 
 
-Although you will undoubtedly find some of this land's ways to be strange and discomfiting, you can also be sure that some things its people take for granted will be to you new wonders that you've never laid eyes on before. By the same token, you're a person of interest, for good or ill, to those around you almost anywhere you go.
+### J'adore : 
+* Apprendre de nouvelles langues ; 
+* Découvrir de nouveaux ;
+* Découvrir de nouvelles saveurs ;
+* Regarder l'océan ;
+* La bague de mon grand-père ;
 
-### Otherwordly patron - Fathomless
-![Ayum](./_images/Aiumhykl'itheth.png)
-You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
+### Je déteste : 
+* Les légumes ;
+* Regarder l'eau qui n'est pas l'océan ; 
+* Les gens qui ne suivent pas mon plan ; 
+* Les gens qui s'approchent trop de mon espace personnel ;
+* Les gens qui ne comprennent pas ou jugent mes coutumes ;
 
-Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron's grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
+### Je suis prêt à faire du mal pour : 
+* Conserver ma liberté ;
 
-Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
-
-### Choix
-*Raison du voyage* - Vagabond (désire voyager pour explorer le monde)
-
-*Origine* - Île d'Alaron (au large de la Côte des Epées)
-
-| | |
-|-|-|
-|**Personnalité**|I have different assumptions from those around me concerning personal space, blithely invading others' space in innocence, or reacting to ignorant invasion of my own.|
-|**Idéaux**|*Adventure* - I'm far from home, and everything is strange and wonderful!|
-|**Liens**|My freedom is my most precious possession. I'll never let anyone take it from me again.|
-|**Défauts**|I don't take kindly to some of the actions and motivations of the people of this land, because these folk are different from me.|
-
+### Je le fais malgré moi : 
+* Mon accent (*italien*) ; 
+* Jouer avec la bague de mon grand-père ;
 
 
-### Autres
-Your accent, mannerisms, figures of speech, and perhaps even your appearance all mark you as foreign. Curious glances are directed your way wherever you go, which can be a nuisance, but you also gain the friendly interest of scholars and others intrigued by far-off lands, to say nothing of everyday folk who are eager to hear stories of your homeland.
+## Otherwordly patron - Fathomless
+![Aium](./_images/Aiumhykl'itheth.png)
 
-You can parley this attention into access to people and places you might not otherwise have, for you and your traveling companions. Noble lords, scholars, and merchant princes, to name a few, might be interested in hearing about your distant homeland and people.
+De son nom complet **Aiumhykl'iteeh'tha'graznolokanathraxiorvethulondriekantumalakar**, ou plus simplement **Aium**, cette entité vit dans les profondeurs de la mer des Épées. 
+
+Pas grand chose n'est connue à son sujet, puisqu'elle ne se déplace jamais près des côtes, et qu'elle reste tapie dans les profondeurs.
+
+**Aium** ne rêve que d'une chose : pouvoir un jour en savoir assez sur la terre ferme afin de pouvoir réduire en esclavage certains de ses habitants. Il est avide de pouvoir et ne s'arrêtera devant pas grand chose.
+
+**Ayum** et **Aium** se sont recontrés lorsque le bâteau d'**Ayum** qui devait l'amener d'**Alaron** à la **Porte de Baldur** s'est échoué. **Aium** lui alors proposé un pacte en échange de sa vie: lui servir d'yeux sur la terre ferme, et lui aider à comprendre d'avantage sur les us et coutumes des espèces vivant au-delà du rivage.
+
+### Termes du pacte
+Les termes du pacte dicté par **Aium** est très vague, ne se reposant pas sur la même rigueur bureaucratique que les démons et les fiélons.
+
+Pire encore, tous les termes du contrat on été énoncés avant son acceptation par **Ayum**, cependant un des termes était d'accepter l'effacement de tout souvenir lié au pacte.
+
+Les **conditions**, toutes inscrites dans la tête d'**Ayum**, lui sont dévoilés petit à petit, chaque case de sa mémoire revenant au fur et à mesure qu'**Aium** lui demande des services. 
+
+A ce jour, **Ayum** connaît les termes suivants : 
+* "Tu oublieras les termes du présent pacte."
+* "Tu n'as pas le droit d'atteindre à ta vie ou à ton intégrité physique."
+* "Tu devras te référer à moi comme si c'était toi même."
+* "Tu devras changer tes nom et prénom pour en choisir de nouveaux qui soit contenus dans le mien ; et tu devras oublier ton ancien nom."
+
+* "Tu porteras cette marque sur ton bras."
+* "Tu devras chercheras à collecter le sang du plus d'espèces intelligentes possibles et à les goûter".
+* "Tu te montreras le plus curieux possible sur les jeux de pouvoir politiques de la terre ferme et sur le moyen de les déstabiliser."
+
+### Particularités
+
+**Aium** possède les particularités suivantes qui en font un protecteur pour le moins étrange : 
+* Il n'apparaît à **Ayum** qu'en vision ou en s'exprimant à travers son corps ; 
+* Son regard apparaît parfois dans toute eau douce ou salée, afin de surveiller **Ayum**.
+
