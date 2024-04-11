@@ -1,5 +1,5 @@
 # Ayum Teeh
-![Ayum Teeh](./_images/AyumTeeh2.png)
+![Ayum Teeh](./_images/dynamicpose.png)
 
 ## Informations générales
 
@@ -18,36 +18,6 @@
 | **Emplacements de sort actuels** | 2 (level 1) | **Emplacements de sort max** | 2  |
 
 
-## Caractéristiques de combat
-| | |
-|-|-|
-|**Bonus d'initiative**|+3|
-|**Classe d'armure**|14 = 11 (Armure de cuir) + 3 (DEX)|
-|**Vitesse**|9m|
-|**Vitesse d'escalade**|6m|
-|**Vitesse de nage**|12m|
-
-### Attaques
-|Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
-|-|-|-|-|-|-|
-|**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
-|**Armes d'hast**|1d20+1|1d8-1 contondants||1d20+FOR+PROF|1d8+FOR|
-|**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
-|**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
-
-### Sorts
-
-*DD de sauvegarde contre les sorts* - **13** (8+prof+CHA)
-
-*Modificateur d'attaque pour les sorts* - **+5** (prof+CHA)
-
-|Nom - EN|Nom - FR|Level| Cheat Sheet |
-|-|-| - |-|
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA)|
-|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
-|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 5 PV, 5 dégâts|
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1|2d8, 4.5m portée, 3m poussée|
-|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m (Pas de Rituel casting)|
 
 ## Ability scores
 
@@ -82,24 +52,53 @@
 |Survie|SAG||+0|
 |Tromperie|CHA|x (Warlock)|+5|
 
-## Traits
-### Traits raciaux
-*Darkvision* - You have cat's keen senses, especially in the dark. You can see in dim light within 12m of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+## Caractéristiques de combat
+| | |
+|-|-|
+|**Bonus d'initiative**|+3|
+|**Classe d'armure**|14 = 11 (Armure de cuir) + 3 (DEX)|
+|**Vitesse**|9m|
+|**Vitesse d'escalade**|6m|
+|**Vitesse de nage**|12m|
 
-*Feline Agility* - Your reflexes and agility allow you to move with a burst of speed. When you move on your tum in combat, you can double your speed until the end of the tum. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+### Attaques
+|Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
+|-|-|-|-|-|-|
+|**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
+|**Armes d'hast**|1d20+1|1d8-1 contondants||1d20+FOR+PROF|1d8+FOR|
+|**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
+|**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
+
+### Sorts
+
+*DD de sauvegarde contre les sorts* - **13** (8+prof+CHA)
+
+*Modificateur d'attaque pour les sorts* - **+5** (prof+CHA)
+
+|Nom - EN|Nom - FR|Level| Cheat Sheet |
+|-|-| - |-|
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA)|
+|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
+|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 5 PV, 5 dégâts|
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1|2d8, 4.5m portée, 3m poussée|
+|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m (Pas de Rituel casting)|
+
+### Autres
+*Agilité féline* - Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez à votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser jusqu'à ce que vous vous déplaciez de 0 m à l'un de vos tours.
+
+*Tentacule des profondeurs*
+* Vous pouvez invoquer magiquement un tentacule spectral qui frappe vos ennemis. En tant qu'action bonus, vous créez un tentacule de 3 mètres de long à un point que vous pouvez voir dans un rayon de 12 mètres autour de vous. Le tentacule dure 1 minute ou jusqu'à ce que vous utilisiez cette caractéristique pour créer un autre tentacule.
+* Lorsque vous créez le tentacule, vous pouvez effectuer une attaque de sort en mêlée contre une créature située à moins de 3 mètres de lui. Si vous touchez, la cible subit 1d8 dégâts de froid et sa vitesse est réduite de 3 m jusqu'au début de votre prochain tour. 
+* Comme action bonus à votre tour, vous pouvez déplacer le tentacule jusqu'à 9 m et répéter l'attaque.
+* Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de compétence, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
+
+## Traits utilitaires
+### Traits raciaux
+*Vision dans le noir* - Vous avez les sens aiguisés d'un chat, surtout dans l'obscurité. Vous pouvez voir dans une lumière faible à moins de 12 m de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible. Dans l'obscurité, vous ne discernez pas les couleurs, mais seulement les nuances de gris.
+
 
 ### Traits de classe
-#### Tentacle of the Deep
-At 1st level, you can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 3m-long tentacle at a point you can see within 12m of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
-
-When you create the tentacle, you can make a melee spell attack against one creature within 3m of it. On a hit, the target takes 1d8 cold damage, and its speed is reduced by 3m until the start of your next turn. 
-
-As a bonus action on your turn, you can move the tentacle up to 9m and repeat the attack .
-
-You can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-#### Gift of the Sea
-You can breathe underwater.
+*Don de la mer* - Vous pouvez respirer sous l'eau
 
 ## Invocations Occultes
 
@@ -107,7 +106,7 @@ You can breathe underwater.
 
 *Devil's Sight (Vision du Diable)* - Vous voyez normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.
 
-### Maîtrises
+## Maîtrises
 
 | | |
 |-|-|
@@ -116,29 +115,3 @@ You can breathe underwater.
 |**Armures**|Légère|
 |**Armes**|Armes courantes|
 |**Outils**|Aucun|
-
-## Inventaire
-### Equipement
-* Vêtements de voyageur
-* Armure de cuir
-* Chamisen
-
-### Armes
-* Armes d'hast (bâton)
-* Arbalète légère et 20 carreaux
-* 2 Dagues
-
-### Objet
-* Carte peu précise de Faerûn
-* Anneau gravé, légué par son grand-père
-* Bourse
-* Arcane focus
-* Sac à dos
-* Livre d'histoire
-* Plume et encre
-* 10 parchemins
-* Petit sac de sable
-* Petit couteau
-
-### Argent
-5 pièces d'or 

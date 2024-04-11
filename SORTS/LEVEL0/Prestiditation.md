@@ -1,6 +1,6 @@
 # Prestidigitation
 
-![Prestidigitation](../../_images/Prestidigitation.png)
+![Prestidigitation](../../_images/prestidigitation2.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
