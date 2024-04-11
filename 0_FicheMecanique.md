@@ -43,11 +43,11 @@
 
 |Nom - EN|Nom - FR|Level| Cheat Sheet |
 |-|-| - |-|
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip||
-|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip||
-|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1||
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1||
-|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1||
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA)|
+|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
+|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 5 PV, 5 dégâts|
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1|2d8, 4.5m portée, 3m poussée|
+|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m (Pas de Rituel casting)|
 
 ## Ability scores
 

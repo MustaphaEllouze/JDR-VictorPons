@@ -1,6 +1,13 @@
 # Ayum Teeh
 ![Ayum Teeh](./_images/AyumTeeh2.png)
 
+## Personnalité
+|||
+|-|-|
+|**Alignement**|Chaotic Neutral|
+|**MBTI**|???|
+|**Colors**|<img src="./_images/BluePip.png" alt="drawing" width="50"/><img src="./_images/BlackPip.png" alt="drawing" width="50"/><img src="./_images/RedPip.png" alt="drawing" width="50"/>|
+
 ## Background (Player Handbook)
 
 ### Texte introductif
