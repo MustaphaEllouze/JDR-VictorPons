@@ -1,4 +1,4 @@
-# Thunderwave - Vague Tonnante
+# Unseen Servant - Serviteur invisible
 ![Unseen servant](../../_images/unseenservant.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
