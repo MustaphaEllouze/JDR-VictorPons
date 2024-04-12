@@ -14,7 +14,7 @@ Tout son clan se rappelle de lui comme d'un petit plaisantin, adorant jouer des 
 
 Malgré cela, il restait cependant en très bonne relation avec l'ensemble des membres de sa famille, notamment son grand-père (maternel) et sa mère. 
 
-Le jour où son grand-père est décédé de vieillesse, il lui confit sa **bague fétiche** sur son lit de mort, afin  qu'il la transmette à son tour à ses descendants s'il décidait un jour d'en avoir.
+Le jour où son grand-père est décédé de vieillesse, il lui confia sa **bague fétiche** sur son lit de mort, afin  qu'il la transmette à son tour à ses descendants s'il décidait un jour d'en avoir.
 
 Selon son grand-père, cette bague est supposée symboliser la paix intérieure et le calme. Afin de citer le dit grand-père : "Peut-être que àa t'apprendra un jour à poser ton putain de cul sur une chaise et d'arrêter de courir !".
 
