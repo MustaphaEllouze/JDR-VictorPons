@@ -7,7 +7,7 @@ Ayant toujours voulu voyager, **Ayum**, qui portait alors un autre nom, s'asseya
 
 Il était connu dans son clan pour faire les milles et un coups, s'absentant parfois de longues journées, avant de revenir couvert de blessures et de plaies. Il était tellement débrouillard et distrait que son entourage ne se préoccupaient plus de lui : il s'en sortirait facilement.
 
-Tout son clan se rappelle de lui comme d'un petit plaisantin, adorant jouer des tours à ceux qu'ils aiment bien, malgré sa maladresse. Ses curiosité lui joue souvent des tours : tout le monde se rappelle de la fois où il avait passé toute la nuit perché en haut d'un arbre de peur que l'ours-hibou qu'il avait réveillé ne vienne le chercher (l'ours-hibou avait en réalité était parti depuis bien longtemps...)
+Tout son clan se rappelle de lui comme d'un petit plaisantin, adorant jouer des tours à ceux qu'ils aiment bien, malgré sa maladresse. Ses curiosité lui joue souvent des tours : tout le monde se rappelle de la fois où il avait passé toute la nuit perché en haut d'un arbre de peur que le hibours qu'il avait réveillé ne vienne le chercher (le hibours avait en réalité était parti depuis bien longtemps...)
 
 ## Relations avec ses congénères
 **Ayum** a toujours été de nature très solitaire, même s'il adorait flâner parfois en compagnie de certaines personnes. 
