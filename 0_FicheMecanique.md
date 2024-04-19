@@ -8,14 +8,15 @@
 | **Nom** | Ayum Teeh | **Niveau** | 2 |
 | **Age** | 21 | **Classe** | Occultiste 2 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | 300 |
-| |  | **Race** | Tabaxi |
+|**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 15 | **HP Max** | 15 |
+| **HP actuels** | 9 | **HP Max** | 15 |
 | **Dés de vie actuels** | 2d8 | **Dés de vie max** | 2d8  |
 | **Emplacements de sort actuels** | 2 (level 1) | **Emplacements de sort max** | 2  |
+| **Charges Tentacules des Profondeurs** | 1 | **Charges Max. Tentacules des Profondeurs** | 2 |
 
 
 
@@ -90,7 +91,7 @@
 * Vous pouvez invoquer magiquement un tentacule spectral qui frappe vos ennemis. En tant qu'action bonus, vous créez un tentacule de 3 mètres de long à un point que vous pouvez voir dans un rayon de 12 mètres autour de vous. Le tentacule dure 1 minute ou jusqu'à ce que vous utilisiez cette caractéristique pour créer un autre tentacule.
 * Lorsque vous créez le tentacule, vous pouvez effectuer une attaque de sort en mêlée contre une créature située à moins de 3 mètres de lui. Si vous touchez, la cible subit 1d8 dégâts de froid et sa vitesse est réduite de 3 m jusqu'au début de votre prochain tour. 
 * Comme action bonus à votre tour, vous pouvez déplacer le tentacule jusqu'à 9 m et répéter l'attaque.
-* Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de compétence, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
+* Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
 
 ## Traits utilitaires
 ### Traits raciaux

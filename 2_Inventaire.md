@@ -18,7 +18,7 @@
 * Vêtements de voyageur
 
 ### Armes
-\-
+-
 
 ### Objets
 * Carte peu précise de Faerûn
@@ -30,11 +30,15 @@
 * 10 parchemins
 * Petit sac de sable
 * Petit couteau
+* Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; restants 10 jours)
+* Cahier où il écrit ses aventures
+* Pipe avec tête de Tabaxi dessus qui sourit
+* Pour une semaine de tabac
 
 ## Argent
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|5|
-|**Argent**|0|
+|**Or**|14|
+|**Argent**|7|
 |**Cuivre**|0|

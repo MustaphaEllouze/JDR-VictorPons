@@ -21,9 +21,12 @@ Depuis lors, **Aium**, qui cherche à en apprendre le plus possible sur la terre
 * "Tu n'as pas le droit d'atteindre à ta vie ou à ton intégrité physique."
 * "Tu devras te référer à moi comme si c'était toi même."
 * "Tu devras changer tes nom et prénom pour en choisir de nouveaux qui soit contenus dans le mien ; et tu devras oublier ton ancien nom."
-
 * "Tu porteras cette marque sur ton bras."
 * "Tu devras chercheras à collecter le sang du plus d'espèces intelligentes possibles et à les goûter".
+    * Gnome des profondeurs ;
+    * Kenku ;
+    * Humain ;
+
 * "Tu te montreras le plus curieux possible sur les jeux de pouvoir politiques de la terre ferme et sur le moyen de les déstabiliser."
 
 Coup de chance pour **Ayum** : sa volonté de découvrir le monde au-delà de la mer va de pair avec la volonté de son protecteur à découvrir la terre ferme. En espérant que cela dure...
