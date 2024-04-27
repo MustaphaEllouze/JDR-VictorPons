@@ -2,7 +2,7 @@
 
 ![Aium](./../_images/Aiumhykl'itheth.png)
 
-Le jour de ses 19 ans, il y a de cela 2 ans, **Ayum** avait réussi à rassembler assez d'argent avec sa famille afin de pouvoir s'acheter une place sur un bâteau de commerce afin d'aller sur le continent. 
+Le jour de ses 20 ans, il y a de cela 1 an, **Ayum** avait réussi à rassembler assez d'argent avec sa famille afin de pouvoir s'acheter une place sur un bâteau de commerce afin d'aller sur le continent. 
 
 Manque de chance, lors de la première nuit, une tempête fit rage et le bâteau tanguait violemment, si bien qu'**Ayum**, devant aider sur le pont, fut propulsé par dessus bord et tomba à la mer.
 
@@ -23,9 +23,6 @@ Depuis lors, **Aium**, qui cherche à en apprendre le plus possible sur la terre
 * "Tu devras changer tes nom et prénom pour en choisir de nouveaux qui soit contenus dans le mien ; et tu devras oublier ton ancien nom."
 * "Tu porteras cette marque sur ton bras."
 * "Tu devras chercheras à collecter le sang du plus d'espèces intelligentes possibles et à les goûter".
-    * Gnome des profondeurs ;
-    * Kenku ;
-    * Humain ;
 
 * "Tu te montreras le plus curieux possible sur les jeux de pouvoir politiques de la terre ferme et sur le moyen de les déstabiliser."
 

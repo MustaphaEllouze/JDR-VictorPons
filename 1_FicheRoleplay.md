@@ -19,7 +19,7 @@ En tout cas, avant de faire la connaissance avec son *protecteur*...
 
 ### J'adore : 
 * Apprendre de nouvelles langues ; 
-* Découvrir de nouveaux ;
+* Découvrir de nouveaux lieux;
 * Découvrir de nouvelles saveurs ;
 * Regarder l'océan ;
 * La bague de mon grand-père ;
