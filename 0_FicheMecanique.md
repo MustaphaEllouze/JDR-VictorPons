@@ -13,10 +13,11 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 9 | **HP Max** | 15 |
+| **HP actuels** | 15 | **HP Max** | 15 |
+| **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 2d8 | **Dés de vie max** | 2d8  |
 | **Emplacements de sort actuels** | 2 (level 1) | **Emplacements de sort max** | 2  |
-| **Charges Tentacules des Profondeurs** | 1 | **Charges Max. Tentacules des Profondeurs** | 2 |
+| **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 2 |
 
 
 
@@ -57,7 +58,7 @@
 | | |
 |-|-|
 |**Bonus d'initiative**|+3|
-|**Classe d'armure**|14 = 11 (Armure de cuir) + 3 (DEX)|
+|**Classe d'armure**|15 = 12 (Armure de cuir clouté) + 3 (DEX)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -66,7 +67,7 @@
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|
 |**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
-|**Armes d'hast**|1d20+1|1d8-1 contondants||1d20+FOR+PROF|1d8+FOR|
+|**Armes d'hast magique**|1d20+1|1d8-1 contondants||1d20+FOR+PROF|1d8+FOR|
 |**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
 |**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
@@ -92,6 +93,9 @@
 * Lorsque vous créez le tentacule, vous pouvez effectuer une attaque de sort en mêlée contre une créature située à moins de 3 mètres de lui. Si vous touchez, la cible subit 1d8 dégâts de froid et sa vitesse est réduite de 3 m jusqu'au début de votre prochain tour. 
 * Comme action bonus à votre tour, vous pouvez déplacer le tentacule jusqu'à 9 m et répéter l'attaque.
 * Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
+
+*Récupération d'emplacement de sort d'occultiste* (DISPONIBLE)
+* Une fois par repos long, vous pouvez consommer une charge pour récupérer un emplacement de sort d'occultiste.
 
 ## Traits utilitaires
 ### Traits raciaux

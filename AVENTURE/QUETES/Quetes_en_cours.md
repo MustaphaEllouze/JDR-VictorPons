@@ -10,6 +10,9 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
+* Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Tiffelin - Membre de l'administration de Eauprofonde ;
 
 ## Quête - Retrouver Floon
 Après une soirée à l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), [**Volo**](../PERSONNAGES/Volo.md) nous a accosté afin d'aller retrouver un de ses amis, [**Floon**](../PERSONNAGES/Floon.md) qui s'est perdu. Il nous a promis **100 pièces d'or** contre nos services.

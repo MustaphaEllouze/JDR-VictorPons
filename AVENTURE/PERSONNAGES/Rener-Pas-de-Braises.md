@@ -1,7 +1,8 @@
 # Rener Pas-de-Braises
 
-Noble, fils du **Seigneur Pas-de-Braises**, auquel il n'a pas parlé depuis des 
-années.
+Noble, fils de [**Dagult Pas-de-Braises**](./Dagult-Pas-de-Braises.md), seigneur actuel d'**Eauprofonde**, auquel il n'a pas parlé depuis des années.
+
+Connaît beaucoup de gens parmi les Aquaprofondiens.
 
 ## Quêtes liées
 * [Aller voir Rener pour une récompense](../QUETES/Quetes_en_cours.md#mission--aller-revoir-rener-pas-de-braises-chez-lui)
