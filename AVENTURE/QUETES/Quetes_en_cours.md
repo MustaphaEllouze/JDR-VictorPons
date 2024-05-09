@@ -7,11 +7,20 @@ Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûte
 
 A ce jour, j'ai réuni les espèces suivantes :
 
+*Dans l'ordre chronologique* :
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Tiffelin - Membre de l'administration de Eauprofonde ;
+
+*Dans l'ordre alphabétique* : 
+* Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
+* Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
+* Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tiffelin - Membre de l'administration de Eauprofonde ;
 
 ## Quête - Retrouver Floon

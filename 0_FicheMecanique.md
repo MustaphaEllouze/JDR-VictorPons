@@ -67,7 +67,7 @@
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|
 |**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
-|**Armes d'hast magique**|1d20+1|1d8-1 contondants||1d20+FOR+PROF|1d8+FOR|
+|**Sceptre du gardien des pactes +1**|1d20+2|1d8 contondants||1d20+FOR+PROF+1|1d8+FOR+1|
 |**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
 |**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
@@ -94,8 +94,8 @@
 * Comme action bonus à votre tour, vous pouvez déplacer le tentacule jusqu'à 9 m et répéter l'attaque.
 * Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
 
-*Récupération d'emplacement de sort d'occultiste* (DISPONIBLE)
-* Une fois par repos long, vous pouvez consommer une charge pour récupérer un emplacement de sort d'occultiste.
+*Sceptre du gardien des pactes +1* (DISPONIBLE)
+* Vous pouvez récupérer un emplacement de sort d'occultiste dépensé si vous tenez le sceptre en main. Coûte **une action** et une fois par **repos long**.
 
 ## Traits utilitaires
 ### Traits raciaux
