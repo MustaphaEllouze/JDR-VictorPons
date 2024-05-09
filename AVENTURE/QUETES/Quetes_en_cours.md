@@ -36,7 +36,7 @@ Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSON
 
 ### Mission - Attendre la rénovation du manoir
 Les rénovations sont en cours.
-> Nous devons patienter le temps des rénovations. Cela prendre quelques jours.
+> Nous devons patienter le temps des rénovations. Cela peut prendre quelques jours.
 
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
