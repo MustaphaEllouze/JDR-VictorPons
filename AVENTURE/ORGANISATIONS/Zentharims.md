@@ -5,6 +5,8 @@ Guilde d'Eauprofonde, en grande rivalité/tension avec [**la Guilde de Xanathar*
 
 Plusieurs membres peuvent traîner au [**Dragon Embrôché**](../Lieux.md#dragons-embrôché---taverne).
 
+On dit que l'organisation est perturbée par les luttes intestines pour la prise de pouvoir.
+
 ## Membres
 
 ### Yagra 

@@ -23,26 +23,46 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tiffelin - Membre de l'administration de Eauprofonde ;
 
-## Quête - Retrouver Floon
-Après une soirée à l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), [**Volo**](../PERSONNAGES/Volo.md) nous a accosté afin d'aller retrouver un de ses amis, [**Floon**](../PERSONNAGES/Floon.md) qui s'est perdu. Il nous a promis **100 pièces d'or** contre nos services.
+## Quête - Le Sceptre Noir
+### Mission - S'entretenir avec [Vajra](../PERSONNAGES/VajraSafahr.md)
 
-> Nous devons retrouver **Floon**.
+**Vajra Safahr**, le Sceptre Noir, nous a convoqués à la [**Tour du Sceptre Noir**](../Lieux.md#tour-du-sceptre-noir). 
 
-### Mission - Remonter la trace de Floon
-> Nous devons retracer tout le chemin de **Floon** pour pouvoir le retrouver.
+> Nous devrions aller voir ce qu'elle veut.
 
-**Volo** nous a indiqué que la dernière fois qu'il a vu **Floon**, ce dernier était à la [**Taverne du Dragon Embrôché**](../Lieux.md#dragon-embrôché---taverne), près du port.
+## Quête - Rénover le manoir de [Troll-Crâne](../ORGANISATIONS/EctoplasmeJoyeux.md)
+Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSONNAGES/Volo.md) nous a légué la possession du manoir de Troll-Crâne.
 
-**Robert**, l'aubergiste du **Dragon Embrôché**, nous a dit que Floon était parti avec une autre personne, qui avait l'air riche, et qui ont été suivis par cinq [**Zentharims**](../ORGANISATIONS/Zentharims.md). Les **Zentharims** ont emmenés les deux hommes à un de leur entrepôt du port.
 
-En arrivant à l'entrepôt, nous avons trouvé des membres de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md), dont des **Kenkus**, qui ont tué les **Zentharims**, et ont kidnappé **Floon** en passant par les **égoûts**, en laissant son ami sur place.
+### Mission - Attendre la rénovation du manoir
+Les rénovations sont en cours.
+> Nous devons patienter le temps des rénovations. Cela prendre quelques jours.
 
-Nous avons trouvé l'ami en question après un combat avec les **Kenkus** : il se prénomme [**Rener Pas-de-Braises**](../PERSONNAGES/Rener-Pas-de-Braises.md) et est le fils d'une personnalité important d'**Eauprofonde**.
 
-En passant par les égoûts avec **Rener**, nous sommes arrivés à une taverne contrôlée par des membres de la **Guilde de Xanathar**, le [**Poisson Grimaçant**](../Lieux.md#poisson-grimaçant---taverne). Nous nous sommes retrouvés à combattre les chefs des lieux.
+## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
+### Mission - Enquêter sur les luttes de pouvoir internes
+Nous avons appris que les **Zentharims** sont actuellement proie à des luttes intestines sur la prise de pouvoir de leur organisation.
 
-### Mission : Aller revoir Rener Pas-de-braises chez lui
-En cherchant [**Floon**](../PERSONNAGES/Floon.md), nous sommes tombés sur l'un de ses amis, [**Rener Pas-de-braises**](../PERSONNAGES/Rener-Pas-de-Braises.md).
+> Je devrais me renseigner sur leur politique interne.
+
+## Quête - Enquêter sur la [guilde de Xanathar](../ORGANISATIONS/GuildeDeXanathar.md)
+La **guilde de Xanathar** n'est qu'un nouveau joueur dans la ville d'Eauprofonde, puisqu'elle n'est présente que depuis quelques mois.
+
+### Mission - Enquêter sur le lien entre le flagelleur mental et la guilde de Xanathar
+En fouillant dans le repère des membres de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md), nous avons dû affronté un membre de la guilde, qui s'était allié à un **flagelleur mental**.
+
+> Je devrais en apprendre plus sur le lien entre la **guilde** et les **flagelleurs mentaux**.
+
+### Mission - Enquêter sur l'arche mytérieuse
+En fouillant dans le repères des membres de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md), nous avons trouvé une arche mystérieuse qui contient un trou en forme du symbole de la guilde.
+
+> Je devrais chercher à apprendre plus sur la signification de cette arche.
+
+### Mission - Enquêter sur les membres de la guilde.
+
+> Nous devrions essayer d'en apprendre plus sur les membres de la guilde.
+
+Nous avons appris que l'un des chefs de la guilde était **Xorg**.
 
 ## Quête - Enquêter sur les négociations entre Xanathariens et Zentharims
 En passant du temps dans l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), nous avons vu [**Yagra**](../ORGANISATIONS/Zentharims.md#yagra) se disputer avec des membres de la guilde de [**Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md). 
@@ -51,7 +71,13 @@ Nous avons appris plus tard que cette altercation était due à des négocations
 
 > Je devrais enquêter sur le contenu de ces négocations.
 
+## Quête - Les politiques d'Eauprofonde
+
+### Mission - Se renseigner sur le prochain seigneur
+Le seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md) a pris congé. Les [**Seigneurs Masqués**](../ORGANISATIONS/LesSeigneursMasqués.md) doivent se réunir sous peu afin d'élire un nouveau seigneur de la ville.
+
+> Je devrais essayer de me renseigner sur les potentiels candidats.
+
 ## Quêtes triviales
-* Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).
 * Trouver du tabac pour ma pipe (OK pour une semaine)
 * Se venger de la façon dont [Xoblob](../PERSONNAGES/Xoblob.md) nous a traîté.

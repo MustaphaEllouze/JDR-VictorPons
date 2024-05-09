@@ -19,3 +19,11 @@ Un **tyrannoeil** y est empaillé et exposé en vitrine.
 
 ## Poisson grimaçant - Taverne
 Taverne par laquelle nous nous sommes introduits. Des [**Xanathariens**](./ORGANISATIONS/GuildeDeXanathar.md) semblent être les maîtres des lieux.
+
+## Concotions de Frewn - Taverne
+Cette taverne se situe près de notre taverne, l'[Ectoplasme Joyeux](./ORGANISATIONS/EctoplasmeJoyeux.md). Elle de se fait un concurrent direct.
+
+Le patron s'appelle **Frewn**. Le barman **Christophe**, un gnome des profondeurs.
+
+## Tour du Sceptre Noir
+Cette tour est la demeure du **Sceptre Noir**, la personne qui est en charge des défenses magiques de la ville d'Eauprofonde. Il s'agit actuellement de [**Vajra Safahr**](./PERSONNAGES/VajraSafahr.md).
