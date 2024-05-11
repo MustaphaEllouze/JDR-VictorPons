@@ -25,5 +25,8 @@ Cette taverne se situe près de notre taverne, l'[Ectoplasme Joyeux](./ORGANISAT
 
 Le patron s'appelle **Frewn**. Le barman **Christophe**, un gnome des profondeurs.
 
-## Tour du Sceptre Noir
+## [Tour du Sceptre Noir](./ORGANISATIONS/TourDuBatonNoir.md)
 Cette tour est la demeure du **Sceptre Noir**, la personne qui est en charge des défenses magiques de la ville d'Eauprofonde. Il s'agit actuellement de [**Vajra Safahr**](./PERSONNAGES/VajraSafahr.md).
+
+## La Prison de Pas-de-Brumes
+Prison située près de l'entrée de la ville.

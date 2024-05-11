@@ -25,27 +25,22 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Tabaxi - Moi-même ;
 * Tiffelin - Membre de l'administration de Eauprofonde ;
 
-## Quête - Le Sceptre Noir
-### Mission - S'entretenir avec [Vajra](../PERSONNAGES/VajraSafahr.md)
+## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
 
-**Vajra Safahr**, le Sceptre Noir, nous a convoqués à la [**Tour du Sceptre Noir**](../Lieux.md#tour-du-sceptre-noir). 
+### Mission - Décider de la façon de faire
+**Frewn** a souhaité faire mauvaise réputation à notre taverne en engageant des membres des **Zentharims** pour faire mine qu'ils étaient contre l'ouverture de notre taverne. 
 
-> Nous devrions aller voir ce qu'elle veut.
-
-## Quête - Rénover le manoir de [Troll-Crâne](../ORGANISATIONS/EctoplasmeJoyeux.md)
-Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSONNAGES/Volo.md) nous a légué la possession du manoir de Troll-Crâne.
-
-
-### Mission - Attendre la rénovation du manoir
-Les rénovations sont en cours.
-> Nous devons patienter le temps des rénovations. Cela peut prendre quelques jours.
-
+> Je veux me venger, mais je dois décider de la façon de faire. Je peux brûler sa maison et son auberge.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes
 Nous avons appris que les **Zentharims** sont actuellement proie à des luttes intestines sur la prise de pouvoir de leur organisation.
 
 > Je devrais me renseigner sur leur politique interne.
+
+Nous avons appris de la part de [**Vajra**](../PERSONNAGES/VajraSafahr.md) que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde) serait à la tête de la guilde, et qu'il agirait vers l'hiver, ce qui nous laisse neuf mois pour ancitiper ses actions. 
+
+Nous avons également appris qu'une partie de la guilde serait gérée par [**Le Croc Doré**](../ORGANISATIONS/Zentharims.md#le-croc-doré), un groupe d'ancien aventuriers.
 
 ## Quête - Enquêter sur la [guilde de Xanathar](../ORGANISATIONS/GuildeDeXanathar.md)
 La **guilde de Xanathar** n'est qu'un nouveau joueur dans la ville d'Eauprofonde, puisqu'elle n'est présente que depuis quelques mois.

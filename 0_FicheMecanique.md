@@ -120,3 +120,7 @@
 |**Armures**|Légère|
 |**Armes**|Armes courantes|
 |**Outils**|Aucun|
+
+## Organisations 
+* [**L'Ectoplasme Joyeux**](./AVENTURE/ORGANISATIONS/EctoplasmeJoyeux.md) - Co-fondateur et co-propriétaire
+* [**Force Grise**](./AVENTURE/ORGANISATIONS/ForceGrise.md) - Membre

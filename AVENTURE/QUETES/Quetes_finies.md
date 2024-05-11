@@ -45,5 +45,41 @@ Après avoir parlé à [**Rener**](../PERSONNAGES/Rener-Pas-de-Braises.md), il a
 
 Nous avons décidé d'appeler la taverne l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJoyeux.md).
 
+## Quête - La Force Grise
+### Mission - S'entretenir avec [Vajra](../PERSONNAGES/VajraSafahr.md)
+
+**Vajra Safahr**, le Sceptre Noir, nous a convoqués à la [**Tour du Sceptre Noir**](../Lieux.md#tour-du-sceptre-noir). 
+
+Elle nous a proposé de faire partie de la [**Force Grise**](../ORGANISATIONS/ForceGrise.md), une organisation qui agit comme  une force complémentaire à la garde de la ville.
+
+Nous avons accepté et nous faisons à présent partie de la **Force Grise**.
+
+Nous avons accepté de mener une mission pour elle, en échange d'informations sur la famille de [**Finn**](../PERSONNAGES/Finn.md), du paiement intégral de notre taxe de séjour, ainsi que de l'acquittement de notre contribution à la Guilde des Mages.
+
+### Mission - Aller voir le Haln le moine
+[Vajra](../PERSONNAGES/VajraSafahr.md) nous a demandé d'aller voir [**Haln**](../PERSONNAGES/Haln.md), un moine sage qui vit non loin de la ville, afin qu'il nous transmette sa prédiction quant aux menaces qui planent sur la ville d'**Eauprofonde**.
+
+Il nous a dit ceci : "Le jumeau maléfique se terre dans l'ombre : il en sortira à l'hiver, c'est tout, et oui c'est tout".
+
+[**Seemon**](../PERSONNAGES/Seemon.md) a appris un sort de la part de **Hlan**.
+
+**Vajra** a interprété ceci comme une preuve que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde), maître de la guilde des **Zentharims**, doit émerger de l'ombre à l'hiver prochain. 
+
+## Quête - Rénover le manoir de [Troll-Crâne](../ORGANISATIONS/EctoplasmeJoyeux.md)
+Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSONNAGES/Volo.md) nous a légué la possession du manoir de Troll-Crâne.
+
+
+### Mission - Attendre la rénovation du manoir
+Les rénovations sont terminées et l'inauguration s'est bien déroulée.
+
+### Mission - Organiser l'inauguration de la taverne
+Avec l'aide de [**Rener**](../PERSONNAGES/Rener-Pas-de-Braises.md), nous avons pu organiser l'inauguration de la taverne de l'[Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md). Plusieurs activités étaient prévu : concert organiser par **Volo**, concours de prestidigitation de la part des étudiants de la [**Tour du Bâton Noir**](../ORGANISATIONS/TourDuBatonNoir.md), musique assurée par les marins du [**Parangon**](../ORGANISATIONS/LeParangon.md), etc.
+
+La publicité de l'organisation a été principalement faite par **Rener** via la technique du *Point-de-force* pour faire les flyers et les affiches.
+
+La fête a été perturbée par [Frewn](../Lieux.md#concotions-de-frewn---taverne) et une bande de **Zentharims** déguisés en tant que membre du clergé de **Lathandre**.
+
+Nous avons livré **Frewn** à l'inspecteur [**Staget**](../ORGANISATIONS/PoliceDEauprofonde.md#inspecteur-staget).
+
 ## Quêtes triviales
 * Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).

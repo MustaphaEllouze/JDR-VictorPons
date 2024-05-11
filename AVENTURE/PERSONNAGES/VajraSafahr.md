@@ -3,4 +3,6 @@
 
 **Vajra** est **le Secptre Noir**, est s'occupe de se fait des défenses magiques de la ville.
 
-Son **secptre** lui sert d'actionneur des statues géantes qui garde la ville d'Eauprofonde.
+La rumeur raconte que son **secptre** lui permet d'actionner les statues géantes qui garde la ville d'Eauprofonde.
+
+Elle a été nommée par [**Dagult Pas-de-Braises**](./Dagult-Pas-de-Braises.md) suite au décès de son maître [**Ansum**](./Ansum.md).

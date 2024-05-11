@@ -6,5 +6,4 @@
 
 * Responsable du **District du Port**
 * Il était en planque en train de surveiller l'entrepôt [**Zentharim**](../ORGANISATIONS/Zentharims.md).
-
-> **Ayum** : Il a l'air d'un lâche, je l'aime pas trop.
+* Checher à avoir les bonnes graces de [**Vajra**](../PERSONNAGES/VajraSafahr.md).

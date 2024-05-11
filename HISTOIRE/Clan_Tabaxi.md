@@ -22,5 +22,9 @@ Selon son grand-père, cette bague est supposée symboliser la paix intérieure 
 
 ## Kidnapping par un camp de gobelins
 
-Il fit une frayeur à son clan une fois, où il s'était aventuré trop près d'un village gobelin, voulant trouver un coin paisible pour jouer de son instrument préféré, le chamisen. Le chef gobelin l'avait alors capturé et forcé à être son barde personnel pendant plusieurs semaines. "Une occasion en or d'apprendre le gobelin !" avait-il annoncé en revenant chez lui, ayant réussi à s'enfuir de sa cage un soir où les gobelins avaient trop bu.
+Il fit une frayeur à son clan une fois, où il s'était aventuré trop près d'un village gobelin, voulant trouver un coin paisible pour jouer de son instrument préféré, le chamisen. Le chef gobelin l'avait alors capturé et forcé à être son barde personnel pendant plusieurs semaines. "Une occasion en or d'apprendre le gobelin !" avait-il annoncé en revenant chez lui, ayant réussi à s'enfuir de sa cage. 
 
+Sa fuite n'a pas du tout été préméditée, puisqu'elle est arrivée par hasard un soir où le chef du camp gobelin avait trop bu, et qu'il essaya de frimer auprès de sa conquête du soir en lui montrant **Ayum**. Ce dernier a alors profité du fait que la cage ait mal été refermée et du fait que les deux gobelins étaient trop occupés à *faire leur affaire* pour les assomer et s'enfuir.
+
+## La Switoffisse
+Cette technique provenant du clan permet de faire efficacement la publicité de quelque chose en faisant fonctionner le bouche à oreille.
