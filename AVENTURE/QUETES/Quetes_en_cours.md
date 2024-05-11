@@ -14,6 +14,7 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Tiffelin - Membre de l'administration de Eauprofonde ;
+* Tabaxi - Moi-même ;
 
 *Dans l'ordre alphabétique* : 
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
@@ -21,6 +22,7 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
+* Tabaxi - Moi-même ;
 * Tiffelin - Membre de l'administration de Eauprofonde ;
 
 ## Quête - Le Sceptre Noir

@@ -10,7 +10,7 @@ Ce sort est un sort mineur basique que les incantateurs novices utilisent pour s
 * Vous créez un effet sensoriel immédiat et inoffensif, comme une pluie d'étincelles, un coup de vent, de faibles notes de musique, ou une odeur étrange.
 * Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
 * Vous nettoyez ou salissez instantanément un objet ne faisant pas plus de 30 décimètres cubes (un cube de 30 cm de côté).
-* Vou refroidissez, réchauffez ou aromatisez jusqu'à 30 décimètres cubes (un cube de 30 cm de côté) de matière non vivante pendant 1 heure.
+* Vous refroidissez, réchauffez ou aromatisez jusqu'à 30 décimètres cubes (un cube de 30 cm de côté) de matière non vivante pendant 1 heure.
 * Vous faites apparaître une couleur, une petite marque ou un symbole sur un objet ou une surface pendant 1 heure.
 * Vous créez un colifichet non magique ou une image illusoire tenant dans votre main, qui persiste jusqu'à la fin de votre prochain tour.
 

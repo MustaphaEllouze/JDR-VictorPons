@@ -11,4 +11,4 @@ Pendant qu'il était au village de drakéides, un navire se fit attaquer par des
 
 Après quelques répérations, le bâteau a pu reprendre sa route vers **Eauprofonde**, et **Ayum** en profita pour se joindre à eux, afin de découvrir du pays.
 
-C'est sur le **Parangon** qu'il fit la rencontre de [**Finn**](../AVENTURE/PERSONNAGES/Finn.md) et [**Seamon**](../AVENTURE/PERSONNAGES/Seamon.md).
+C'est sur le **Parangon** qu'il fit la rencontre de [**Finn**](../AVENTURE/PERSONNAGES/Finn.md) et [**Seemon**](../AVENTURE/PERSONNAGES/Seemon.md).

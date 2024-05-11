@@ -1,9 +1,10 @@
 # L'Ectoplasme Joyeux - Taverne
+![Ectoplasme Joyeux](../../_images/logo_ectoplasme.png)
 Cette taverne a été crée par nous, et se situe dans les locaux du **manoir de Troll-Crâne**.
 
 La taverne est tenue par nous-même, ainsi que par [**Asif**](#asif---tavernier), qui hante les lieux.
 
-La taverne est détenue à 1/3 par [Rener Pas-de-braises](../PERSONNAGES/Rener-Pas-de-Braises.md), et à 2/3 par moi-même, [Finn](../PERSONNAGES/Finn.md) et [Seamon](../PERSONNAGES/Seamon.md).
+La taverne est détenue à 1/3 par [Rener Pas-de-braises](../PERSONNAGES/Rener-Pas-de-Braises.md), et à 2/3 par moi-même, [Finn](../PERSONNAGES/Finn.md) et [Seemon](../PERSONNAGES/Seemon.md).
 
 ## Descrption
 La taverne se situe dans un ancien manoir, le **manoir de Troll-Crâne**.

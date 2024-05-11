@@ -40,6 +40,7 @@
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; restants 10 jours)
+* Carte d'accréditation de la [**Main Grise**](./AVENTURE/ORGANISATIONS/ForceGrise.md)
 
 *Stylés*
 * Anneau gravé, légué par son grand-père
@@ -55,6 +56,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|38|
+|**Or**|50|
 |**Argent**|7|
 |**Cuivre**|0|

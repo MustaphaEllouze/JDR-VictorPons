@@ -17,7 +17,7 @@ La boutique est entièrement décorée en violet, et sent la lavande.
 
 Un **tyrannoeil** y est empaillé et exposé en vitrine.
 
-## Poisson grimaçant - Taverne
+## Poisson Grimaçant - Taverne
 Taverne par laquelle nous nous sommes introduits. Des [**Xanathariens**](./ORGANISATIONS/GuildeDeXanathar.md) semblent être les maîtres des lieux.
 
 ## Concotions de Frewn - Taverne

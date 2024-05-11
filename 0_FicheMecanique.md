@@ -13,9 +13,9 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 15 | **HP Max** | 15 |
+| **HP actuels** | 14 | **HP Max** | 15 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 2d8 | **Dés de vie max** | 2d8  |
+| **Dés de vie actuels** | 1d8 | **Dés de vie max** | 2d8  |
 | **Emplacements de sort actuels** | 2 (level 1) | **Emplacements de sort max** | 2  |
 | **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 2 |
 
