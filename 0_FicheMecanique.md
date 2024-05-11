@@ -5,18 +5,18 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 2 |
-| **Age** | 21 | **Classe** | Occultiste 2 |
-| **Alignement** | Chaotic Neutral  | **Expérience** | 300 |
+| **Nom** | Ayum Teeh | **Niveau** | 3 |
+| **Age** | 21 | **Classe** | Occultiste 3 |
+| **Alignement** | Chaotic Neutral  | **Expérience** | *Threshhold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 14 | **HP Max** | 15 |
+| **HP actuels** | 21 | **HP Max** | 21 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 1d8 | **Dés de vie max** | 2d8  |
-| **Emplacements de sort actuels** | 2 (level 1) | **Emplacements de sort max** | 2  |
+| **Dés de vie actuels** | 3d8 | **Dés de vie max** | 3d8  |
+| **Emplacements de sort actuels** | 2 (level 2) | **Emplacements de sort max** | 2  |
 | **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 2 |
 
 
@@ -68,6 +68,7 @@
 |-|-|-|-|-|-|
 |**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
 |**Sceptre du gardien des pactes +1**|1d20+2|1d8 contondants||1d20+FOR+PROF+1|1d8+FOR+1|
+|**Sceptre du gardien des pactes +1 / Shillelagh**|1d20+6|1d8+4 contondants||1d20+CHA+PROF+1|1d8+CHA+1|
 |**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
 |**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
@@ -77,13 +78,29 @@
 
 *Modificateur d'attaque pour les sorts* - **+5** (prof+CHA)
 
+#### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet |
 |-|-| - |-|
 |[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA)|
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
-|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 5 PV, 5 dégâts|
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague tonnante|Level 1|2d8, 4.5m portée, 3m poussée|
-|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m (Pas de Rituel casting)|
+|[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute|
+|[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus|
+|[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure|
+
+#### Leveled Spells
+|Nom - EN|Nom - FR|Level| Cheat Sheet |
+|-|-| - |-|
+|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts|
+|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m|
+|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution|
+|[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)|
+
+#### Rituels
+
+|Nom - EN|Nom - FR|Level| Cheat Sheet |
+|-|-| - |-|
+|[**Find Familiar**](./SORTS/LEVEL1/FindFamiliar.md)|Appel de familier|Level 1|**10po**, 1 heure (Rituel uniquement)|
+|[**Detect Magic**](./SORTS/LEVEL1/DetectMagic.md)|Détection de la magie|Level 1|9m (Rituel uniquement)|
 
 ### Autres
 *Agilité féline* - Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez à votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser jusqu'à ce que vous vous déplaciez de 0 m à l'un de vos tours.
@@ -105,11 +122,21 @@
 ### Traits de classe
 *Don de la mer* - Vous pouvez respirer sous l'eau
 
+### Pacte du Grimoire
+Votre protecteur vous donne un grimoire appelé un **livre des ombres** : 
+* Quand vous gagnez cette aptitude, vous choisissez trois sorts mineurs dans n'importe quelle liste de sorts. Tant que le livre est sur vous, vous pouvez lancer ces sorts mineurs à volonté et ils ne comptent pas dans le nombre de sorts mineurs que vous connaissez. Vous les considérez comme des sorts d'occultiste.
+* Si vous perdez votre livre, vous pouvez accomplir une cérémonie d'une heure pour que votre protecteur vous donne une nouveau livre de remplacement.
+* Votre livre des ombres se désagrège à votre mort.
+
 ## Invocations Occultes
 
 *Agonizing Blast (Décharge déchirante)* - Quand vous lancez *décharge occulte*, ajoutez votre modificateur de Charisme aux dégâts causés par le sort.
 
-*Devil's Sight (Vision du Diable)* - Vous voyez normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.
+*Book of Ancient Secrets (Livre des secrets anciens)*
+* Vous pouvez maintenant inscrire des rituels magiques dans votre livre des ombres. Choisissez deux sorts de niveau 1 dotés de la mention *rituel* dans n'importe quelle liste de sort. Ces sorts apparaissent dans votre livre et ne sont pas comptabilisés dans le nombre de sorts que vous connaissez. 
+* Quand vous avez votre livre des ombres en main, vous pouvez lancer les sorts que vous avez choisis en tant que rituels. Vous pouvez lancer ces sorts uniquement comme des rituels.
+* Vous pouvez lancer un sort d'occultiste que vous conaissez comme un rituel s'il possède la mention *rituel*.
+* Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l'ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau d'occultiste (arrondi au supérieur). Pour chaque niveau de sort, le processus de transcription prend deux heures et coûte 50 PO.
 
 ## Maîtrises
 
