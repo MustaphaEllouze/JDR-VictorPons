@@ -7,7 +7,7 @@
 |---|---|---|---|
 | **Nom** | Ayum Teeh | **Niveau** | 3 |
 | **Age** | 21 | **Classe** | Occultiste 3 |
-| **Alignement** | Chaotic Neutral  | **Expérience** | *Threshhold* |
+| **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +2 |
 

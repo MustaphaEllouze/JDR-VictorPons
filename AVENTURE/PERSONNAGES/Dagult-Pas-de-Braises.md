@@ -5,4 +5,4 @@ Seigneur d'**Eauprofonde**. Après son départ, les **Seigneurs Masqués** doive
 Il a selon la rumeur caché une grande somme d'argent dans la ville.
 
 ## Relations
-* [Rener Pas-de-Braises](./Rener-Pas-de-Braises.md) - **fils**
+* [Renaer Pas-de-Braises](./Renaer-Pas-de-Braises.md) - **fils**

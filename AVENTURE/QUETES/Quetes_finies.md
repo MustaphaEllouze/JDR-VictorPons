@@ -13,18 +13,18 @@ Nous avons retrouvé **Floon** et nous sommes allés retrouvés **Volo** qui nou
 
 En arrivant à l'entrepôt, nous avons trouvé des membres de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md), dont des **Kenkus**, qui ont tué les **Zentharims**, et ont kidnappé **Floon** en passant par les **égoûts**, en laissant son ami sur place.
 
-Nous avons trouvé l'ami en question après un combat avec les **Kenkus** : il se prénomme [**Rener Pas-de-Braises**](../PERSONNAGES/Rener-Pas-de-Braises.md) et est le fils d'une personnalité important d'**Eauprofonde**.
+Nous avons trouvé l'ami en question après un combat avec les **Kenkus** : il se prénomme [**Renaer Pas-de-Braises**](../PERSONNAGES/Renaer-Pas-de-Braises.md) et est le fils d'une personnalité important d'**Eauprofonde**.
 
-En passant par les égoûts avec **Rener**, nous sommes arrivés à une taverne contrôlée par des membres de la **Guilde de Xanathar**, le [**Poisson Grimaçant**](../Lieux.md#poisson-grimaçant---taverne). Nous nous sommes retrouvés à combattre les chefs des lieux.
+En passant par les égoûts avec **Renaer**, nous sommes arrivés à une taverne contrôlée par des membres de la **Guilde de Xanathar**, le [**Poisson Grimaçant**](../Lieux.md#poisson-grimaçant---taverne). Nous nous sommes retrouvés à combattre les chefs des lieux.
 
 En continuant notre périple dans les égoûts, nous avons trouvé un repère des **Xanathariens**. Nous avons éliminé l'ensemble des membres de la guilde, qui retenaient **Floon** en otage. Nous avons pu le libérer.
 
 Nous sommes ressortis par un hôtel gardé par un membre de la **Guilde de Xanathar**.
 
-### Mission : Aller revoir Rener Pas-de-braises chez lui
-En cherchant [**Floon**](../PERSONNAGES/Floon.md), nous sommes tombés sur l'un de ses amis, [**Rener Pas-de-braises**](../PERSONNAGES/Rener-Pas-de-Braises.md).
+### Mission : Aller revoir Renaer Pas-de-braises chez lui
+En cherchant [**Floon**](../PERSONNAGES/Floon.md), nous sommes tombés sur l'un de ses amis, [**Renaer Pas-de-braises**](../PERSONNAGES/Renaer-Pas-de-Braises.md).
 
-Nous sommes retournés voir **Rener**, qui nous a grassement recompensés, et qui s'est allié à nous pour restaurer la taverne de [l'Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md).
+Nous sommes retournés voir **Renaer**, qui nous a grassement recompensés, et qui s'est allié à nous pour restaurer la taverne de [l'Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md).
 
 ## Quête - Rénover le manoir de [Troll-Crâne](../ORGANISATIONS/EctoplasmeJoyeux.md)
 Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSONNAGES/Volo.md) nous a légué la possession du manoir de Troll-Crâne.
@@ -39,9 +39,9 @@ Après avoir parlé avec lui, nous avons appris qu'il était ici depuis longtemp
 ### Mission : Trouver les financements
 Nous avons fait estimer les frais liés à la rénovation du manoir en taverne, qui est dans un état déplorable. Le prix était trop élevé pour nous pour l'isntant (**1000 PO** pour les rénovations, et **250 PO** pour la participation à la **Guilde des Taverniers**).
 
-Après avoir parlé à [**Rener**](../PERSONNAGES/Rener-Pas-de-Braises.md), il a bien voulu financer intégralement la rénovation de la taverne, à condition de récupérer **1/3** des bénifices.
+Après avoir parlé à [**Renaer**](../PERSONNAGES/Renaer-Pas-de-Braises.md), il a bien voulu financer intégralement la rénovation de la taverne, à condition de récupérer **1/3** des bénifices.
 
-**Rener** a tout avancé et a payé intégralement les frais.
+**Renaer** a tout avancé et a payé intégralement les frais.
 
 Nous avons décidé d'appeler la taverne l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJoyeux.md).
 
@@ -73,9 +73,9 @@ Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSON
 Les rénovations sont terminées et l'inauguration s'est bien déroulée.
 
 ### Mission - Organiser l'inauguration de la taverne
-Avec l'aide de [**Rener**](../PERSONNAGES/Rener-Pas-de-Braises.md), nous avons pu organiser l'inauguration de la taverne de l'[Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md). Plusieurs activités étaient prévu : concert organiser par **Volo**, concours de prestidigitation de la part des étudiants de la [**Tour du Bâton Noir**](../ORGANISATIONS/TourDuBatonNoir.md), musique assurée par les marins du [**Parangon**](../ORGANISATIONS/LeParangon.md), etc.
+Avec l'aide de [**Renaer**](../PERSONNAGES/Renaer-Pas-de-Braises.md), nous avons pu organiser l'inauguration de la taverne de l'[Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md). Plusieurs activités étaient prévu : concert organiser par **Volo**, concours de prestidigitation de la part des étudiants de la [**Tour du Bâton Noir**](../ORGANISATIONS/TourDuBatonNoir.md), musique assurée par les marins du [**Parangon**](../ORGANISATIONS/LeParangon.md), etc.
 
-La publicité de l'organisation a été principalement faite par **Rener** via la technique du *Point-de-force* pour faire les flyers et les affiches.
+La publicité de l'organisation a été principalement faite par **Renaer** via la technique du *Point-de-force* pour faire les flyers et les affiches.
 
 La fête a été perturbée par [Frewn](../Lieux.md#concotions-de-frewn---taverne) et une bande de **Zentharims** déguisés en tant que membre du clergé de **Lathandre**.
 

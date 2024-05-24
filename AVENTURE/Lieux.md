@@ -30,3 +30,9 @@ Cette tour est la demeure du **Sceptre Noir**, la personne qui est en charge des
 
 ## La Prison de Pas-de-Brumes
 Prison située près de l'entrée de la ville.
+
+## La Couronne du Corellon
+Apothicaire
+
+## Le repos du Tyranooeil
+Hôtel affilié avec les Xanathariens
