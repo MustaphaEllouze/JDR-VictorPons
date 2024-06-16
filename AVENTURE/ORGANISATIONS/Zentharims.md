@@ -25,5 +25,10 @@ Ce **Manshoon** serait à la tête des **Zentharims**.
 * Traîne au [**Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md)
 * Nous avons rencontré **Yagra** au **Portail Soupirant** alors qu'elle était en train de s'énerver sur des membres de la [**Guilde de Xanathar**](./GuildeDeXanathar.md).
 
+### Urstul Floxin
+![Urtsul Floxin](../../_images/Urtul.PNG.webp)
+
+Un des chefs des Zentharims.
+
 ### Le Croc Doré
 Ancien groupe d'aventuriers, ce groupuscule des **Zentharims** s'occuperait de la gestion des actifs, des négociations et de la gestion des forces de l'organisation.

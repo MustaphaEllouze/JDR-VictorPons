@@ -34,5 +34,5 @@ Prison située près de l'entrée de la ville.
 ## La Couronne du Corellon
 Apothicaire
 
-## Le repos du Tyranooeil
+## Le repos du Tyranoeil
 Hôtel affilié avec les Xanathariens

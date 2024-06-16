@@ -25,12 +25,34 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Tabaxi - Moi-même ;
 * Tiffelin - Membre de l'administration de Eauprofonde ;
 
-## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
+## Quête - Le trésor de Pas-de-braises
 
-### Mission - Décider de la façon de faire
-**Frewn** a souhaité faire mauvaise réputation à notre taverne en engageant des membres des **Zentharims** pour faire mine qu'ils étaient contre l'ouverture de notre taverne. 
+### Mission - Identifier la localisation du trésor
+Après discussion avec [**Renaer**](../PERSONNAGES/Rener-Pas-de-Braises.md), nous avons appris que le trésor de son père était estimé à 500.000 pièces d'or. **Renaer** nous a promis 100.000 pièces d'or si on réussissait à le retrouver.
 
-> Je veux me venger, mais je dois décider de la façon de faire. Je peux brûler sa maison et son auberge.
+> Je dois enquêter pour en apprendre plus sur ce trésor.
+
+### Mission - Enquêter sur la pierre
+Les **Zentharims** sont à la recherche d'une pierre.
+
+> Je peux essayer de me renseigner sur les origines de cet artéfact.
+
+> Je peux essayer de remonter la trace de la pierre (chez les **Xanathariens** ?).
+
+Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
+
+Les **Xanathariens** ont peut-être récupéré la **pierre** au moment de l'assassinat de **Dalakhar**.
+
+### Mission - Comprendre les intentions des coupables
+Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
+
+> Je peux essayer de me renseigner sur l'identité des coupables.
+
+Etant données les informations que nous avons, il est probable que les coupables soient dans le camp de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md).
+
+Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
+
+Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes
@@ -41,6 +63,13 @@ Nous avons appris que les **Zentharims** sont actuellement proie à des luttes i
 Nous avons appris de la part de [**Vajra**](../PERSONNAGES/VajraSafahr.md) que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde) serait à la tête de la guilde, et qu'il agirait vers l'hiver, ce qui nous laisse neuf mois pour ancitiper ses actions. 
 
 Nous avons également appris qu'une partie de la guilde serait gérée par [**Le Croc Doré**](../ORGANISATIONS/Zentharims.md#le-croc-doré), un groupe d'ancien aventuriers.
+
+### Mission - Comprendre l'implication des Gralhunds
+Nous avons appris que les [**Gralhunds**](../ORGANISATIONS/Gralhunds.md), des seigneurs locaux, sont de mèche avec les **Zentharims**, qui comptent les trahir.
+
+> Je peux donner l'information aux **Gralhunds** de la trahison prochaine des **Zentharims**, et prendre contact avec eux.
+
+Les **Zentharims** avaient comme point de rendez-vous la ville des **Gralhunds**.
 
 ## Quête - Enquêter sur la [guilde de Xanathar](../ORGANISATIONS/GuildeDeXanathar.md)
 La **guilde de Xanathar** n'est qu'un nouveau joueur dans la ville d'Eauprofonde, puisqu'elle n'est présente que depuis quelques mois.
@@ -61,6 +90,10 @@ En fouillant dans le repères des membres de la [**Guilde de Xanathar**](../ORGA
 
 Nous avons appris que l'un des chefs de la guilde était **Xorg**.
 
+Nous avons appris que les membres de la guilde rackettaient les commerçants en leur demandant une **taxe de protection**.
+
+Nous avons volé un **registre** qui contient les avis de passage des membres de la guilde à l'entrée de l'une de leurs planques ([Le repos du Tyrannoeil](../Lieux.md#le-repos-du-tyranoeil)): nous avons remarqué qu'un nom revenait souvent, **Oeil de Lynx**.
+
 ## Quête - Enquêter sur les négociations entre Xanathariens et Zentharims
 En passant du temps dans l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), nous avons vu [**Yagra**](../ORGANISATIONS/Zentharims.md#yagra) se disputer avec des membres de la guilde de [**Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md). 
 
@@ -76,5 +109,3 @@ Le seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md)
 > Je devrais essayer de me renseigner sur les potentiels candidats.
 
 ## Quêtes triviales
-* Trouver du tabac pour ma pipe (OK pour une semaine)
-* Se venger de la façon dont [Xoblob](../PERSONNAGES/Xoblob.md) nous a traîté.

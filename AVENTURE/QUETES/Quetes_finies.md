@@ -81,5 +81,25 @@ La fête a été perturbée par [Frewn](../Lieux.md#concotions-de-frewn---tavern
 
 Nous avons livré **Frewn** à l'inspecteur [**Staget**](../ORGANISATIONS/PoliceDEauprofonde.md#inspecteur-staget).
 
+## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
+
+### Mission - Décider de la façon de faire
+**Frewn** a souhaité faire mauvaise réputation à notre taverne en engageant des membres des **Zentharims** pour faire mine qu'ils étaient contre l'ouverture de notre taverne. 
+
+On a décidé avec [**Seemon**](../PERSONNAGES/Seemon.md) et [**Finn**](../PERSONNAGES/Finn.md) de nous venger en nous introduisant dans sa taverne et mettant de la pisse et du poisson pourri dans ses concoctions.
+
+### Mission - Se venger
+Nous avons réussi à mettre de la pisse et du poisson pourrir dans les concoctions de Frewn.
+
+## Quête - Enquêter sur l'explosion
+
+### Mission - Identifier les victimes
+En passant la matinée à l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJoyeux.md), nous avons été témoins d'une explosion.
+
+En inspectant plus les lieux, nous nous sommes rendus compte que deux des victimes étaient des membres des [**Zentharims**](../ORGANISATIONS/Zentharims.md) et que l'un d'entre eux, un **Gnome des profondeurs** portait les armoires de la famille de [**Renaer Pas-de-braises**](../PERSONNAGES/Rener-Pas-de-Braises.md).
+
+En discutant avec **Renaer**, il apparaît que ce gnome des profondeurs était **Dalakhar**, un homme de confiance du seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md), et qu'il suivait pendant un moment **Renaer**.
+
 ## Quêtes triviales
 * Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).
+* Se venger de la façon dont [Xoblob](../PERSONNAGES/Xoblob.md) nous a traîté (Nous lui avons fait peur).
