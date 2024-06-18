@@ -39,8 +39,9 @@
 * Petit couteau
 
 *Quêtes*
-* Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; restants 10 jours)
+* Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
 * Carte d'accréditation de la [**Main Grise**](./AVENTURE/ORGANISATIONS/ForceGrise.md)
+* Clé de servante de la maison des Gralhund
 
 *Stylés*
 * Anneau gravé, légué par son grand-père
@@ -56,6 +57,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|93|
+|**Or**|83|
 |**Argent**|6|
 |**Cuivre**|0|
