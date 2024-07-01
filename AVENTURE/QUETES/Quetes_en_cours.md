@@ -1,6 +1,9 @@
 # Quêtes en cours
 
-## Quête - Goûter au sang
+## Quête personnelle - Assouvir Vengeance
+### Mission - Les [Gralhunds](../ORGANISATIONS/Gralhunds.md)
+
+## Quête personnelle - Goûter au sang
 Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûter au sang du plus grand nombre d'espèces intelligentes possibles.
 
 > Je dois être à l'affût de nouvelles espèces et goûter leur sang.
@@ -32,16 +35,18 @@ Après discussion avec [**Renaer**](../PERSONNAGES/Rener-Pas-de-Braises.md), nou
 
 > Je dois enquêter pour en apprendre plus sur ce trésor.
 
-### Mission - Enquêter sur la pierre
-Les **Zentharims** sont à la recherche d'une pierre.
+### Mission - Enquêter sur la pierre de Golor
+Les **Zentharims** sont à la recherche d'une pierre, la **pierre de Golor**.
 
 > Je peux essayer de me renseigner sur les origines de cet artéfact.
 
-> Je peux essayer de remonter la trace de la pierre (chez les **Xanathariens** ?).
+> Je peux essayer de remonter la trace de la pierre (chez les **Zentharims**).
 
 Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
 
-Les **Xanathariens** ont peut-être récupéré la **pierre** au moment de l'assassinat de **Dalakhar**.
+Nous avons appris de la part des [Gralhund](../ORGANISATIONS/Gralhunds.md) que la pierre était en possession des [Zentharims](../ORGANISATIONS/Zentharims.md), et qu'ils l'ont donné à un **automate**.
+
+Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md) de ce que nous savons. Elle nous a appris que cet artéfact était en réalité la **Pierre de Golor** et qu'elle était nécessaire à l'obtention du trésor, et qu'elle donnerait sa localisation.
 
 ### Mission - Comprendre les intentions des coupables
 Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
@@ -54,6 +59,10 @@ Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arm
 
 Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
 
+## Quête - La Force Grise
+
+### Mission : Trouver le dragonnet de bronze
+
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes
 Nous avons appris que les **Zentharims** sont actuellement proie à des luttes intestines sur la prise de pouvoir de leur organisation.
@@ -63,13 +72,6 @@ Nous avons appris que les **Zentharims** sont actuellement proie à des luttes i
 Nous avons appris de la part de [**Vajra**](../PERSONNAGES/VajraSafahr.md) que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde) serait à la tête de la guilde, et qu'il agirait vers l'hiver, ce qui nous laisse neuf mois pour ancitiper ses actions. 
 
 Nous avons également appris qu'une partie de la guilde serait gérée par [**Le Croc Doré**](../ORGANISATIONS/Zentharims.md#le-croc-doré), un groupe d'ancien aventuriers.
-
-### Mission - Comprendre l'implication des Gralhunds
-Nous avons appris que les [**Gralhunds**](../ORGANISATIONS/Gralhunds.md), des seigneurs locaux, sont de mèche avec les **Zentharims**, qui comptent les trahir.
-
-> Je peux donner l'information aux **Gralhunds** de la trahison prochaine des **Zentharims**, et prendre contact avec eux.
-
-Les **Zentharims** avaient comme point de rendez-vous la ville des **Gralhunds**.
 
 ## Quête - Enquêter sur la [guilde de Xanathar](../ORGANISATIONS/GuildeDeXanathar.md)
 La **guilde de Xanathar** n'est qu'un nouveau joueur dans la ville d'Eauprofonde, puisqu'elle n'est présente que depuis quelques mois.

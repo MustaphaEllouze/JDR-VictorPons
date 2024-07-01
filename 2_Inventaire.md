@@ -37,6 +37,7 @@
 * Livre d'histoire
 * Petit sac de sable
 * Petit couteau
+* Potion de respiration aquatique
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -57,6 +58,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|83|
+|**Or**|583|
 |**Argent**|6|
 |**Cuivre**|0|

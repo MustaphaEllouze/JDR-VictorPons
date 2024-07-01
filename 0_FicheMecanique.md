@@ -13,7 +13,7 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 26 | **HP Max** | 26 |
+| **HP actuels** | 16 | **HP Max** | 26 |
 | **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 3d8 1d6 | **Dés de vie max** | 3d8 1d6 |
 | **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 2 |

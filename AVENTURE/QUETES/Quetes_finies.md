@@ -45,6 +45,18 @@ Après avoir parlé à [**Renaer**](../PERSONNAGES/Renaer-Pas-de-Braises.md), il
 
 Nous avons décidé d'appeler la taverne l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJoyeux.md).
 
+### Mission - Attendre la rénovation du manoir
+Les rénovations sont terminées et l'inauguration s'est bien déroulée.
+
+### Mission - Organiser l'inauguration de la taverne
+Avec l'aide de [**Renaer**](../PERSONNAGES/Renaer-Pas-de-Braises.md), nous avons pu organiser l'inauguration de la taverne de l'[Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md). Plusieurs activités étaient prévu : concert organiser par **Volo**, concours de prestidigitation de la part des étudiants de la [**Tour du Bâton Noir**](../ORGANISATIONS/TourDuBatonNoir.md), musique assurée par les marins du [**Parangon**](../ORGANISATIONS/LeParangon.md), etc.
+
+La publicité de l'organisation a été principalement faite par **Renaer** via la technique du *Point-de-force* pour faire les flyers et les affiches.
+
+La fête a été perturbée par [Frewn](../Lieux.md#concotions-de-frewn---taverne) et une bande de **Zentharims** déguisés en tant que membre du clergé de **Lathandre**.
+
+Nous avons livré **Frewn** à l'inspecteur [**Staget**](../ORGANISATIONS/PoliceDEauprofonde.md#inspecteur-staget).
+
 ## Quête - La Force Grise
 ### Mission - S'entretenir avec [Vajra](../PERSONNAGES/VajraSafahr.md)
 
@@ -65,22 +77,6 @@ Il nous a dit ceci : "Le jumeau maléfique se terre dans l'ombre : il en sortira
 
 **Vajra** a interprété ceci comme une preuve que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde), maître de la guilde des **Zentharims**, doit émerger de l'ombre à l'hiver prochain. 
 
-## Quête - Rénover le manoir de [Troll-Crâne](../ORGANISATIONS/EctoplasmeJoyeux.md)
-Suite au sauvetage de [**Floon**](../PERSONNAGES/Floon.md), [**Volo**](../PERSONNAGES/Volo.md) nous a légué la possession du manoir de Troll-Crâne.
-
-
-### Mission - Attendre la rénovation du manoir
-Les rénovations sont terminées et l'inauguration s'est bien déroulée.
-
-### Mission - Organiser l'inauguration de la taverne
-Avec l'aide de [**Renaer**](../PERSONNAGES/Renaer-Pas-de-Braises.md), nous avons pu organiser l'inauguration de la taverne de l'[Ectoplasme Joyeux](../ORGANISATIONS/EctoplasmeJoyeux.md). Plusieurs activités étaient prévu : concert organiser par **Volo**, concours de prestidigitation de la part des étudiants de la [**Tour du Bâton Noir**](../ORGANISATIONS/TourDuBatonNoir.md), musique assurée par les marins du [**Parangon**](../ORGANISATIONS/LeParangon.md), etc.
-
-La publicité de l'organisation a été principalement faite par **Renaer** via la technique du *Point-de-force* pour faire les flyers et les affiches.
-
-La fête a été perturbée par [Frewn](../Lieux.md#concotions-de-frewn---taverne) et une bande de **Zentharims** déguisés en tant que membre du clergé de **Lathandre**.
-
-Nous avons livré **Frewn** à l'inspecteur [**Staget**](../ORGANISATIONS/PoliceDEauprofonde.md#inspecteur-staget).
-
 ## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
 
 ### Mission - Décider de la façon de faire
@@ -99,6 +95,26 @@ En passant la matinée à l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJ
 En inspectant plus les lieux, nous nous sommes rendus compte que deux des victimes étaient des membres des [**Zentharims**](../ORGANISATIONS/Zentharims.md) et que l'un d'entre eux, un **Gnome des profondeurs** portait les armoires de la famille de [**Renaer Pas-de-braises**](../PERSONNAGES/Rener-Pas-de-Braises.md).
 
 En discutant avec **Renaer**, il apparaît que ce gnome des profondeurs était **Dalakhar**, un homme de confiance du seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md), et qu'il suivait pendant un moment **Renaer**.
+
+## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
+
+### Mission - Comprendre l'implication des Gralhunds
+Nous avons appris que les [**Gralhunds**](../ORGANISATIONS/Gralhunds.md), des seigneurs locaux, sont de mèche avec les **Zentharims**, qui comptent les trahir.
+
+Les **Zentharims** avaient comme point de rendez-vous la ville des **Gralhunds**.
+
+Nous nous sommes rendus chez les **Gralhunds** qui étaient déjà sous l'assaut des **Zentharims**, avec **Orond Gralhund** qui était cloîtré dans la salle de bain. Nous les avons aidé, et nous avons tué dans le processus [**Urstul Floxin**](../ORGANISATIONS/Zentharims.md#urstul-floxin). Les **Zentharims** ont quand même eu le temps de tuer des serviteurs de la maison.
+
+Nous avons négocié avec **Yalah Gralhund** et nous avons réussi à obtenir quelques informations :
+* Les **Zentharims** se sont installés il y a de cela une semaine dans le manoir, et auraient fait pression au Gralhund ;
+* Les **Zentharims** auraient fait pression sur les **Gralhund** pour utiliser leur manoir comme base d'opérations ;
+* Les **Zentharims** sont en la possession de la **Pierre de Golor**, qui indique la position du trésor de **Pas-de-braises**, et l'ont confiée à un automate
+
+Nous finissons en mauvais terme avec **Yalah** vue la tension dans les négociations.
+
+Nous avons récupéré une clé d'une servante de leur manoir.
+
+Nous avons informé **Vajra** de la nature nécromantique du jardinier des **Gralhunds**.
 
 ## Quêtes triviales
 * Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).
