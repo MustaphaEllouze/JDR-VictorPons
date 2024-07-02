@@ -77,6 +77,21 @@ Il nous a dit ceci : "Le jumeau maléfique se terre dans l'ombre : il en sortira
 
 **Vajra** a interprété ceci comme une preuve que [**Manshoon**](../ORGANISATIONS/Zentharims.md#manshoon---maître-de-la-guilde), maître de la guilde des **Zentharims**, doit émerger de l'ombre à l'hiver prochain. 
 
+### Mission : Faire partir le jeune dragon de bronze
+[Vajra](../PERSONNAGES/VajraSafahr.md) nous a ordonné d'aller au port afin d'investiguer l'histoire d'un jeune dragon de bronze qui a élu domicile là-bas et qui nuit au commerce du port. Elle nous  a donné des potions de respiration aquatique.
+
+Nous avons parlé au jeune dragon de bronze, [**Aergontil**](../PERSONNAGES/Aergontil.md), il avait l'air de connaître [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md).
+
+Il nous a demandé de l'argent contre son départ. 
+
+J'ai contacté [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), afin qu'il puisse nous aider afin que le dragon parte.
+
+**Aium** a pris la possession de mon corps pendants plusieurs minutes, je n'ai pas de souvenir de la confrontation, mais je me suis réveillé en étant exténué.
+
+Le dragon est parti...
+
+Nous avons reçu la récompense de la part de [**Vajra**](../PERSONNAGES/VajraSafahr.md), 500 pièces d'or.
+
 ## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
 
 ### Mission - Décider de la façon de faire
@@ -95,6 +110,18 @@ En passant la matinée à l'[**Ectoplasme Joyeux**](../ORGANISATIONS/EctoplasmeJ
 En inspectant plus les lieux, nous nous sommes rendus compte que deux des victimes étaient des membres des [**Zentharims**](../ORGANISATIONS/Zentharims.md) et que l'un d'entre eux, un **Gnome des profondeurs** portait les armoires de la famille de [**Renaer Pas-de-braises**](../PERSONNAGES/Rener-Pas-de-Braises.md).
 
 En discutant avec **Renaer**, il apparaît que ce gnome des profondeurs était **Dalakhar**, un homme de confiance du seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md), et qu'il suivait pendant un moment **Renaer**.
+
+## Quête : Le trésor de Pas-de-braises
+### Mission - Investiguer le temple de la Main Ouverte
+Le temps de Gond, le temple de la Main Ouverte, est le temple de la ville spécialisé dans les inventions et les automates du carnaval. Nous devrions aller y jeter un oeil.
+
+Nous sommes allés au temple, et nous avons été accueillis par **Valetta**, une cléresse drakéide du temple.
+
+Elle nous a appris que le temple est en charge de réparer et programmer les automates pour le festival qui a lieu tout les ans, loués à la société lathanaise **Automates Incorporés**. Elle nous a présenté **Nim**, un automate chapoté et intelligent qui crée plusieurs inventions, cadeau d'un mage **Lathanais**, **Rogé**.
+
+Nous avons appris que **Nim** a lui-même créé un automate, qui est sûrement l'automate contrôlé par les [**Zentharims**](../ORGANISATIONS/Zentharims.md).
+
+**Nim** nous a dit que son invention a échappé à son contrôle et il veut bien qu'on le retrouve. Il nous a donné un **détecteur d'automates** qui nous permettra de détecter quand ce dernier sera à moins de 10 mètres de nous.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 

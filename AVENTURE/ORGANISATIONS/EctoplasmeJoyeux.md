@@ -11,6 +11,9 @@ La taverne se situe dans un ancien manoir, le **manoir de Troll-Crâne**.
 
 Elle s'étend sur une hauteur de trois étages. A l'étage, se situe les chambres et les bureaux des propriétaires.
 
+## Autres
+Un des membres du [Temple de la Main Ouverte](../Lieux.md#le-temple-de-la-main-ouverte), **Timbur**, a été mécénné par l'**Ectoplasme Joyeux** afin de fournir une **machine à café révolutionnaire**. Elle est à disposition dans la taverne.
+
 ## Membres
 
 ### Asif - Tavernier fantôme

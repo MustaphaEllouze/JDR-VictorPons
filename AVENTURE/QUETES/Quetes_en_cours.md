@@ -3,7 +3,17 @@
 ## Quête personnelle - Assouvir Vengeance
 ### Mission - Les [Gralhunds](../ORGANISATIONS/Gralhunds.md)
 
-## Quête personnelle - Goûter au sang
+## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
+### Mission - En apprendre plus sur Aium
+**Aium**, mon protecteur, me donne des missions... étranges. Pour quoi faire ? Certaines légendes existent sur des êtres des profondeurs... 
+
+> Je devrais essayer d'en apprendre plus sur mon protecteur.
+
+En parlant à **Aium**, je me suis retrouvé face à lui dans une prison remplie d'eau jusqu'au chevilles. Mes compagnons m'ont dit qu'avais les yeux bleus et perdus, et que je ne répondais pas.
+
+Des légendes racontent que **Aium** serait un **Dieu des Profondeurs**, des êtres qui seraient en guerre contre les **Dieu des Astres**, qui font partie des Panthéons qu'on connait.
+
+### Mission - Goûter au sang
 Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûter au sang du plus grand nombre d'espèces intelligentes possibles.
 
 > Je dois être à l'affût de nouvelles espèces et goûter leur sang.
@@ -11,7 +21,9 @@ Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûte
 A ce jour, j'ai réuni les espèces suivantes :
 
 *Dans l'ordre chronologique* :
+* Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte)
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
+* Goblours - [**Seamon**](../PERSONNAGES/Seemon.md)
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
@@ -27,6 +39,8 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tabaxi - Moi-même ;
 * Tiffelin - Membre de l'administration de Eauprofonde ;
+* Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
+* Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
 
 ## Quête - Le trésor de Pas-de-braises
 
@@ -58,10 +72,6 @@ Etant données les informations que nous avons, il est probable que les coupable
 Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
 
 Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
-
-## Quête - La Force Grise
-
-### Mission : Trouver le dragonnet de bronze
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes
@@ -111,3 +121,4 @@ Le seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md)
 > Je devrais essayer de me renseigner sur les potentiels candidats.
 
 ## Quêtes triviales
+* Retourner voir le Temple de Gond pour être sûr que **Valetta** a pris les mesures nécessaires pour que **Nim** ne se reproduise pas.

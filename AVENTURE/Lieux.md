@@ -36,3 +36,8 @@ Apothicaire
 
 ## Le repos du Tyranoeil
 Hôtel affilié avec les Xanathariens
+
+## Le Temple de la Main Ouverte
+Temple dédié à **Gond**, spécialisé dans les inventions, et s'occupe des automates lors de chaque festival de la ville. Il loue l'ensemble des automates du festival à une société Lathanaise.
+
+Ils disposent d'un automate intelligent nommé **Nim**.
