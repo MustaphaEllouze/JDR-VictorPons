@@ -38,6 +38,11 @@
 * Petit sac de sable
 * Petit couteau
 * Potion de respiration aquatique
+* Un diamant valant 50 po (pour Orbe Chromatique)
+* Une outre d'eau
+
+*Consommables*
+* 2 potions de soins
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -49,6 +54,7 @@
 * Cahier où il écrit ses aventures
 * Guide des Monstres de Volo, signé
 * Titre de propriété du manoir Troll-Crâne, *déchiré*
+* Imperméable avec le logo de la taverne de l'Ectoplasme Joyeux, brodé
 
 *Marrants*
 * Pipe avec tête de Tabaxi dessus qui sourit
@@ -58,6 +64,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|249|
+|**Or**|773|
 |**Argent**|6|
 |**Cuivre**|0|
