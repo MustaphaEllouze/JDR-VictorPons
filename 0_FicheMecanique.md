@@ -101,11 +101,11 @@
 |-|-| - |-| - |
 |[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts|
 |[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m|
-|[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1||Psionique|
-|[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1||Psionique|
-|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1||
-|[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1||
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1||
+|[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
+|[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1|JdS SAG|Psionique|
+|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA|
+|[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8|
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|JdS CON, 2d8, Pouss. 3m|
 |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution|
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)|
 

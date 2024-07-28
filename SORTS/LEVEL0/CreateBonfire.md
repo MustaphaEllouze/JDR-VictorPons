@@ -1,6 +1,6 @@
 # Create Bonfire - Embrasement
 
-![Minor Illusion](../../_images/)
+![Create Bonfire](../../_images/bonfire.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

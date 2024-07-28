@@ -1,9 +1,23 @@
-Orbe chromatique
-[ Chromatic Orb ]
-niveau 1 - évocation
-Temps d'incantation : 1 action
-Portée : 27 mètres
-Composantes : V, S, M (un diamant valant au moins 50 po)
-Durée : instantanée
-Vous projetez une sphère d'énergie de 10 cm de diamètre vers une créature que vous pouvez voir dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'orbe que vous créez. Vous faites ensuite une attaque à distance avec un sort contre la cible. Si l'attaque touche, la créature subit 3d8 dégâts du type préalablement déterminé.
-Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.
+# Chromatic Orb - Orbe chromatique
+
+![Charm Person](../../_images/)
+
+|Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
+|-|-|-|-|-|-|
+|Evocation|Niveau 1|1 Action|27 m|V, S, M (diamant de 50 po)|Instantanée|
+
+Vous projetez une sphère d'énergie de 10 cm de diamètre vers une créature que vous pouvez voir dans la portée du sort. 
+
+Vous choisissez:
+* Acide
+* Foudre
+* Feu
+* Froid
+* Poison
+* Tonnerre 
+
+comme type d'orbe que vous créez. V
+
+ous faites ensuite une attaque à distance avec un sort contre la cible. Si l'attaque touche, la créature subit **3d8 dégâts** du type préalablement déterminé.
+
+**Aux niveaux supérieurs** -  Les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.

@@ -1,6 +1,6 @@
 # Control Flames - Contrôle des flammes
 
-![Control Flames](../../_images/)
+![Control Flames](../../_images/controlflames.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
