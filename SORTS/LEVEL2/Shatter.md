@@ -1,5 +1,5 @@
 # Shatter - Fracassement
-![Shatter](../../_images/thunderwave.png)
+![Shatter](../../_images/shatter.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

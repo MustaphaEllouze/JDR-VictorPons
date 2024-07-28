@@ -1,6 +1,6 @@
 # Shield - Bouclier
 
-![Bouclier](../../_images/)
+![Bouclier](../../_images/shield.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

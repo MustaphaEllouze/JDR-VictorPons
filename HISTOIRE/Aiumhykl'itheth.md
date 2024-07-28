@@ -8,7 +8,7 @@ Manque de chance, lors de la première nuit, une tempête fit rage et le bâteau
 
 Il n'eut que le temps de contempler l'obscurité de la nuit et de ressentir la froideur de l'eau que de brefs instants avant que son âme ne commence à quitter son corps. C'est alors qu'il fit la rencontre en vision de son protecteur : 
 
-**Aiumhykl'iteeh'tha'graznolokanathraxiorvethulondriekantumalakar**
+**Aiumhykl'iteeh'tha'graznolokanathraxiorvandjansthulondriekantumalakar**
 
 (qui se fait souvent appeler **Aium** ou **Aiumhykl'teeh'tha** par simplicité). 
 

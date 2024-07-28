@@ -42,7 +42,7 @@ En tout cas, avant de faire la connaissance avec son *protecteur*...
 ## Otherwordly patron - Fathomless
 ![Aium](./_images/Aiumhykl'itheth.png)
 
-De son nom complet **Aiumhykl'iteeh'tha'graznolokanathraxiorvethulondriekantumalakar**, ou plus simplement **Aium**, cette entité vit dans les profondeurs de la mer des Épées. 
+De son nom complet **Aiumhykl'iteeh'tha'graznolokanathraxiorvandjansthulondriekantumalakar**, ou plus simplement **Aium**, cette entité vit dans les profondeurs de la mer des Épées. 
 
 Pas grand chose n'est connue à son sujet, puisqu'elle ne se déplace jamais près des côtes, et qu'elle reste tapie dans les profondeurs.
 
