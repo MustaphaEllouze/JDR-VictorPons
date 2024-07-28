@@ -5,23 +5,24 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 4 |
-| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 1 |
+| **Nom** | Ayum Teeh | **Niveau** | 5 |
+| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 2 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
-| |  | **Bonus de maîtrise** | +2 |
+| |  | **Bonus de maîtrise** | +3 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 1 | **HP Max** | 26 |
+| **HP actuels** | 6 | **HP Max** | 31 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 3d8 1d6 | **Dés de vie max** | 3d8 1d6 |
-| **Charges Tentacules des Profondeurs** | 1 | **Charges Max. Tentacules des Profondeurs** | 2 |
+| **Dés de vie actuels** | 3d8 2d6 | **Dés de vie max** | 3d8 2d6 |
+| **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 3 |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
 | Occultiste (Level 2) | 0 | 2| 
-| Level 1 | 1 | 2| 
+| Level 1 | 2 | 3| 
+| Sorcellerie | 2 | 2 (niv. sorc.)|
 
 
 ## Ability scores
@@ -69,31 +70,31 @@
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|
-|**Griffes**|1d20+1|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
-|**Sceptre du gardien des pactes +1**|1d20+2|1d8 contondants||1d20+FOR+PROF+1|1d8+FOR+1|
-|**Sceptre du gardien des pactes +1 / Shillelagh**|1d20+6|1d8+4 contondants||1d20+CHA+PROF+1|1d8+CHA+1|
-|**Dague**|1d20+5|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
-|**Arbalète Légère**|1d20+5|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
+|**Griffes**|1d20+2|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
+|**Sceptre du gardien des pactes +1**|1d20+3|1d8 contondants||1d20+FOR+PROF+1|1d8+FOR+1|
+|**Sceptre du gardien des pactes +1 / Shillelagh**|1d20+7|1d8+4 contondants||1d20+CHA+PROF+1|1d8+CHA+1|
+|**Dague**|1d20+6|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
+|**Arbalète Légère**|1d20+6|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
 ### Sorts
 
-*DD de sauvegarde contre les sorts* - **13** (8+prof+CHA)
+*DD de sauvegarde contre les sorts* - **14** (8+prof+CHA)
 
-*Modificateur d'attaque pour les sorts* - **+5** (prof+CHA)
+*Modificateur d'attaque pour les sorts* - **+6** (prof+CHA)
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
 |-|-| - |-| - |
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA)|
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA), 2 rayons|
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
 |[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute|
 |[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus|
 |[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure|
-|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip||
-|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip||
-|[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip||
-|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip||
-|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip||Psionique |
+|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8, pas de réaction|
+|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 action par créature pour dissiper, Jet INT|
+|[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip|3 effets|
+|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8 feu|
+|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6, JdS INT, Désavantage prochain JdS|Psionique |
 
 #### Leveled Spells
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
@@ -101,9 +102,10 @@
 |[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts|
 |[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m|
 |[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1||Psionique|
-|[**Arms of Hadar**](./SORTS/LEVEL1/ArmsOfHadar.md)|Tentacules de Hadar|Level 1||Psionique|
+|[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1||Psionique|
 |[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1||
 |[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1||
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1||
 |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution|
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)|
 
