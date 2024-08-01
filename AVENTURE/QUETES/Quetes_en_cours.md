@@ -1,7 +1,19 @@
 # Quêtes en cours
 
-## Quête personnelle - Assouvir Vengeance
+## Quête personnelle - Assouvir [Vandjans](../ALTERS/Vandjans.md)
 ### Mission - Les [Gralhunds](../ORGANISATIONS/Gralhunds.md)
+Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
+> Ils. Vont. Souffrir.
+
+### Mission - La dame de la rue
+Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. 
+
+> Elle ne perd rien pour attendre.
+
+Heureusement, [Seamon](../PERSONNAGES/Seemon.md) sait où elle habite.
+
+## Quête personnelle - Contenter Kuubi
+???
 
 ## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
 ### Mission - En apprendre plus sur Aium
@@ -11,7 +23,17 @@
 
 En parlant à **Aium**, je me suis retrouvé face à lui dans une prison remplie d'eau jusqu'au chevilles. Mes compagnons m'ont dit qu'avais les yeux bleus et perdus, et que je ne répondais pas.
 
-Des légendes racontent que **Aium** serait un **Dieu des Profondeurs**, des êtres qui seraient en guerre contre les **Dieu des Astres**, qui font partie des Panthéons qu'on connait.
+Des légendes racontent que **Aium** serait un [**Dieu des Profondeurs**](../ORGANISATIONS/DieuxDesProfondeurs.md), des êtres qui seraient en guerre contre les [**Dieu des Astres**](../ORGANISATIONS/DieuxDesAstres.md), qui ne font pas partie des Panthéons qu'on connait.
+
+**Aium** m'a sauvé encore une fois, au prix de la sanité mentale. De nouvelles personnalités sont apparues.
+
+### Mission - En apprendre plus sur les [Dieux des Astres](../ORGANISATIONS/DieuxDesAstres.md) et les [Dieux des Profondeurs](../ORGANISATIONS/DieuxDesProfondeurs.md)
+
+Mon protecteur est un **Dieu des Profondeurs**, [Finn](../PERSONNAGES/Finn.md) vénère les **Dieux des Astres**, et on sait que ces derniers sont en confrontation avec les **Dieu des Astres**. Quelque chose se trame-t-elle ?
+
+> Je devrais me renseigner plus précisément sur ces êtres.
+
+Un culte, celui de la [**Lune de Cristal**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), vénère les **Dieux des Astres** est s'est installé à Eauprofonde. Ce culte viendrait d'anciennes ruines qui ont été découvertes par delà la mer.
 
 ### Mission - Goûter au sang
 Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûter au sang du plus grand nombre d'espèces intelligentes possibles.
@@ -54,13 +76,22 @@ Les **Zentharims** sont à la recherche d'une pierre, la **pierre de Golor**.
 
 > Je peux essayer de me renseigner sur les origines de cet artéfact.
 
-> Je peux essayer de remonter la trace de la pierre (chez les **Zentharims**).
+> Je peux essayer de remonter la trace de la pierre (chez les **Cassalenters**).
 
 Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
 
 Nous avons appris de la part des [Gralhund](../ORGANISATIONS/Gralhunds.md) que la pierre était en possession des [Zentharims](../ORGANISATIONS/Zentharims.md), et qu'ils l'ont donné à un **automate**.
 
 Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md) de ce que nous savons. Elle nous a appris que cet artéfact était en réalité la **Pierre de Golor** et qu'elle était nécessaire à l'obtention du trésor, et qu'elle donnerait sa localisation.
+
+En enquêtant sur l'automate de [**Nim**](../Lieux.md#le-temple-de-la-main-ouverte), lui-même automate inventeur du temple de la Main Ouverte, nous avons découvert que cet automate portait sur lui l'addresse d'une propriété secondaire des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md).
+
+Nous avons appris que la pierre était actuellement en possession des **Cassalanters** car ils l'ont eux-même récupérée depuis leur propriété secondaire lors d'un échange étrange...
+
+### Mission - Investiguer le manoir des [Cassalanters](../ORGANISATIONS/Cassalanters.md)
+Nous avons appris que la **Pierre de Golor** serait en possession des **Cassalanters**, dont le manoir se situe en dehors de la ville.
+
+> Nous devons attendre le mandat de [**Vajra**](../PERSONNAGES/VajraSafahr.md) pour pouvoir intervenir. (Encore au moins un ou deux jours.)
 
 ### Mission - Comprendre les intentions des coupables
 Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
@@ -121,4 +152,3 @@ Le seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md)
 > Je devrais essayer de me renseigner sur les potentiels candidats.
 
 ## Quêtes triviales
-* Retourner voir le Temple de Gond pour être sûr que **Valetta** a pris les mesures nécessaires pour que **Nim** ne se reproduise pas.

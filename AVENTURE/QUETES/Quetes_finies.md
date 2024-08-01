@@ -92,6 +92,16 @@ Le dragon est parti...
 
 Nous avons reçu la récompense de la part de [**Vajra**](../PERSONNAGES/VajraSafahr.md), 500 pièces d'or.
 
+
+### Mission - Enquêter sur [le culte de la Lune de Cristal](../ORGANISATIONS/DieuxDesAstres.md)
+**Vajra** nous a demandé de d'enquêter sur un nouveau culte qui s'est installé en ville, le **culte de la Lune de Cristal**.
+
+Nous sommes allés sur place, et nous avons été acueillis par le prête, **Valentin**, qui nous a expliqué que c'est un ancien culte qui a été importé à Eauprofonde récemment, culte se basant sur la prière vers la lune et les étoiles.
+
+Après une petite enquête, nous avons découvert l'existence d'une cave au sous-sol, vers laquelle nous a emmenés **Valentin**. Il se cachait en réalité **Shai'Hulai**, un ver géant que vénère le culte.
+
+**Valentin** est mort, gobé par le ver géant. **Shai'Hulai** nous a attaqué, mais nous avons réussi à le repousser temporairement. Le combat a été rude, et [**Aium**](../ORGANISATIONS/DieuxDesProfondeurs.md#aium) a dû nous aider, non sans la perte de ma santé mentale.
+
 ## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
 
 ### Mission - Décider de la façon de faire
@@ -123,6 +133,8 @@ Nous avons appris que **Nim** a lui-même créé un automate, qui est sûrement 
 
 **Nim** nous a dit que son invention a échappé à son contrôle et il veut bien qu'on le retrouve. Il nous a donné un **détecteur d'automates** qui nous permettra de détecter quand ce dernier sera à moins de 10 mètres de nous.
 
+Nous avons retrouvé l'automate, enseveli sous un tas d'ordures, qui nous a attaqué à vue. Nous avons été obligés de le mettre hors d'état de nuire.
+
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 
 ### Mission - Comprendre l'implication des Gralhunds
@@ -146,3 +158,4 @@ Nous avons informé **Vajra** de la nature nécromantique du jardinier des **Gra
 ## Quêtes triviales
 * Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).
 * Se venger de la façon dont [Xoblob](../PERSONNAGES/Xoblob.md) nous a traîté (Nous lui avons fait peur).
+* Retourner voir le Temple de Gond pour être sûr que **Valetta** a pris les mesures nécessaires pour que **Nim** ne se reproduise pas (chambre barricadée).
