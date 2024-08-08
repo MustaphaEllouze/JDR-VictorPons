@@ -13,7 +13,16 @@ Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité
 Heureusement, [Seamon](../PERSONNAGES/Seemon.md) sait où elle habite.
 
 ## Quête personnelle - Contenter Kuubi
-???
+### Mission - Trouver une occupation plus calme
+J'ai peur pour **Ayum**, il a risqué d'y passer contre Shai Hulai !
+
+> Faudrait qu'on lui trouve une occupation plus calme quand même...
+
+## Quête - L'Oniromancien
+### Mission - Aller à une séance d'Oniromancie
+[Vajra](../PERSONNAGES/VajraSafahr.md) m'a trouvé une séance d'**oniromancie** avec le [Dr Viguelin](../PERSONNAGES/DrViguelin.md).
+
+> Il faut aller à la séance (le lendemain à 15h).
 
 ## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
 ### Mission - En apprendre plus sur Aium
@@ -35,6 +44,14 @@ Mon protecteur est un **Dieu des Profondeurs**, [Finn](../PERSONNAGES/Finn.md) v
 
 Un culte, celui de la [**Lune de Cristal**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), vénère les **Dieux des Astres** est s'est installé à Eauprofonde. Ce culte viendrait d'anciennes ruines qui ont été découvertes par delà la mer.
 
+Nous avons rencontré un certain [Ernest Bemingway](../PERSONNAGES/ErnestBemingway.md), qui est chef de la chaire d'astrologie de l'Académie du Sceptre Noir. Il nous a appris :
+* Les **Dieux des Profondeurs** et les **Dieux des Astres** partageaient le même plan d'existence (le Plan Matériel), et se sont séparés en de mauvais termes, et mènent une guerre perpétuelle depuis ;
+* Les **Dieux des Astres** seraient jaloux des **Dieux des Profondeurs** et voudraient redescendre sur terre ;
+* Pour cela, la légende raconte qu'un **Shaï**, élu des Dieux des Astres, absorberait de plus en plus d'énergie des fidèles afin de devenir tellement grand qu'il relierait la terre aux cieux ;
+* Les **Dieux des Profondeurs** seraient vus comme malfaisants.
+
+La mère de [**Finn**](../PERSONNAGES/Finn.md) serait-elle sous le contrôle de **Shai Hulai** ?
+
 ### Mission - Goûter au sang
 Tâche donnée par [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md), je dois goûter au sang du plus grand nombre d'espèces intelligentes possibles.
 
@@ -51,15 +68,17 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
-* Tabaxi - Moi-même ;
+* Tabaxi - Un marchand d'armure à Eauprofonde ;
+* Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
 
 *Dans l'ordre alphabétique* : 
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Demi-Elfe - [Finn](../PERSONNAGES/Finn.md)
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
-* Tabaxi - Moi-même ;
+* Tabaxi - Un marchand d'armure à Eauprofonde ;
 * Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
 * Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
 * Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
@@ -91,7 +110,9 @@ Nous avons appris que la pierre était actuellement en possession des **Cassalan
 ### Mission - Investiguer le manoir des [Cassalanters](../ORGANISATIONS/Cassalanters.md)
 Nous avons appris que la **Pierre de Golor** serait en possession des **Cassalanters**, dont le manoir se situe en dehors de la ville.
 
-> Nous devons attendre le mandat de [**Vajra**](../PERSONNAGES/VajraSafahr.md) pour pouvoir intervenir. (Encore au moins un ou deux jours.)
+> Attendre de pouvoir y aller (reste 3 jours).
+
+[**Vajra**](../PERSONNAGES/VajraSafahr.md) nous a donné un mandat pour aller investiguer la maison des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md) dans trois jours. Nous devons attendre d'ici là.
 
 ### Mission - Comprendre les intentions des coupables
 Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
@@ -103,6 +124,13 @@ Etant données les informations que nous avons, il est probable que les coupable
 Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
 
 Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
+
+## Quête - La Force Grise
+### Mission - Récupérer la récompense pour Shai'Hulai
+
+Nous avons défait [**Shai Hulai**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), mais [**Vajra**](../PERSONNAGES/VajraSafahr.md). Elle a promis de revenir vers nous.
+
+> Nous devrions attendre que **Vajra** nous contacte pour nous donner notre récompense.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes

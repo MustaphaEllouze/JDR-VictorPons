@@ -1,6 +1,6 @@
 # Chromatic Orb - Orbe chromatique
 
-![Charm Person](../../_images/chromatic_orb.png)
+![Chromatique Orb](../../_images/chromatic_orb.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

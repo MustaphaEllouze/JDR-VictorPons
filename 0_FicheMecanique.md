@@ -62,7 +62,7 @@
 | | |
 |-|-|
 |**Bonus d'initiative**|+3|
-|**Classe d'armure**|15 = 12 (Armure de cuir clouté) + 3 (DEX)|
+|**Classe d'armure**|14 = 10 + 1 (Robe de puissance) + 3 (DEX)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -80,21 +80,23 @@
 
 *DD de sauvegarde contre les sorts* - **14** (8+prof+CHA)
 
+* En contact avec l'eau (**Anneau des profondeurs**) - **15** (8+prof+CHA+1) 
+
 *Modificateur d'attaque pour les sorts* - **+6** (prof+CHA)
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
 |-|-| - |-| - |
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+3 (CHA), 2 rayons|
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+6 (2*CHA), 2 rayons|
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
 |[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute|
 |[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus|
 |[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure|
-|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8, pas de réaction|
+|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+3 (CHA), pas de réaction|
 |[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 action par créature pour dissiper, Jet INT|
 |[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip|3 effets|
 |[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8 feu|
-|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6, JdS INT, Désavantage prochain JdS|Psionique |
+|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 3 (CHA), JdS INT, Désavantage prochain JdS|Psionique |
 
 #### Leveled Spells
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
@@ -106,6 +108,7 @@
 |[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA|
 |[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8|
 |[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|JdS CON, 2d8, Pouss. 3m|
+|[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
 |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution|
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)|
 

@@ -5,9 +5,10 @@
 ## Equipé
 |||
 |-|-|
-|**Corps**|Armure de cuir clouté|
+|**Corps**|Robe de puissance|
 |**Main droite**|Sceptre du gardien des pactes|
 |**Main gauche**|Sceptre du gardien des pactes|
+|**Doigt 1**| Anneau des profondeurs |
 |**Ceinture**|2 Dagues, Arbalète légère (20 carreaux)|
 |**Dos**|Sac à dos|
 |**Instrument**|Chamisen|
@@ -22,6 +23,7 @@
 ### Equipement
 * Vêtements de voyageur
 * Vêtements de Xanatharien
+* Armure de cuir clouté
 
 ### Armes
 * Arme d'hast
