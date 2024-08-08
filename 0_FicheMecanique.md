@@ -13,15 +13,15 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 29 | **HP Max** | 31 |
+| **HP actuels** | 15 | **HP Max** | 31 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 0d8 0d6 | **Dés de vie max** | 3d8 2d6 |
-| **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **Dés de vie actuels** | 3d8 2d6 | **Dés de vie max** | 3d8 2d6 |
+| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 2 | 2| 
-| Level 1 | 2 | 3| 
+| Occultiste (Level 2) | 0 | 2| 
+| Level 1 | 3 | 3| 
 | Sorcellerie | 2 | 2 (niv. sorc.)|
 
 
