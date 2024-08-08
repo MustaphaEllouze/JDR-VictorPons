@@ -50,7 +50,7 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
-* Tiffelin - Membre de l'administration de Eauprofonde ;
+* Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
 * Tabaxi - Moi-même ;
 
 *Dans l'ordre alphabétique* : 
@@ -60,7 +60,7 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tabaxi - Moi-même ;
-* Tiffelin - Membre de l'administration de Eauprofonde ;
+* Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
 * Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
 * Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
 

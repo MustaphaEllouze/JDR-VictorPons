@@ -13,14 +13,14 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 6 | **HP Max** | 31 |
+| **HP actuels** | 29 | **HP Max** | 31 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 3d8 2d6 | **Dés de vie max** | 3d8 2d6 |
+| **Dés de vie actuels** | 0d8 0d6 | **Dés de vie max** | 3d8 2d6 |
 | **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 3 |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 0 | 2| 
+| Occultiste (Level 2) | 2 | 2| 
 | Level 1 | 2 | 3| 
 | Sorcellerie | 2 | 2 (niv. sorc.)|
 
@@ -33,30 +33,30 @@
 |Dextérité|**16**|**+3**|**+3**|
 |Constitution|**12**|**+1**|**+1**|
 |Intelligence|**13**|**+1**|**+1**|
-|Sagesse|**10**|**+0**|**+2** (prof)|
-|Charisme|**16**|**+3**|**+5** (prof)|
+|Sagesse|**10**|**+0**|**+3** (prof)|
+|Charisme|**16**|**+3**|**+6** (prof)|
 
 
 |Nom|Type|Proficiency|Bonus|
 |-|-|-|-|
 |Acrobaties|DEX||+3|
-|Arcanes|INT|x (Warlock)|+3|
+|Arcanes|INT|x (Warlock)|+4|
 |Athlétisme|FOR||-1|
-|Discrétion|DEX|x (Tabaxi)|+5|
+|Discrétion|DEX|x (Tabaxi)|+6|
 |Dressage|SAG||+0|
 |Escamotage|DEX||+3|
 |Histoire|INT||+1|
 |Intimidation|CHA||+3|
-|Intuition/Perspicacité|SAG|x (Far Traveler)|+2|
+|Intuition/Perspicacité|SAG|x (Far Traveler)|+3|
 |Investigation|INT||+1|
 |Médecine|SAG||+0|
 |Nature|INT||+1|
-|Perception|SAG|x (Tabaxi / Far Traveler)|+2|
+|Perception|SAG|x (Tabaxi / Far Traveler)|+3|
 |Persuasion|CHA||+3|
 |Religion|INT||+1|
 |Représentation|CHA||+3|
 |Survie|SAG||+0|
-|Tromperie|CHA|x (Warlock)|+5|
+|Tromperie|CHA|x (Warlock)|+6|
 
 ## Caractéristiques de combat
 | | |

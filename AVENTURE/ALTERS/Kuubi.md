@@ -13,4 +13,4 @@ Il est l'alter qui **écarte les autres du danger** en leur évitant de particip
 | **Déteste** | Qu'on le presse |
 | **Âge** | 7 |
 | **Espèce** | 25% humain, 25% elfe, 5% goblours |
-| **Accent** | Zozote |
+| **Accent** | Parle avec une toute petite voix |
