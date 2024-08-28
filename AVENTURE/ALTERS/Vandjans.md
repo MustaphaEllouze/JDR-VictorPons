@@ -3,7 +3,7 @@
 
 Alter colérique, il ne recule devant rien pour obtenir ce qui lui semble lui revenir de droit.
 
-Il est l'alter qui **protège les autres des menaces imminents** en réduisant la menace à néant. Il est également extrêmement **rancunier**, et cherche à se venger s'il s'estime lésé.
+Il est l'alter qui **protège les autres des menaces imminentes** en réduisant la menace à néant. Il est également extrêmement **rancunier**, et cherche à se venger s'il s'estime lésé.
 
 C'est un guerrier et génie du combat tactique.
 
@@ -15,4 +15,5 @@ C'est un guerrier et génie du combat tactique.
 | **Déteste** | Qu'on ne le respecte pas |
 | **Âge** | 43 |
 | **Espèce** | Demi-Orc |
+| **MBTI** | ESTJ |
 | **Accent** | Voix rauque |

@@ -13,4 +13,5 @@ Il est le plus **curieux** de la bande, celui qui souhaite partir à l'aventure.
 | **Déteste** | Se sentir impuissant |
 | **Âge** | 21 |
 | **Espèce** | Tabaxi |
-| **Accent** | Italien |
+| **MBTI** | ESFP |
+| **Accent** | Italien, Excité |
