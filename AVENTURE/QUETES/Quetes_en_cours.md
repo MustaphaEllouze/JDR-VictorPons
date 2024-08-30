@@ -1,28 +1,22 @@
 # Quêtes en cours
 
-## Quête personnelle - Assouvir [Vandjans](../ALTERS/Vandjans.md)
-### Mission - Les [Gralhunds](../ORGANISATIONS/Gralhunds.md)
-Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
-> Ils. Vont. Souffrir.
+## Etats d'esprit - Les Alters
+### [Abitbol, l'Apathique](../ALTERS/Abitbol.md)
+> En sommeil...
+### [Le Gardien](../ALTERS/LeGardien.md)
+> C'est un peu compliqué pour **Ayum** en ce moment. Je vais demander aux autres de prendre le relais ponctuellement, vu que je suis le seul qui est gardé contact avec tout le monde.
+### [Kuubi, l'Enfant](../ALTERS/Kuubi.md)
+> J'ai peur pour **Ayum**, il a falli y passer contre **Shai'Hulai** ! Il fautdrait qu'on se trouve une occupation plus calme.
+### [Mayls, l'Aimable](../ALTERS/Mayls.md)
+> En sommeil...
+### [Oskhar, le Paranoïaque](../ALTERS/Oskhar.md)
+> En sommeil...
+### [Sylas, le Méthodique](../ALTERS/Sylas.md)
+> En sommeil...
+### [Vandjans, Le Colérique](../ALTERS/Vandjans.md)
+> Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
 
-### Mission - La dame de la rue
-Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. 
-
-> Elle ne perd rien pour attendre.
-
-Heureusement, [Seamon](../PERSONNAGES/Seemon.md) sait où elle habite.
-
-## Quête personnelle - Contenter Kuubi
-### Mission - Trouver une occupation plus calme
-J'ai peur pour **Ayum**, il a risqué d'y passer contre Shai Hulai !
-
-> Faudrait qu'on lui trouve une occupation plus calme quand même...
-
-## Quête - L'Oniromancien
-### Mission - Aller à une séance d'Oniromancie
-[Vajra](../PERSONNAGES/VajraSafahr.md) m'a trouvé une séance d'**oniromancie** avec le [Dr Viguelin](../PERSONNAGES/DrViguelin.md).
-
-> Il faut aller à la séance (le lendemain à 15h).
+> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre
 
 ## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
 ### Mission - En apprendre plus sur Aium
@@ -70,18 +64,47 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
 * Tabaxi - Un marchand d'armure à Eauprofonde ;
 * Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
+* Tiffelin d'Asmodée - **Sarbina**, secréataire du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
+* Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 
 *Dans l'ordre alphabétique* : 
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
-* Demi-Elfe - [Finn](../PERSONNAGES/Finn.md)
+* Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
+* Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
+* Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
+* Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tabaxi - Un marchand d'armure à Eauprofonde ;
+* Tiffelin d'Asmodée - **Sarbina**, secréataire du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 * Tiffelin de Zariel - Membre de l'administration de Eauprofonde ;
-* Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
-* Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
+
+## Quête - La Lune de Cristal
+
+### Mission - Remonter la trace du culte
+Nous avons été abordés plusieurs fois par le culte de la [Lune de Cristal](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), qui est un culte qui vénère un ver géant du nom de **Shai Hulai**.
+
+Le culte s'est implanté en ville. On devrait rester vigilant.
+
+> Nous devrions essayer de retrouver les responsables de ces agissements.
+
+Nous avons déjà été confrontés à **Valentin**, un prêtre qui s'est fait mangé par **Shai'Hulai**.
+
+Le grand-père de [Finn](../PERSONNAGES/Finn.md) nous a trouvé avec un certain [Billy](../PERSONNAGES/Billy.md), un ancien otage du culte. **Billy** nous a indiqué l'emplacement d'un entrepôt dans lequel le culte se réunirait.
+
+Nous sommes allés à l'entrepôt et nous avons vu des cultistes qui nous attendaient : soit c'était un piège, soit il y a un informateur autour de nous.
+
+### Mission - S'informer sur le culte
+
+> Nous devrions chercher d'avantage d'informations sur le culte de Lune de Cristal.
+
+Nous savons qu'ils vénèrent tous les dieux des Astres, et que les **Shai** sont des vers géants qui sont au centre du culte.
+
+Nous savons que les membres du culte appellent le fait de nourrir les **Shai** : **la Descente**.
+
+**Shai'Hulai** se trouve toujours dans les souterrains de la ville. Plusieurs bâtiments permettent d'accéder à sa cachette, notamment l'entrepôt auquel nous a dirigé [**Billy**](../PERSONNAGES/Billy.md).
 
 ## Quête - Le trésor de Pas-de-braises
 
@@ -95,7 +118,7 @@ Les **Zentharims** sont à la recherche d'une pierre, la **pierre de Golor**.
 
 > Je peux essayer de me renseigner sur les origines de cet artéfact.
 
-> Je peux essayer de remonter la trace de la pierre (chez les **Cassalenters**).
+> Aller à l'événément organiser par les **Cassalanters** dans leur manoir.
 
 Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
 
@@ -106,6 +129,8 @@ Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md) de ce que nous savons
 En enquêtant sur l'automate de [**Nim**](../Lieux.md#le-temple-de-la-main-ouverte), lui-même automate inventeur du temple de la Main Ouverte, nous avons découvert que cet automate portait sur lui l'addresse d'une propriété secondaire des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md).
 
 Nous avons appris que la pierre était actuellement en possession des **Cassalanters** car ils l'ont eux-même récupérée depuis leur propriété secondaire lors d'un échange étrange...
+
+Les **Cassalanters** organisent un événement autour de la **Pierre de Golor** dans leur manoir.
 
 ### Mission - Investiguer le manoir des [Cassalanters](../ORGANISATIONS/Cassalanters.md)
 Nous avons appris que la **Pierre de Golor** serait en possession des **Cassalanters**, dont le manoir se situe en dehors de la ville.
@@ -124,13 +149,6 @@ Etant données les informations que nous avons, il est probable que les coupable
 Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
 
 Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
-
-## Quête - La Force Grise
-### Mission - Récupérer la récompense pour Shai'Hulai
-
-Nous avons défait [**Shai Hulai**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), mais [**Vajra**](../PERSONNAGES/VajraSafahr.md). Elle a promis de revenir vers nous.
-
-> Nous devrions attendre que **Vajra** nous contacte pour nous donner notre récompense.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes

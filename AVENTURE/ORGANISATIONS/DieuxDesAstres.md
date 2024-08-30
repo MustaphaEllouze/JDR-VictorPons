@@ -12,3 +12,6 @@ Ancien culte arrivé récemment à Eauprofonde, ils vénèrent une ver géant, *
 Le culte est né à partir de la prière vers la lune et les étoiles, qui a récompensé les fidèles pour leurs prières.
 
 Le culte est généralement vêtu de **blanc et violet**.
+
+### La Descente
+Acte de nourrir les **Shai** en faisant des sacrifices humains.

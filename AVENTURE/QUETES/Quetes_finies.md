@@ -1,5 +1,23 @@
 # Quêtes finies
 
+## Etats d'esprit - Les Alters
+### [Abitbol, l'Apathique](../ALTERS/Abitbol.md)
+> En sommeil...
+### [Le Gardien](../ALTERS/LeGardien.md)
+> C'est un peu compliqué pour **Ayum** en ce moment. Je vais demander aux autres de prendre le relais ponctuellement, vu que je suis le seul qui est gardé contact avec tout le monde.
+### [Kuubi, l'Enfant](../ALTERS/Kuubi.md)
+> J'ai peur pour **Ayum**, il a falli y passer contre **Shai'Hulai** ! Il fautdrait qu'on se trouve une occupation plus calme.
+### [Mayls, l'Aimable](../ALTERS/Mayls.md)
+> En sommeil...
+### [Oskhar, le Paranoïaque](../ALTERS/Oskhar.md)
+> En sommeil...
+### [Sylas, le Méthodique](../ALTERS/Sylas.md)
+> En sommeil...
+### [Vandjans, Le Colérique](../ALTERS/Vandjans.md)
+> Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
+
+> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre
+
 ## Quête - Retrouver Floon
 Après une soirée à l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), [**Volo**](../PERSONNAGES/Volo.md) nous a accosté afin d'aller retrouver un de ses amis, [**Floon**](../PERSONNAGES/Floon.md) qui s'est perdu. Il nous a promis **100 pièces d'or** contre nos services.
 
@@ -102,6 +120,12 @@ Après une petite enquête, nous avons découvert l'existence d'une cave au sous
 
 **Valentin** est mort, gobé par le ver géant. **Shai'Hulai** nous a attaqué, mais nous avons réussi à le repousser temporairement. Le combat a été rude, et [**Aium**](../ORGANISATIONS/DieuxDesProfondeurs.md#aium) a dû nous aider, non sans la perte de ma santé mentale.
 
+### Mission - Récupérer la récompense pour Shai'Hulai
+
+Nous avons défait [**Shai Hulai**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal), mais [**Vajra**](../PERSONNAGES/VajraSafahr.md). Elle a promis de revenir vers nous.
+
+Vajra nous a donné 1000 pièces d'or de récompense.
+
 ## Quête - Se venger de [Frewn](../Lieux.md#concotions-de-frewn---taverne)
 
 ### Mission - Décider de la façon de faire
@@ -154,6 +178,18 @@ Nous finissons en mauvais terme avec **Yalah** vue la tension dans les négociat
 Nous avons récupéré une clé d'une servante de leur manoir.
 
 Nous avons informé **Vajra** de la nature nécromantique du jardinier des **Gralhunds**.
+
+## Quête - L'Oniromancien
+### Mission - Aller à une séance d'Oniromancie
+[Vajra](../PERSONNAGES/VajraSafahr.md) m'a trouvé une séance d'**oniromancie** avec le [Dr Viguelin](../PERSONNAGES/DrViguelin.md).
+
+Nous sommes allés à la séance, et le docteure et sa secrétaire nous ont paru bizarres.
+
+En enquêtant un peu, nous nous sommes rendus compte que le docteur avait été remplacé par un **flagelleur mental** qui efface les souvenirs de ses patients pour qu'ils puissent mieux se sentir, leur provoquant alors une amnésie partielle.
+
+Nous avons prévenu [**Vajra**](../PERSONNAGES/VajraSafahr.md), qui est allé avec nous au bureau de l'*Oniromancien*.
+
+Après une discussion un peu animée, la décision collective a été d'achever le flagelleur mental, jugé trop dangereux.
 
 ## Quêtes triviales
 * Acheter le **Guide des Monstres** de [Volo](../PERSONNAGES/Volo.md).
