@@ -57,6 +57,8 @@
 * Guide des Monstres de Volo, signé
 * Titre de propriété du manoir Troll-Crâne, *déchiré*
 * Imperméable avec le logo de la taverne de l'Ectoplasme Joyeux, brodé
+* Un chapeau stylé pour Abitbol
+* Des bottes à éperons
 
 *Marrants*
 * Pipe avec tête de Tabaxi dessus qui sourit
@@ -66,6 +68,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|342|
-|**Argent**|5|
+|**Or**|330|
+|**Argent**|4|
 |**Cuivre**|0|

@@ -16,7 +16,9 @@
 ### [Vandjans, Le Colérique](../ALTERS/Vandjans.md)
 > Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
 
-> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre
+> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre.
+
+> J'ai envie de fumer ce connard de **Billy**, IL NOUS A TRAHI.
 
 ## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
 ### Mission - En apprendre plus sur Aium
