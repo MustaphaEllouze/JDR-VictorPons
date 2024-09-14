@@ -47,6 +47,40 @@
 
 ---
 
+* On va au Temple de Gond ;
+    * La machine est prête ;
+    * Une femme a toqué la porte du temple, mais elle est partie ;
+    * Nim a fusionné ; 
+    * Le cheval avec Nim ne passe pas la porte
+    * On le traîne dehors ; OK ;
+* On arrive chez les Cassalanters, pleins de gens montent la garde devant les écuries des autres ; 
+* J'ai un familier **chouette** ;
+* Je monte la garde
+    * J'entends un peu de bruit ;
+    * Il y a quelqu'un qui a tapé dans les mains de Seamon, puis elle s'enfuit ;
+    * On al pourchasse, elle rentre chez les Zentharims ;
+    * Seamon rentre dans l'écurie pour essayer de la retrouver ;
+    * Les Zentharims ont -5 point pour la compétition ;
+* On commence les festivités : 
+    * Interdit d'avoir d'avoir de l'aide extérieure
+    * On voit la pierre de Golor : un Ocarina Vert
+    * Nim gagne ! 
+* Combat de l'aventure :
+    * Demi-finales ;
+    * Hlan gagne ;
+    * L'Orc d'avant de la taverne redéfie Seamon ;
+    * Seamon gagne !
+* Epreuve du tribunal ;
+    * Le Juge c'est le gars dont j'ai cassé la jambe ;
+    * On rentre dans l'arène ;
+    * On détruit le gars en face via les faits et la logique ;
+* On gagne la pierre de Golor
+* On se retrouve devant l'Ectoplasme Joyeux ;
+* Il faut trois clés pour rentrer : un oeil de spectateur, des oreilles de gobelours (2 oreilles), une peinture d'un mineur nain (le nain est un mineur, mais n'est pas mineur) ;
+* On passe niveau 6 ;
+
+---
+
 * Expression Tabaxi : 
     * Être un peu bizarre = Il lag
     * Un bon cheval = Une très bonne lasagne

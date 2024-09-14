@@ -44,7 +44,7 @@
 * Une outre d'eau
 
 *Consommables*
-* 2 potions de soins
+* 1 potions de soins
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -58,16 +58,17 @@
 * Titre de propriété du manoir Troll-Crâne, *déchiré*
 * Imperméable avec le logo de la taverne de l'Ectoplasme Joyeux, brodé
 * Un chapeau stylé pour Abitbol
-* Des bottes à éperons
+* Des bottes à éperons pour Abitbol
 
 *Marrants*
 * Pipe avec tête de Tabaxi dessus qui sourit
 * Pour une semaine de tabac
+* Livre du language des signes de Nim
 
 ## Argent
 | | |
 |-|-|
 |**Platine**|0|
 |**Or**|330|
-|**Argent**|4|
+|**Argent**|2|
 |**Cuivre**|0|
