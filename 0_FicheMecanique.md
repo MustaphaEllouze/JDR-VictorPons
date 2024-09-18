@@ -5,24 +5,25 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 5 |
-| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 2 |
+| **Nom** | Ayum Teeh | **Niveau** | 6 |
+| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 3 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +3 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 31 | **HP Max** | 31 |
+| **HP actuels** | 36 | **HP Max** | 36 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 3d8 2d6 | **Dés de vie max** | 3d8 2d6 |
+| **Dés de vie actuels** | 3d8 3d6 | **Dés de vie max** | 3d8 3d6 |
 | **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
 | Occultiste (Level 2) | 2 | 2| 
-| Level 1 | 3 | 3| 
-| Sorcellerie | 2 | 2 (niv. sorc.)|
+| Level 1 | 4 | 4| 
+| Level 2 | 2 | 2| 
+| Sorcellerie | 3 | 3 (niv. sorc.)|
 
 
 ## Ability scores
@@ -85,39 +86,39 @@
 *Modificateur d'attaque pour les sorts* - **+6** (prof+CHA)
 
 #### Cantrips
-|Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+6 (2*CHA), 2 rayons|
-|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure|
-|[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute|
-|[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus|
-|[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure|
-|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+3 (CHA), pas de réaction|
-|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 action par créature pour dissiper, Jet INT|
-|[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip|3 effets|
-|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8 feu|
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+6 (2*CHA), 2 rayons| Occultiste |
+|[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure| Occultiste |
+|[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute| Livre des Ombres |
+|[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus| Livre des Ombres |
+|[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure| Livre des Ombres |
+|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+3 (CHA), pas de réaction| Ensorceleur |
+|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 action par créature pour dissiper, Jet INT| Ensorceleur |
+|[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip|3 effets| Ensorceleur |
+|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8 feu| Ensorceleur |
 |[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 3 (CHA), JdS INT, Désavantage prochain JdS|Psionique |
 
 #### Leveled Spells
-|Nom - EN|Nom - FR|Level| Cheat Sheet | Autre |
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts|
-|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m|
+|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts| Occultiste |
+|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m| Occultiste |
 |[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
 |[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1|JdS SAG|Psionique|
-|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA|
-|[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8|
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|JdS CON, 2d8, Pouss. 3m|
+|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA| Ensorceleur |
+|[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8| Ensorceleur |
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|JdS CON, 2d8, Pouss. 3m| Ensorceleur |
 |[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
-|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution|
-|[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)|
+|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Occultiste |
+|[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 
 #### Rituels
 
-|Nom - EN|Nom - FR|Level| Cheat Sheet |
-|-|-| - |-|
-|[**Find Familiar**](./SORTS/LEVEL1/FindFamiliar.md)|Appel de familier|Level 1|**10po**, 1 heure (Rituel uniquement)|
-|[**Detect Magic**](./SORTS/LEVEL1/DetectMagic.md)|Détection de la magie|Level 1|9m (Rituel uniquement)|
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
+|-|-| - |-| -|
+|[**Find Familiar**](./SORTS/LEVEL1/FindFamiliar.md)|Appel de familier|Level 1|**10po**, 1 heure (Rituel uniquement)| Livre des Ombres |
+|[**Detect Magic**](./SORTS/LEVEL1/DetectMagic.md)|Détection de la magie|Level 1|9m (Rituel uniquement)| Livre des Ombres |
 
 ### Autres
 *Agilité féline* - Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez à votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser jusqu'à ce que vous vous déplaciez de 0 m à l'un de vos tours.

@@ -2,7 +2,7 @@
 
 ## Etats d'esprit - Les Alters
 ### [Abitbol, l'Apathique](../ALTERS/Abitbol.md)
-> En sommeil...
+> On a remporté le tournoi de la Pierre grâce à moi. Je crois que j'en ai assez fait pour le moment.
 ### [Le Gardien](../ALTERS/LeGardien.md)
 > C'est un peu compliqué pour **Ayum** en ce moment. Je vais demander aux autres de prendre le relais ponctuellement, vu que je suis le seul qui est gardé contact avec tout le monde.
 ### [Kuubi, l'Enfant](../ALTERS/Kuubi.md)
@@ -16,7 +16,9 @@
 ### [Vandjans, Le Colérique](../ALTERS/Vandjans.md)
 > Ces connards de **Gralhunds** m'ont pris pour un moins que rien l'autre jour... Ils vont voir de quel bois je me chauffe !
 
-> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre
+> Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre.
+
+> J'ai envie de fumer ce connard de **Billy**, IL NOUS A TRAHI. Vajra a mis un avis de recherche sur lui.
 
 ## Quête - Retrouver Floon
 Après une soirée à l'[**Auberge du Portail Soupirant**](../ORGANISATIONS/AubergeDuPortailSoupirant.md), [**Volo**](../PERSONNAGES/Volo.md) nous a accosté afin d'aller retrouver un de ses amis, [**Floon**](../PERSONNAGES/Floon.md) qui s'est perdu. Il nous a promis **100 pièces d'or** contre nos services.
@@ -146,6 +148,18 @@ En inspectant plus les lieux, nous nous sommes rendus compte que deux des victim
 En discutant avec **Renaer**, il apparaît que ce gnome des profondeurs était **Dalakhar**, un homme de confiance du seigneur [**Dagult Pas-de-braises**](../PERSONNAGES/Dagult-Pas-de-Braises.md), et qu'il suivait pendant un moment **Renaer**.
 
 ## Quête : Le trésor de Pas-de-braises
+### Mission - Comprendre les intentions des coupables
+Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
+
+Etant données les informations que nous avons, il est probable que les coupables soient dans le camp de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md).
+
+Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
+
+Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
+
+Nous avons appris qu'il s'agissait de la **Pierre de Golor** et qu'elle sert à accéder au trésor.
+
+Cette affaire traîne depuis trop longtemps, nous nous continuons pas les recherches.
 ### Mission - Investiguer le temple de la Main Ouverte
 Le temps de Gond, le temple de la Main Ouverte, est le temple de la ville spécialisé dans les inventions et les automates du carnaval. Nous devrions aller y jeter un oeil.
 
@@ -158,6 +172,51 @@ Nous avons appris que **Nim** a lui-même créé un automate, qui est sûrement 
 **Nim** nous a dit que son invention a échappé à son contrôle et il veut bien qu'on le retrouve. Il nous a donné un **détecteur d'automates** qui nous permettra de détecter quand ce dernier sera à moins de 10 mètres de nous.
 
 Nous avons retrouvé l'automate, enseveli sous un tas d'ordures, qui nous a attaqué à vue. Nous avons été obligés de le mettre hors d'état de nuire.
+
+### Mission - Enquêter sur la pierre de Golor
+Les **Zentharims** sont à la recherche d'une pierre, la **pierre de Golor**.
+
+Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
+
+Nous avons appris de la part des [Gralhund](../ORGANISATIONS/Gralhunds.md) que la pierre était en possession des [Zentharims](../ORGANISATIONS/Zentharims.md), et qu'ils l'ont donné à un **automate**.
+
+Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md) de ce que nous savons. Elle nous a appris que cet artéfact était en réalité la **Pierre de Golor** et qu'elle était nécessaire à l'obtention du trésor, et qu'elle donnerait sa localisation.
+
+En enquêtant sur l'automate de [**Nim**](../Lieux.md#le-temple-de-la-main-ouverte), lui-même automate inventeur du temple de la Main Ouverte, nous avons découvert que cet automate portait sur lui l'addresse d'une propriété secondaire des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md).
+
+Nous avons appris que la pierre était actuellement en possession des **Cassalanters** car ils l'ont eux-même récupérée depuis leur propriété secondaire lors d'un échange étrange...
+
+Les **Cassalanters** organisent un événement autour de la **Pierre de Golor** dans leur manoir.
+
+Nous avons participé à l'événement qui s'est révélé être un tournoi pour remporter la Pierre. Et nous l'avons remporté ! La Pierre est maintenant entre notre possession.
+
+### Mission - Investiguer le manoir des [Cassalanters](../ORGANISATIONS/Cassalanters.md)
+Nous avons appris que la **Pierre de Golor** serait en possession des **Cassalanters**, dont le manoir se situe en dehors de la ville.
+
+[**Vajra**](../PERSONNAGES/VajraSafahr.md) nous a donné un mandat pour aller investiguer la maison des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md) dans trois jours. Nous devons attendre d'ici là.
+
+Nous sommes allés chez les **Cassalanters** et nous avons fait la connaissance du couple : [Victorrio & Saadia Cassalanters](../ORGANISATIONS/Cassalanters.md).
+
+Nous avons appris qu'ils organisaient un tournoi avec à la clé la **Pierre de Golor**. La participation s'élève à **2000 po**, et le tournoi consiste en trois épreuves, dont une course de **La Carte de Mario** et un **Tournoir d'Arts Martiaux**. Nous avons décidé d'y participer.
+
+En traînant dans la propriété, nous avons compris que plusieurs autres guildes de la cité allaient y participer, dont les **Xanathariens** et les **Zentharims**. Aussi, nous avons remarqué que la plupart des serviteur des Cassalanters étaient des **démons**.
+
+### Mission - Récupérer la Pierre de Golor
+Nous avons appris que la **Pierre de Golor** était en posession des [Cassalanters](../ORGANISATIONS/Cassalanters.md) et qu'ils préparaient un tournoi avec la Pierre à la clé.
+
+Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md), qui refuse qu'on participe en nom de la **Force Grise**. Elle nous a informé de la présence de la **Vipère Noire**, une assassine qui s'occupait d'affaiblir les équipes adverses avant le jour J.
+
+Nous avons informé [Raener](../PERSONNAGES/Rener-Pas-de-Braises.md). Il nous a pointé vers un de ses champions de **Carte de Mario**, **Luigi**.
+
+Luigi a déjà été employé par des **Xanathariens**. Nous leurs avons fait peur et sommé de partir. **Luigi** a pu s'enfuir de la ville, et il ne participera pas à la compétition.
+
+Nous avons convaincu [Nim](../Lieux.md#le-temple-de-la-main-ouverte) de construire un cheval mécanique et de se souder à lui-même afin de participer à la compétition.
+
+Nous avons convaincu **Maître Hlam** de participer au tournoi d'arts martiaux.
+
+Nous avons participé à la compétition, et remporté l'ensemble des épreuves. La dernière épreuve consistait en un tribunal ouvert où les premiers (nous) devaient se soumettre au jugement des derniers (les Xanathariens) et où nous pouvions perdre des points.
+
+Nous avons remporté la **Pierre de Golor** qui nous a donné une vision sur l'emplacement du trésor et sur la suite de l'aventure.
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 

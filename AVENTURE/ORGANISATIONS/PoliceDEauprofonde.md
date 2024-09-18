@@ -2,7 +2,7 @@
 
 ## Membres
 
-### Inspecteur Staget
+### Comissaire Staget
 
 * Responsable du **District du Port**
 * Il était en planque en train de surveiller l'entrepôt [**Zentharim**](../ORGANISATIONS/Zentharims.md).

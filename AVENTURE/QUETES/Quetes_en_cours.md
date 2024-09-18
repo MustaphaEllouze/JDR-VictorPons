@@ -1,8 +1,8 @@
 # Quêtes en cours
 
 ## Etats d'esprit - Les Alters
-### [Abitbol, l'Apathique](../ALTERS/Abitbol.md)
-> En sommeil...
+### [Abitbol, l'Apathique](../ALTERS/Abitbol.md) - En lumière
+> On a remporté le tournoi de la Pierre grâce à moi. Je crois que j'en ai assez fait pour le moment.
 ### [Le Gardien](../ALTERS/LeGardien.md)
 > C'est un peu compliqué pour **Ayum** en ce moment. Je vais demander aux autres de prendre le relais ponctuellement, vu que je suis le seul qui est gardé contact avec tout le monde.
 ### [Kuubi, l'Enfant](../ALTERS/Kuubi.md)
@@ -18,7 +18,7 @@
 
 > Y a une dame qui nous a mal parlé dans la rue l'autre jour. Elle nous a traité de tous les noms, surtout moi. Elle ne perd rien pour attendre.
 
-> J'ai envie de fumer ce connard de **Billy**, IL NOUS A TRAHI.
+> J'ai envie de fumer ce connard de **Billy**, IL NOUS A TRAHI. Vajra a mis un avis de recherche sur lui.
 
 ## Quête personnelle - [**Aium**](../../HISTOIRE/Aiumhykl'itheth.md)
 ### Mission - En apprendre plus sur Aium
@@ -30,7 +30,7 @@ En parlant à **Aium**, je me suis retrouvé face à lui dans une prison remplie
 
 Des légendes racontent que **Aium** serait un [**Dieu des Profondeurs**](../ORGANISATIONS/DieuxDesProfondeurs.md), des êtres qui seraient en guerre contre les [**Dieu des Astres**](../ORGANISATIONS/DieuxDesAstres.md), qui ne font pas partie des Panthéons qu'on connait.
 
-**Aium** m'a sauvé encore une fois, au prix de la sanité mentale. De nouvelles personnalités sont apparues.
+**Aium** m'a sauvé encore une fois, au prix de ma santé mentale apparemment. D'autres personnalités prennent ma place, selon mes compagnons, mais je ne me souviens de rien.
 
 ### Mission - En apprendre plus sur les [Dieux des Astres](../ORGANISATIONS/DieuxDesAstres.md) et les [Dieux des Profondeurs](../ORGANISATIONS/DieuxDesProfondeurs.md)
 
@@ -98,6 +98,8 @@ Le grand-père de [Finn](../PERSONNAGES/Finn.md) nous a trouvé avec un certain 
 
 Nous sommes allés à l'entrepôt et nous avons vu des cultistes qui nous attendaient : soit c'était un piège, soit il y a un informateur autour de nous.
 
+En revenant à l'**Ectoplasme Joyeux**, [Billy](../PERSONNAGES/Billy.md) n'était plus là, sans doute le signe qu'il est de mèche avec la [**Lune de Cristal**](../ORGANISATIONS/DieuxDesAstres.md#culte-de-la-lune-de-cristal). Le grand-père de **Finn** ne semble être au courant de rien.
+
 ### Mission - S'informer sur le culte
 
 > Nous devrions chercher d'avantage d'informations sur le culte de Lune de Cristal.
@@ -110,47 +112,15 @@ Nous savons que les membres du culte appellent le fait de nourrir les **Shai** :
 
 ## Quête - Le trésor de Pas-de-braises
 
-### Mission - Identifier la localisation du trésor
+### Mission - Accéder au trésor
 Après discussion avec [**Renaer**](../PERSONNAGES/Rener-Pas-de-Braises.md), nous avons appris que le trésor de son père était estimé à 500.000 pièces d'or. **Renaer** nous a promis 100.000 pièces d'or si on réussissait à le retrouver.
 
 > Je dois enquêter pour en apprendre plus sur ce trésor.
 
-### Mission - Enquêter sur la pierre de Golor
-Les **Zentharims** sont à la recherche d'une pierre, la **pierre de Golor**.
-
-> Je peux essayer de me renseigner sur les origines de cet artéfact.
-
-> Aller à l'événément organiser par les **Cassalanters** dans leur manoir.
-
-Nous savons que **Dalakhar** a récupéré la pierre et qu'il comptait la remettre à [**Renear**](../PERSONNAGES/Rener-Pas-de-Braises.md).
-
-Nous avons appris de la part des [Gralhund](../ORGANISATIONS/Gralhunds.md) que la pierre était en possession des [Zentharims](../ORGANISATIONS/Zentharims.md), et qu'ils l'ont donné à un **automate**.
-
-Nous avons informé [Vajra](../PERSONNAGES/VajraSafahr.md) de ce que nous savons. Elle nous a appris que cet artéfact était en réalité la **Pierre de Golor** et qu'elle était nécessaire à l'obtention du trésor, et qu'elle donnerait sa localisation.
-
-En enquêtant sur l'automate de [**Nim**](../Lieux.md#le-temple-de-la-main-ouverte), lui-même automate inventeur du temple de la Main Ouverte, nous avons découvert que cet automate portait sur lui l'addresse d'une propriété secondaire des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md).
-
-Nous avons appris que la pierre était actuellement en possession des **Cassalanters** car ils l'ont eux-même récupérée depuis leur propriété secondaire lors d'un échange étrange...
-
-Les **Cassalanters** organisent un événement autour de la **Pierre de Golor** dans leur manoir.
-
-### Mission - Investiguer le manoir des [Cassalanters](../ORGANISATIONS/Cassalanters.md)
-Nous avons appris que la **Pierre de Golor** serait en possession des **Cassalanters**, dont le manoir se situe en dehors de la ville.
-
-> Attendre de pouvoir y aller (reste 3 jours).
-
-[**Vajra**](../PERSONNAGES/VajraSafahr.md) nous a donné un mandat pour aller investiguer la maison des [**Cassalanters**](../ORGANISATIONS/Cassalanters.md) dans trois jours. Nous devons attendre d'ici là.
-
-### Mission - Comprendre les intentions des coupables
-Une explosion a eu lieu, mais nous ne connaissons pas les coupables.
-
-> Je peux essayer de me renseigner sur l'identité des coupables.
-
-Etant données les informations que nous avons, il est probable que les coupables soient dans le camp de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md).
-
-Les coupables ont laissé tombé un collier en forme de croissant de lune, l'arme du crime, qui permet de lancer des boules de feu. Il reste encore deux charges.
-
-Nous avons appris que **Dalakhar** portait sur lui une **pierre** de valeur. Les intentions des coupables étaient peut-être de récupérer cet artéfact.
+Au moment où [**Finn**](../PERSONNAGES/Finn.md) a récupéré la pierre de Golor, il a eu une vision lui indiquant l'emplacement du trésor (un vieux moulin) ainsi que les ingrédients nécessaire à son obtention :
+* Un oeil de spectateur ;
+* Deux oreilles de Gobelours ;
+* Une peinture d'un nain dont la profession est **mineur**. 
 
 ## Quête - Enquêter sur les [Zentharims](../ORGANISATIONS/Zentharims.md)
 ### Mission - Enquêter sur les luttes de pouvoir internes
