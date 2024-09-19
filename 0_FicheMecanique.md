@@ -85,6 +85,12 @@
 
 *Modificateur d'attaque pour les sorts* - **+6** (prof+CHA)
 
+#### Métamagie
+| Métamagie | Effet | Coût |
+| - | - | - |
+| **Sort accéléré** | Changer le temps d'incantation à 1 **action bonus** | 2 |
+| **Sort accéléré** | Lancer sans composantes somatiques ou verbales | 1 |
+
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
@@ -108,10 +114,13 @@
 |[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1|JdS SAG|Psionique|
 |[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA| Ensorceleur |
 |[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8| Ensorceleur |
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|JdS CON, 2d8, Pouss. 3m| Ensorceleur |
 |[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
 |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Occultiste |
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
+|[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
+|[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
+|[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
+|[**Rime's Binding Ice**](./SORTS/LEVEL2/RimesBindingIce.md)|Entrave de givre| Level 2 | 3d8, JdS CON, Cône 9m, Immo. | Ensorceleur |
 
 #### Rituels
 

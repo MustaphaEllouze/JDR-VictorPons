@@ -1,15 +1,5 @@
 # Notes
 
-Level Up :
-
-Prendre : 
-* Quickened ;
-* Subtle ;
-* Gagner Calm Emotions et Detect Thoughts ;
-* Tomber Thunderwave, prendre Tasha's Mind Whip ;
-* Prendre Rime's Binding Ice
-
----
 
 * Expression Tabaxi : 
     * Être un peu bizarre = Il lag
