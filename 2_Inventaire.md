@@ -8,7 +8,9 @@
 |**Corps**|Robe de puissance|
 |**Main droite**|Sceptre du gardien des pactes|
 |**Main gauche**|Sceptre du gardien des pactes|
+|**Amulette**| Amulette de bonne santé |
 |**Doigt 1**| Anneau des profondeurs |
+|**Doigt 2**| Anneau de protection |
 |**Ceinture**|2 Dagues, Arbalète légère (20 carreaux)|
 |**Dos**|Sac à dos|
 |**Instrument**|Chamisen|
@@ -44,7 +46,8 @@
 * Une outre d'eau
 
 *Consommables*
-* 1 potions de soins
+* 1 Potion de vol 
+* 2 Potions de soin Greater
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -69,6 +72,6 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|330|
+|**Or**|11756|
 |**Argent**|2|
 |**Cuivre**|0|

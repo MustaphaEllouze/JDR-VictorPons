@@ -13,29 +13,29 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 36 | **HP Max** | 36 |
+| **HP actuels** | 54 | **HP Max** | 54 (Nat. 36) |
 | **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 3d8 3d6 | **Dés de vie max** | 3d8 3d6 |
 | **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 2 | 2| 
+| Occultiste (Level 2) | 0 | 2| 
 | Level 1 | 4 | 4| 
 | Level 2 | 2 | 2| 
-| Sorcellerie | 3 | 3 (niv. sorc.)|
+| Sorcellerie | 1 | 3 (niv. sorc.)|
 
 
 ## Ability scores
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|**8**|**-1**|**-1**|
-|Dextérité|**16**|**+3**|**+3**|
-|Constitution|**12**|**+1**|**+1**|
-|Intelligence|**13**|**+1**|**+1**|
-|Sagesse|**10**|**+0**|**+3** (prof)|
-|Charisme|**16**|**+3**|**+6** (prof)|
+|Force|**8**|**-1**|**+0 (Nat. -1)**|
+|Dextérité|**16**|**+3**|**+4 (Nat. +3)**|
+|Constitution|**19 (Nat. 12)**|**+4 (Nat. +1)**|**+5 (Nat. +1)**|
+|Intelligence|**13**|**+1**|**+2 (Nat. +1)**|
+|Sagesse|**10**|**+0**|**+4 (Nat. +3)** (prof)|
+|Charisme|**16**|**+3**|**+7 (Nat. +6)** (prof)|
 
 
 |Nom|Type|Proficiency|Bonus|
@@ -63,7 +63,7 @@
 | | |
 |-|-|
 |**Bonus d'initiative**|+3|
-|**Classe d'armure**|14 = 10 + 1 (Robe de puissance) + 3 (DEX)|
+|**Classe d'armure**|15 = 10 + 1 (Robe de puissance) +1 (Anneau de protection) + 3 (DEX)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -83,13 +83,13 @@
 
 * En contact avec l'eau (**Anneau des profondeurs**) - **15** (8+prof+CHA+1) 
 
-*Modificateur d'attaque pour les sorts* - **+6** (prof+CHA)
+*Modificateur d'attaque pour les sorts* - **+7** (prof+CHA+1 (*daredevil's gloves*))
 
 #### Métamagie
 | Métamagie | Effet | Coût |
 | - | - | - |
 | **Sort accéléré** | Changer le temps d'incantation à 1 **action bonus** | 2 |
-| **Sort accéléré** | Lancer sans composantes somatiques ou verbales | 1 |
+| **Sort subtil** | Lancer sans composantes somatiques ou verbales | 1 |
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
@@ -140,6 +140,9 @@
 
 *Sceptre du gardien des pactes +1* (DISPONIBLE)
 * Vous pouvez récupérer un emplacement de sort d'occultiste dépensé si vous tenez le sceptre en main. Coûte **une action** et une fois par **repos long**.
+
+*Daredevil's Glove*
+* Vous n'êtes pas désavantagés pour lancer des sorts au corps à corps.
 
 ## Traits utilitaires
 ### Discours télépathique
