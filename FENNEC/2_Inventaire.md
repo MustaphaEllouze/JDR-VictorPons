@@ -22,6 +22,7 @@
 
 ### Armes
 * Arc long
+* Dague
 * Javelots (8)
 
 ### Objets
@@ -52,7 +53,7 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|32|
+|**Or**|30|
 |**Argent**|0|
 |**Cuivre**|0|
 
