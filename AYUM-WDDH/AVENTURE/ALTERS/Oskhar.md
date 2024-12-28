@@ -1,5 +1,5 @@
 # Oskhar - Le Paranoïaque
-![Oskhar](../.../_images/LeParanoiaque.png)
+![Oskhar](../../../_images/LeParanoiaque.png)
 
 Alter surexcité, il est le plus chaotique, et celui qui peut penser aux scénarios les plus improbables.
 

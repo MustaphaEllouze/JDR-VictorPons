@@ -1,5 +1,5 @@
 # Calm Emotions - Apaisement des émotions
-![Calm Emotions](../.../_images/calm_emotions.png)
+![Calm Emotions](../_images/calm_emotions.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

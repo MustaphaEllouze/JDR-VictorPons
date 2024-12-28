@@ -1,5 +1,5 @@
 # Shillelagh - Crosse des druides
-![Shillelagh](../.../_images/shillelagh.png)
+![Shillelagh](../_images/shillelagh.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

@@ -1,12 +1,12 @@
 # Auberge du Portail Soupirant
 Auberge dans la quelle se situe le **Portail Béant**/**Soupirant**, qui est l'entrée à l'**Undermountain**/**Montprofond**, un donjon labyrinthique sous Eauprofonde. Le puits au milieu de la tavere permet de s'y rendre.
 
-![Portail Béant](../.../_images/Portail_beant.webp)
+![Portail Béant](../../../_images/Portail_beant.webp)
 
 ## Membres
 
 ### Durnan
-![Durnan](../.../_images/durnan.jpg)
+![Durnan](../../../_images/durnan.jpg)
 
 * Patron et barman. 
 * Il a pris sa retraite d'aventurier pour fonder l'organisation.

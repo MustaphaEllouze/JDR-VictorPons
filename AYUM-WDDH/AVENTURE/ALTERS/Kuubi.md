@@ -1,5 +1,5 @@
 # Kuubi - L'Enfant
-![Kuubi](../.../_images/kuubi.png)
+![Kuubi](../../../_images/kuubi.png)
 
 Alter enfantin, il a peur de tout ce qui l'entoure.
 

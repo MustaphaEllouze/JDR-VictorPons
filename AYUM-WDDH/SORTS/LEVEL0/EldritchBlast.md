@@ -1,6 +1,6 @@
 # Eldritch Blast - Décharge Occulte
 
-![Eldritch Blast](../.../_images/EldritchBlast.png)
+![Eldritch Blast](../_images/EldritchBlast.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

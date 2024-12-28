@@ -1,5 +1,5 @@
 # Sylas - Le Méthodique
-![Sylas](../.../_images/LeMéthodique.png)
+![Sylas](../../../_images/LeMéthodique.png)
 
 Alter stratégique, il est celui qui s'occupe de préparer les plans lors des moments cruciaux.
 

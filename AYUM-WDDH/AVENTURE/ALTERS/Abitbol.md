@@ -1,5 +1,5 @@
 # Abitbol - L'Apathique
-![Abitbol](../.../_images/LApathique.png)
+![Abitbol](../../../_images/LApathique.png)
 
 Alter égoïste, il est celui qui prend les décisions difficiles et peu morales pour le système.
 

@@ -1,5 +1,5 @@
 # Vandjans - Le Colérique
-![Vandjans](../.../_images/vandjans.png)
+![Vandjans](../../../_images/vandjans.png)
 
 Alter colérique, il ne recule devant rien pour obtenir ce qui lui semble lui revenir de droit.
 

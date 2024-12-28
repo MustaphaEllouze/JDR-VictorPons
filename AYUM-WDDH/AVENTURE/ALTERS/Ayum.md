@@ -1,5 +1,5 @@
 # Ayum - Le Curieux
-![Ayum](../.../_images/ayum4.png)
+![Ayum](../../../_images/ayum4.png)
 
 Alter principal, et *véritable* (?) identité du **Tabaxi**.
 

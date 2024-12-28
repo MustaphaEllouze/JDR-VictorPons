@@ -1,6 +1,6 @@
 # Mind Sliver - Piqûre mentale
 
-![Mind Sliver](../.../_images/MindSliver.png)
+![Mind Sliver](../_images/MindSliver.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

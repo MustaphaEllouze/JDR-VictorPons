@@ -1,6 +1,6 @@
 # Xoblob - Propriétaire des [Curiosités de Xoblob](../Lieux.md#les-curiosités-de-xoblob---curiosités)
 
-![Xoblob](../.../_images/xoblob.png)
+![Xoblob](../../../_images/xoblob.png)
 
 Gnome des profondeurs adorant le violet, il est le propriétaire des [Curiosités de Xoblob](../Lieux.md#les-curiosités-de-xoblob---curiosités), qu'il a racheté.
 

@@ -1,6 +1,6 @@
 # Tasha's Mind Whip - Fouet Mental de Tasha
 
-![Tasha's Mind Whip](../.../_images/tashamindwhip.png)
+![Tasha's Mind Whip](../_images/tashamindwhip.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

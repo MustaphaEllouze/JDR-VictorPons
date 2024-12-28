@@ -1,5 +1,5 @@
 # Find Familiar - Appel de familier
-![Find Familiar](../.../_images/fin_damiliar.png)
+![Find Familiar](../_images/fin_damiliar.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

@@ -1,6 +1,6 @@
 # Rencontre avec Aiumhykl'iteeh'tha
 
-![Aium](./.../_images/Aiumhykl'itheth.png)
+![Aium](../../_images/Aiumhykl'itheth.png)
 
 Le jour de ses 20 ans, il y a de cela 1 an, **Ayum** avait réussi à rassembler assez d'argent avec sa famille afin de pouvoir s'acheter une place sur un bâteau de commerce afin d'aller sur le continent. 
 

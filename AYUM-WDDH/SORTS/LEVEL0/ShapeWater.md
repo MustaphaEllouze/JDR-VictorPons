@@ -1,5 +1,5 @@
 # Shape Water - Façonnage de l'eau
-![Shape Water](../.../_images/shapewater.png)
+![Shape Water](../_images/shapewater.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

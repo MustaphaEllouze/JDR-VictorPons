@@ -1,5 +1,5 @@
 # Detect Thoughts - Détection des pensées
-![Detect Thoughts](../.../_images/detectthoughts.png)
+![Detect Thoughts](../_images/detectthoughts.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

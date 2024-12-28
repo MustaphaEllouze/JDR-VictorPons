@@ -1,6 +1,6 @@
 # Rime's Binding Ice - Entraves de givre
 
-![Rime's Binding Ice](../.../_images/rimebindingice.png)
+![Rime's Binding Ice](../_images/rimebindingice.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

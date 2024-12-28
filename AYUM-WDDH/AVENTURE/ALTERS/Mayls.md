@@ -1,5 +1,5 @@
 # Mayls - L'Aimable
-![Mayls](../.../_images/LAimable.png)
+![Mayls](../../../_images/LAimable.png)
 
 Alter empathique, il est celui qui s'occupe de faire régner l'harmonie autour de lui.
 

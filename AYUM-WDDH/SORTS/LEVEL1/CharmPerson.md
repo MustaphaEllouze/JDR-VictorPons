@@ -1,6 +1,6 @@
 # Charm Person - Charme-Personne
 
-![Charm Person](../.../_images/charm-person.png)
+![Charm Person](../_images/charm-person.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

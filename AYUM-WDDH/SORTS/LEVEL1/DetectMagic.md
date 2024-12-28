@@ -1,5 +1,5 @@
 # Detect Magic - Détection de magie 
-![Detect Magic](../.../_images/detect_magic_.png)
+![Detect Magic](../_images/detect_magic_.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

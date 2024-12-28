@@ -18,7 +18,7 @@ Le jour où son grand-père est décédé de vieillesse, il lui confia sa **bagu
 
 Selon son grand-père, cette bague est supposée symboliser la paix intérieure et le calme. Afin de citer le dit grand-père : "Peut-être que àa t'apprendra un jour à poser ton putain de cul sur une chaise et d'arrêter de courir !".
 
-![Bague](.../_images/bague.png)
+![Bague](../../_images/bague.png)
 
 ## Kidnapping par un camp de gobelins
 

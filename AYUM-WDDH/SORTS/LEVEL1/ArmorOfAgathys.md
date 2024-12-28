@@ -1,6 +1,6 @@
 # Armor of Agathys - Armure d'Agathys
 
-![Armor of Agathys](../.../_images/armorofagathys.png)
+![Armor of Agathys](../_images/armorofagathys.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

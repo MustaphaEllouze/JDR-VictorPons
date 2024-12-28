@@ -1,5 +1,5 @@
 # Tour du Bâton Noir - Académie
-![Black Staff Tower](../.../_images/blacstafftower.webp)
+![Black Staff Tower](../../../_images/blacstafftower.webp)
 
 Tour abritant le bureau du Bâton Noir / Sceptre Noir, elle abrite également l'académie du Bâton Noir, connue entre autres pour sa magie de divination. 
 

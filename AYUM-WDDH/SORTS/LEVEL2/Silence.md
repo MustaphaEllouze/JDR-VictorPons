@@ -1,5 +1,5 @@
 # Silence - Silence
-![Silence](../.../_images/silence.png)
+![Silence](../_images/silence.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

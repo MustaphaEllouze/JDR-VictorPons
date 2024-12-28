@@ -1,5 +1,5 @@
 # Volothamp Geddarm - Barde, Ecrivain
-![Volo](../.../_images/volo.webp)
+![Volo](../../../_images/volo.webp)
 
 Barde et écrivain d'**Eauprofonde**, il est l'auteur du **Guide des Monstres**.
 

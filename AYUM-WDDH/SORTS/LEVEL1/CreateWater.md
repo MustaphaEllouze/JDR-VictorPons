@@ -1,6 +1,6 @@
 # Create Water - Création d'eau
 
-![Création d'Eau](../.../_images/)
+![Création d'Eau](../_images/)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

@@ -1,6 +1,6 @@
 # Create Bonfire - Embrasement
 
-![Create Bonfire](../.../_images/bonfire.png)
+![Create Bonfire](../_images/bonfire.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
