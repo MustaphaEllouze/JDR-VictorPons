@@ -1,5 +1,6 @@
 # Fennec Noire
 ![Fennec Noire](../_images/FennecNoir.png)
+![Fennec Noire](../_images/FennecNoir3.png)
 
 ## Informations générales
 
