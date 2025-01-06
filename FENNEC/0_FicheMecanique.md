@@ -27,12 +27,12 @@
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|**16**|**+3**|**+5 (prof)**|
+|Force|**17**|**+3**|**+5 (prof)**|
 |Dextérité|**14**|**+2**|**+2**|
 |Constitution|**14**|**+2**|**+4 (prof)**|
 |Intelligence|**8**|**-1**|**-1**|
 |Sagesse|**13**|**+1**|**+1**|
-|Charisme|**10**|**+0**|**+0**|
+|Charisme|**8**|**+0**|**+0**|
 
 
 |Nom|Type|Proficiency|Bonus|
@@ -44,17 +44,17 @@
 |Dressage|SAG||+1|
 |Escamotage|DEX||+2|
 |Histoire|INT||-1|
-|Intimidation|CHA|x (Guerrier)|+2|
+|Intimidation|CHA||-1|
 |Intuition/Perspicacité|SAG|x (Garde)|+3|
 |Investigation|INT||-1|
 |Médecine|SAG||+1|
 |Nature|INT||-1|
 |Perception|SAG|x (Garde)|+3|
-|Persuasion|CHA||+0|
+|Persuasion|CHA||-1|
 |Religion|INT||-1|
-|Représentation|CHA||+0|
-|Survie|SAG||+1|
-|Tromperie|CHA||+0|
+|Représentation|CHA||-1|
+|Survie|SAG|x (Garde)|+3|
+|Tromperie|CHA||-1|
 
 ## Caractéristiques de combat
 | | |
