@@ -53,8 +53,16 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|30|
+|**Or**|32|
 |**Argent**|0|
+|**Cuivre**|0|
+
+## Pot commun
+| | |
+|-|-|
+|**Platine**|0|
+|**Or**|90|
+|**Argent**|5|
 |**Cuivre**|0|
 
 ## Rappels

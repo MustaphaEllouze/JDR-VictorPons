@@ -1,26 +1,27 @@
-# Fennec Noire
-![Fennec Noire](../_images/FennecNoir.png)
-![Fennec Noire](../_images/FennecNoir3.png)
+# Noire Fennec
+![Noire Fennec](../_images/FennecNoir.png)
+![Noire Fennec](../_images/FennecNoir3.png)
 
 ## Informations générales
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Fennec Noir | **Niveau** | 1 |
-| **Age** | 25 | **Classe** | Guerrier 1 |
+| **Nom** | Fennec Noir | **Niveau** | 2 |
+| **Age** | 25 | **Classe** | Guerrier 2 |
 | **Alignement** | Lawful Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m73 | **Race** | Tabaxi |
-| |  | **Bonus de maîtrise** | +2 |
+| **Inspiration** | x | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 12 | **HP Max** | 12 |
+| **HP actuels** | 10 | **HP Max** | 20 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 1d10 | **Dés de vie max** | 1d10 |
-| **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
+| **Dés de vie actuels** | 2d10 | **Dés de vie max** | 2d10 |
+| **Second Souffle actuels** | 1 | **Second Souffle max** | 2 |
+| **Action Surge** | 0 | **Action Surge Max** | 1 |
 
 | Niveau Emplacement | Actuels | Maximum | 
-| - | - | -| 
+| - | - | - | 
 
 
 ## Ability scores
@@ -32,7 +33,7 @@
 |Constitution|**14**|**+2**|**+4 (prof)**|
 |Intelligence|**8**|**-1**|**-1**|
 |Sagesse|**13**|**+1**|**+1**|
-|Charisme|**8**|**+0**|**+0**|
+|Charisme|**8**|**-1**|**-1**|
 
 
 |Nom|Type|Proficiency|Bonus|
@@ -47,13 +48,13 @@
 |Intimidation|CHA||-1|
 |Intuition/Perspicacité|SAG|x (Garde)|+3|
 |Investigation|INT||-1|
-|Médecine|SAG||+1|
+|Médecine|SAG|x (Garde)|+3|
 |Nature|INT||-1|
 |Perception|SAG|x (Garde)|+3|
 |Persuasion|CHA||-1|
 |Religion|INT||-1|
 |Représentation|CHA||-1|
-|Survie|SAG|x (Garde)|+3|
+|Survie|SAG||+1|
 |Tromperie|CHA||-1|
 
 ## Caractéristiques de combat
@@ -104,6 +105,8 @@ Rappels :
 
 ### Traits de classe
 *Maîtrises* - Greatsword, Greataxe, Longbow
+
+*Tactical Mind* - Vous avez un esprit tactique sur et en dehors du champ de bataille. Quand vous ratez un jet de compétence, vous pouvez utiliser une charge de votre **Second Souffle** pour vous pousser vers le succès. Plutôt que de gagner des points de vie, vous pouvez ajouter **1d10** au résultat. Si cela reste un échec, votre charge n'est pas utilisée.
 
 ## Maîtrises
 
