@@ -67,5 +67,28 @@ Séance 3 : Oups dans les limbes...
 
 ---
 
+Séance 4
+
+* On va à la Lanterne Magique ;
+* Il y a des mouettes mortes sur le pont, elles sont perforées de part en part ;
+* On descend au niveau d'Emerick ; des gens qui discutent ;
+* On arrive devant Emerick ;
+* On essaye de lui faire croire qu'on veut acheter un artefact très cher, une robe d'archimage ;
+* Il accepte la proposition : 25% dans les deux mois, 5.000 P.O ; et il nous introduit aurpès de sa mère.
+* On a rendez-vous avec la mère Vanthampur ;
+* Il n'y a que Ralo qui a donné son prénom
+* Il y a une figure qui vient nous approcher : grande chevelure rousse, une femme de 20 ans, lourde armure >> Reya (humaine)
+    * C'est une réfugié d'Elturel ;
+    * Témoin de la descente d'Elturel aux Enfers : des chaînes qui ont attrapé la ville avant qu'elle ne descende
+    * Taddeus Krieg, a quitté la ville peu avant sa desncente, le maire de la ville, fait affaire avec les Vanthampur
+    * Elle veut retrouver Taddeus ; la dernière fois il était avec la matriache Vanthampur ;
+* Zodge ne veut pas intervenir ; mais il peut s'arranger pour que les gens autour de chez les Vanthampur soient des gens à lui ;
+* Il faut aller le voir le lendemain, et on verra ce qu'il nous donne ;
+
+
+
+---
+
 * Expressions Tabaxi :
     * Minibosse = Un gars un peu grand, un peu balèze
+    * Réseau Sinkgé = Un réseau et des contacts très puissants

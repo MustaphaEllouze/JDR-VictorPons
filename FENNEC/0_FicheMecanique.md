@@ -10,7 +10,7 @@
 | **Age** | 25 | **Classe** | Guerrier 3 - Maître de Guerre |
 | **Alignement** | Lawful Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m73 | **Race** | Tabaxi |
-| **Inspiration** |  | **Bonus de maîtrise** | +2 |
+| **Inspiration** | x | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
@@ -94,7 +94,7 @@ Rappels :
 * Vous puisez dans une réserve limité d'endurance physique et mentale. Vous regagnez **1d10+1** (1d10 + GUERRIER) points de vie.
 * Vous regagnez une charge par court repos.
 
-#### Manoeuvres - DD 13 (8+FOR+PROF)
+#### Manoeuvres - DD 13 (8+FOR+PROF) - D8
 
 *Ambush*
 

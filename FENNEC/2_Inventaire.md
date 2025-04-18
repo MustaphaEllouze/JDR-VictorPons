@@ -53,15 +53,15 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|32|
-|**Argent**|0|
+|**Or**|31|
+|**Argent**|8|
 |**Cuivre**|0|
 
 ## Pot commun
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|30|
+|**Or**|39|
 |**Argent**|0|
 |**Cuivre**|0|
 
