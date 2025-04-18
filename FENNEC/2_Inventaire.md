@@ -61,8 +61,8 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|90|
-|**Argent**|5|
+|**Or**|30|
+|**Argent**|0|
 |**Cuivre**|0|
 
 ## Rappels

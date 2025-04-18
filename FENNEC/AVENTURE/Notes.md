@@ -48,8 +48,22 @@ Séance 2 :
 * On trouve d'autres otages, 1 est mort, une tieffline vivante, on la soigne ;
 * Elle travaille pour la famille Jhasso, la famille de Klim ;
 * Un bruit de pierre sur de la pierre ;
-* 
 
+---
+
+Séance 3 : Oups dans les limbes...
+
+* On trouve DURGE, ORIN. On fume Durge.
+* On sauve le dernier de la famille Vanthampur, Morlock.
+    * Il veut se venger ;
+* On va revoir Zodge : il nous promet 1.000 P.O. si on arrive à fumer la Lanterne Basse (vieux bâteau désaffecté qui ne voyage plus) : 
+    * 500 PO = une grosse preuve ;
+    * 500 PO - si on l'incrimine totalement à jamais ;
+* Lanterne Basse : Emerick Vanthampur ;
+* Thurstwell : frère très malade, cloué au lit chez sa mère, armée de diablotins à disposition ;
+* Duchesse Thalamra : membre des Conseil des 4
+    * Elle veut faire pareil à la Porte de Baldur qu'à Elturel
+    * Kidnapper Emerick est le seul moyen de foutre la pression à Thalamra
 
 ---
 

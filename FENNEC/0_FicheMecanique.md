@@ -6,19 +6,20 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Fennec Noir | **Niveau** | 2 |
-| **Age** | 25 | **Classe** | Guerrier 2 |
+| **Nom** | Fennec Noir | **Niveau** | 3 |
+| **Age** | 25 | **Classe** | Guerrier 3 - Maître de Guerre |
 | **Alignement** | Lawful Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m73 | **Race** | Tabaxi |
-| **Inspiration** | x | **Bonus de maîtrise** | +2 |
+| **Inspiration** |  | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 10 | **HP Max** | 20 |
+| **HP actuels** | 28 | **HP Max** | 28 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 2d10 | **Dés de vie max** | 2d10 |
-| **Second Souffle actuels** | 1 | **Second Souffle max** | 2 |
-| **Action Surge** | 0 | **Action Surge Max** | 1 |
+| **Dés de vie actuels** | 3d10 | **Dés de vie max** | 3d10 |
+| **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
+| **Action Surge** | 1 | **Action Surge Max** | 1 |
+| **Dés de Supériorité** | 4 | **Dés de Supériorité Max** | 4 | 
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | - | 
@@ -54,7 +55,7 @@
 |Persuasion|CHA||-1|
 |Religion|INT||-1|
 |Représentation|CHA||-1|
-|Survie|SAG||+1|
+|Survie|SAG|X (Sous-classe)|+3|
 |Tromperie|CHA||-1|
 
 ## Caractéristiques de combat
@@ -93,6 +94,20 @@ Rappels :
 * Vous puisez dans une réserve limité d'endurance physique et mentale. Vous regagnez **1d10+1** (1d10 + GUERRIER) points de vie.
 * Vous regagnez une charge par court repos.
 
+#### Manoeuvres - DD 13 (8+FOR+PROF)
+
+*Ambush*
+
+> When you make a Dexterity (Stealth) check or an Initiative roll, you can expend one Superiority Die and add the die to the roll, unless you have the Incapacitated condition.
+
+*Trip Attack*
+
+> When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die and add the die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the Prone condition.
+
+*Pushing Attack*
+
+> When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+
 ### Autres
 *Agilité féline* - Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez à votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser jusqu'à ce que vous vous déplaciez de 0 m à l'un de vos tours.
 
@@ -116,6 +131,6 @@ Rappels :
 |**Instruments**||
 |**Armures**|Légères, Moyennes, Lourdes, Boucliers|
 |**Armes**|Armes de guerre, Armes simples|
-|**Outils**|Jeu de Cartes|
+|**Outils**|Jeu de Cartes, Outils de Cartographes|
 
 ## Organisations 
