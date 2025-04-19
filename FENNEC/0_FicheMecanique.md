@@ -6,17 +6,17 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Fennec Noir | **Niveau** | 3 |
-| **Age** | 25 | **Classe** | Guerrier 3 - Maître de Guerre |
+| **Nom** | Fennec Noir | **Niveau** | 4 |
+| **Age** | 25 | **Classe** | Guerrier 4 - Maître de Guerre |
 | **Alignement** | Lawful Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m73 | **Race** | Tabaxi |
 | **Inspiration** | x | **Bonus de maîtrise** | +2 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 28 | **HP Max** | 28 |
+| **HP actuels** | 36 | **HP Max** | 36 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 3d10 | **Dés de vie max** | 3d10 |
+| **Dés de vie actuels** | 4d10 | **Dés de vie max** | 4d10 |
 | **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
 | **Action Surge** | 1 | **Action Surge Max** | 1 |
 | **Dés de Supériorité** | 4 | **Dés de Supériorité Max** | 4 | 
@@ -29,7 +29,7 @@
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|**17**|**+3**|**+5 (prof)**|
+|Force|**18**|**+4**|**+6 (prof)**|
 |Dextérité|**14**|**+2**|**+2**|
 |Constitution|**14**|**+2**|**+4 (prof)**|
 |Intelligence|**8**|**-1**|**-1**|
@@ -37,26 +37,26 @@
 |Charisme|**8**|**-1**|**-1**|
 
 
-|Nom|Type|Proficiency|Bonus|
-|-|-|-|-|
-|Acrobaties|DEX|x (Tabaxi)|+4|
-|Arcanes|INT||-1|
-|Athlétisme|FOR|x (Guerrier)|+5|
-|Discrétion|DEX|x (Tabaxi)|+4|
-|Dressage|SAG||+1|
-|Escamotage|DEX||+2|
-|Histoire|INT||-1|
-|Intimidation|CHA||-1|
-|Intuition/Perspicacité|SAG|x (Garde)|+3|
-|Investigation|INT||-1|
-|Médecine|SAG|x (Garde)|+3|
-|Nature|INT||-1|
-|Perception|SAG|x (Garde)|+3|
-|Persuasion|CHA||-1|
-|Religion|INT||-1|
-|Représentation|CHA||-1|
-|Survie|SAG|X (Sous-classe)|+3|
-|Tromperie|CHA||-1|
+|Nom|Type|Proficiency|Expertise|Bonus|
+|-|-|-|-|-|
+|Acrobaties|DEX|x (Tabaxi)||+4|
+|Arcanes|INT|||-1|
+|Athlétisme|FOR|x (Guerrier)||+6|
+|Discrétion|DEX|x (Tabaxi)|x (Skill Expert)|+6|
+|Dressage|SAG|||+1|
+|Escamotage|DEX|x (Skill Expert)||+4|
+|Histoire|INT|||-1|
+|Intimidation|CHA|||-1|
+|Intuition/Perspicacité|SAG|x (Garde)||+3|
+|Investigation|INT|||-1|
+|Médecine|SAG|x (Garde)||+3|
+|Nature|INT|||-1|
+|Perception|SAG|x (Garde)||+3|
+|Persuasion|CHA|||-1|
+|Religion|INT|||-1|
+|Représentation|CHA|||-1|
+|Survie|SAG|X (Sous-classe)||+3|
+|Tromperie|CHA|||-1|
 
 ## Caractéristiques de combat
 | | |
@@ -68,8 +68,8 @@
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Maîtrise|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|-|
-|**Griffes**|+5|1d4+3|5 ft.|Grapple / Shove|1d20+FOR+PROF|1d4+FOR|
-|**Epée longue**|+5|2d6+3|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
+|**Griffes**|+6|1d4+4|5 ft.|Grapple / Shove|1d20+FOR+PROF|1d4+FOR|
+|**Epée longue**|+6|2d6+4|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
 |**Arc long**|+4|1d8+2|150 / 600 ft.|Slow|1d20+DEX+PROF|1d8+DEX|
 
 *Graze* - Si votre attaque **rate**, vous pouvez infliger **3 (= FOR)**. Les dégâts sont du mùême type.
@@ -94,7 +94,7 @@ Rappels :
 * Vous puisez dans une réserve limité d'endurance physique et mentale. Vous regagnez **1d10+1** (1d10 + GUERRIER) points de vie.
 * Vous regagnez une charge par court repos.
 
-#### Manoeuvres - DD 13 (8+FOR+PROF) - D8
+#### Manoeuvres - DD 14 (8+FOR+PROF) - D8
 
 *Ambush*
 
