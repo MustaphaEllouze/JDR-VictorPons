@@ -18,7 +18,7 @@
 ## Inventaire
 
 ### Equipement
-*
+* 
 
 ### Armes
 * Arc long
@@ -34,6 +34,7 @@
 * Corde
 * Briquet à amadou
 * Outre (2 L)
+* Masque à gaz
 
 *Consommables*
 * Huile
@@ -41,27 +42,32 @@
 * Torche (10)
 
 *Quêtes*
-* 
+
+* Pierre de magie cheloue (provient des Rat-Garous)
 
 *Stylés*
+
 * 
 
 *Marrants*
+
 * 
 
 ## Argent
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|31|
+|**Or**|131|
 |**Argent**|8|
 |**Cuivre**|0|
+
+* Vaelin me doit 200 P.O.
 
 ## Pot commun
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|39|
+|**Or**|21|
 |**Argent**|0|
 |**Cuivre**|0|
 

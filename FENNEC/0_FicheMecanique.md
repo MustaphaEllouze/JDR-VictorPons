@@ -72,7 +72,7 @@
 |**Epée longue**|+6|2d6+4|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
 |**Arc long**|+4|1d8+2|150 / 600 ft.|Slow|1d20+DEX+PROF|1d8+DEX|
 
-*Graze* - Si votre attaque **rate**, vous pouvez infliger **3 (= FOR)**. Les dégâts sont du mùême type.
+*Graze* - Si votre attaque **rate**, vous pouvez infliger **4 (= FOR)**. Les dégâts sont du mùême type.
 
 *Slow* - Si votre attaque **touche** et **inflige** des dégâts, vous pouvez réduire la vitesse de la cible de **1.5 m / 3 ft.** (Non cumulable).
 

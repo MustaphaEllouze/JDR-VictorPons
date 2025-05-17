@@ -85,6 +85,27 @@ Séance 4
 * Zodge ne veut pas intervenir ; mais il peut s'arranger pour que les gens autour de chez les Vanthampur soient des gens à lui ;
 * Il faut aller le voir le lendemain, et on verra ce qu'il nous donne ;
 
+---
+Séance 5
+
+* On va voir Zodge, il veut qu'on se réaventure dans les égoûts parce qu'il y a des bruits étranges qui s'en échappent ;
+* Les bruits se déplacent dans les égoûts ;
+* 200 P.O. par personne 
+* Taddeus Krieg serait de mèche avec des démons pour faire tomber les villes dans les Enfers ;
+    * Reya veut qu'on le retrouve pour qu'il réponde de sa trahison ;
+* Reya est recherchée parce qu'on les Balduriens veulent la mettre dehors et qu'elle a blessé des gardes ;
+* On a RDV avec les Vanthampur dans deux jours ;
+* Les bruits font VRRRRR, et font trembler les murs ;
+* On tombe sur une galerie creusée, ça nous rappelle les rats-garous ;
+* On voit une salle où les narines font extrêmement mal (genre gaz toxique) ;
+* Une tranchée au sol avec une seule rainure qui continue le long du couloir ;
+* Dans la pièce, des pioches, des pelles et de quoi creuser ;
+* On trouve une pierre verdâtre d'énergie malsaine ;
+* Ils creusaient pour arriver sous le coffre d'un noble ;
+* On prend la tête du chef des Rat-Garous pour preuve ;
+* On rend la quête à Zodge ;
+* Plan pour la prochaine fois : on ramène une épée gravée en infernale + une dague + autre chose ;
+* 
 
 
 ---
