@@ -105,7 +105,49 @@ Séance 5
 * On prend la tête du chef des Rat-Garous pour preuve ;
 * On rend la quête à Zodge ;
 * Plan pour la prochaine fois : on ramène une épée gravée en infernale + une dague + autre chose ;
-* 
+
+--- 
+Séance 6
+
+* On va voir Reya ;
+* Reya est OK pour rechercher sous invisiblité Taddeus ;
+* On passe au lendemain ;
+* On arrive à la villa avec Reya en invisible ;
+* On sait que les Vanthampur sont des nouveaux arrivés dans la noblesse de la ville ;
+* On trouve la mère Vanthampur dans le boudoir, avec Emerick à côté ;
+* Thalamra aide à l'effort de guerre pour la Guerre de Sang, dans la première strate des Enfers ;
+    * C'est Zariel qui gère la Guerre ;
+    * On s'est présentés comme des bras armés de Asmodée ;
+    * Thalamra a un deal avec Zariel ;
+* On trouve : chambre Morlock, Emerick, Thurstwel ;
+* Elle souhaitait faire tomber le Poing Enflammé ;
+* Ravengard est aux Enfers, avec Elturel ;
+* On les attaque et on casse la porte de Thrustwell, on se bat avec les diablotins ;
+* Ralo se fait passer pour Asmodée, les Vanthampur on un peu peur ;
+* Taddeus Krieg a été kidnappé par Reya : le Contractant de Thalmara est un DIable Barbu ;
+* Reya fait une explosion à l'extérieur : le Poing Enflammé 
+* Reya a trouvé toutes les preuves ;
+* Je tue Thurstwell ; et on essaye de tous se barrer ;
+* On s'enfuie ;
+* Reya nous propose une de ces planques, pour aller interroger Taddeus ;
+* On a un bouclier qui parle qui vient des Enfers ;
+* Taddeus dit qu'il a agit dans le bien d'Elturel : 
+    * Zariel a décidé d'intervenir dans la guerre du Sang ;
+    * Les Chevaliers Infernaux ont été un décimé parce qu'ils ont participé à la Guerre ; Ils ont été engagés par Zariel ;
+    * Zariel était un archange et elle est descendu aux Enfers car frustrée par l'inaction de ses collègues face à la Guerre ;
+    *  Seule une poignée de Cavaliers sont revenus, et refusant de parler de ce qu'il s'est passé ;
+    * Depuis Elturel est connue pour son soleil qui illumine la ville (le Compagnon) : récemment le Compagnon est devenu noir et la ville a disparu ;
+    * Zariel voulait plus de troupes fraîches pour combattre ;
+* L'ombre de Taddeus est étrange ;
+* Ils veulent faire tomber la ville pour être tomber dans les bonnes grâces de Zariel ;
+    * Bouclier = Gargoth
+    * Le Compagnon était en fait un piège ;
+* Gargoth = Diable de la Fosse ;
+    * Veut retourner aux Enfers ;
+* On retourne voir Zodge ;
+    * Il y avait tout un réseau diabolique sous la villa ;
+    * On finit à la quête avec Zodge ; 
+* On rencontre la Commandate Liara Portir, la cheffe de Zodge ;
 
 
 ---

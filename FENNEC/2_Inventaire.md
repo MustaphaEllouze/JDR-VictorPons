@@ -43,7 +43,7 @@
 
 *Quêtes*
 
-* Pierre de magie cheloue (provient des Rat-Garous)
+* Objet cubique de Thurstwell (objet diabolique)
 
 *Stylés*
 
@@ -57,11 +57,9 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|131|
+|**Or**|831|
 |**Argent**|8|
 |**Cuivre**|0|
-
-* Vaelin me doit 200 P.O.
 
 ## Pot commun
 | | |

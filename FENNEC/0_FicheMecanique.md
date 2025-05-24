@@ -14,12 +14,12 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 36 | **HP Max** | 36 |
+| **HP actuels** | 32 | **HP Max** | 36 |
 | **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 4d10 | **Dés de vie max** | 4d10 |
-| **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
-| **Action Surge** | 1 | **Action Surge Max** | 1 |
-| **Dés de Supériorité** | 4 | **Dés de Supériorité Max** | 4 | 
+| **Second Souffle actuels** | 1 | **Second Souffle max** | 2 |
+| **Action Surge** | 0 | **Action Surge Max** | 1 |
+| **Dés de Supériorité** | 1 | **Dés de Supériorité Max** | 4 | 
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | - | 
