@@ -148,10 +148,37 @@ Séance 6
     * Il y avait tout un réseau diabolique sous la villa ;
     * On finit à la quête avec Zodge ; 
 * On rencontre la Commandate Liara Portir, la cheffe de Zodge ;
+---
 
+Séance 7
+
+* Elle était à Schult, mais son père, le Duc Portir (Conseil des 4) l'a faite dépêchée parce que Ulter Gardecorbeau a été porté disparu ;
+* Elle a besoin de nous pour une mission : 
+    * Problème numéro 1 de la ville : Disparition du Duc Gardecorbeau -> Il est aux Enfers ;
+    * 1.000 P.O. par personne si jamais on le ramène ; 
+    * Elle nous promet également un objet de chez les Portir ;
+    * Elle a contact à Chateausuif qui pourra nous y emmener ;
+        * Silvira Savikas
+    * Elle nous donne une lettre pour avoir des ristournes chez tous les artisans de la ville ;
+* On se prépare pour le voyage ;
+* Tout le chariot est prêt, on y monte, le voyage prendra 5 jours ;
+* On arrive à la croisée de la Vouivre ;
+    * La zone est bondée et mal famée ;
+    * Vaelin se fait voler un petit objet sans intérêt ;
+* On suit la route du littoral ;
+* On s'est fait aggressés par des gobelins ;
+    * En les fouillant, on trouve des traces de Gris Loup (sort qui date d'il y a quelques jours) ;
+    * On trouve une carte qui mène vers une grotte ;
+    * On cache le chariot avec des feuillages, la grotte est à 30 min de marche ;
+* On rentre dans la caverne :
+    * Un grand gars qui donne des ordres aux goblins ;
+    * Il tient Gris Loup en captivité et s'amuse avec ;
+    
 
 ---
 
 * Expressions Tabaxi :
     * Minibosse = Un gars un peu grand, un peu balèze
     * Réseau Sinkgé = Un réseau et des contacts très puissants
+    * Une mission tactac = Un petite mission rapide, 20 minutes, in and out, pas plus
+    * Neldritch-blass : Un sort un peu occulte ;

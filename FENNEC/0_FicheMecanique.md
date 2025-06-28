@@ -14,10 +14,10 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 32 | **HP Max** | 36 |
+| **HP actuels** | 14 | **HP Max** | 36 |
 | **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 4d10 | **Dés de vie max** | 4d10 |
-| **Second Souffle actuels** | 1 | **Second Souffle max** | 2 |
+| **Second Souffle actuels** | 0 | **Second Souffle max** | 2 |
 | **Action Surge** | 0 | **Action Surge Max** | 1 |
 | **Dés de Supériorité** | 1 | **Dés de Supériorité Max** | 4 | 
 

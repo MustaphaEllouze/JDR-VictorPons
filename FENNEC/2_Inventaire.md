@@ -37,6 +37,9 @@
 * Masque à gaz
 
 *Consommables*
+* 1 potion de résistance de feu
+* 1 potion de résistance de nécrotique
+* 2 potions de soin supérieure (8d4 + 8)
 * Huile
 * Rations (10)
 * Torche (10)
@@ -44,6 +47,8 @@
 *Quêtes*
 
 * Objet cubique de Thurstwell (objet diabolique)
+* Lettre d'engagement de la part de Liara Portir
+* 
 
 *Stylés*
 
@@ -57,7 +62,7 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|831|
+|**Or**|331|
 |**Argent**|8|
 |**Cuivre**|0|
 
