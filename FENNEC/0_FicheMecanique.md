@@ -14,12 +14,12 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 14 | **HP Max** | 36 |
+| **HP actuels** | 44 | **HP Max** | 44 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 4d10 | **Dés de vie max** | 4d10 |
-| **Second Souffle actuels** | 0 | **Second Souffle max** | 2 |
-| **Action Surge** | 0 | **Action Surge Max** | 1 |
-| **Dés de Supériorité** | 1 | **Dés de Supériorité Max** | 4 | 
+| **Dés de vie actuels** | 5d10 | **Dés de vie max** | 5d10 |
+| **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
+| **Action Surge** | 1 | **Action Surge Max** | 1 |
+| **Dés de Supériorité** | 4 | **Dés de Supériorité Max** | 4 | 
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | - | 
@@ -29,9 +29,9 @@
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|**18**|**+4**|**+6 (prof)**|
+|Force|**18**|**+4**|**+7 (prof)**|
 |Dextérité|**14**|**+2**|**+2**|
-|Constitution|**14**|**+2**|**+4 (prof)**|
+|Constitution|**14**|**+2**|**+5 (prof)**|
 |Intelligence|**8**|**-1**|**-1**|
 |Sagesse|**13**|**+1**|**+1**|
 |Charisme|**8**|**-1**|**-1**|
@@ -39,42 +39,42 @@
 
 |Nom|Type|Proficiency|Expertise|Bonus|
 |-|-|-|-|-|
-|Acrobaties|DEX|x (Tabaxi)||+4|
+|Acrobaties|DEX|x (Tabaxi)||+5|
 |Arcanes|INT|||-1|
-|Athlétisme|FOR|x (Guerrier)||+6|
-|Discrétion|DEX|x (Tabaxi)|x (Skill Expert)|+6|
+|Athlétisme|FOR|x (Guerrier)||+7|
+|Discrétion|DEX|x (Tabaxi)|x (Skill Expert)|+8|
 |Dressage|SAG|||+1|
-|Escamotage|DEX|x (Skill Expert)||+4|
+|Escamotage|DEX|x (Skill Expert)||+5|
 |Histoire|INT|||-1|
 |Intimidation|CHA|||-1|
-|Intuition/Perspicacité|SAG|x (Garde)||+3|
+|Intuition/Perspicacité|SAG|x (Garde)||+4|
 |Investigation|INT|||-1|
-|Médecine|SAG|x (Garde)||+3|
+|Médecine|SAG|x (Garde)||+4|
 |Nature|INT|||-1|
-|Perception|SAG|x (Garde)||+3|
+|Perception|SAG|x (Garde)||+4|
 |Persuasion|CHA|||-1|
 |Religion|INT|||-1|
 |Représentation|CHA|||-1|
-|Survie|SAG|X (Sous-classe)||+3|
+|Survie|SAG|X (Sous-classe)||+4|
 |Tromperie|CHA|||-1|
 
 ## Caractéristiques de combat
 | | |
 |-|-|
-|**Bonus d'initiative**|+4 = DEX + Prof (Alerte)|
+|**Bonus d'initiative**|+5 = DEX + Prof (Alerte)|
 |**Classe d'armure**|15 = 13 + DEX|
 |**Vitesse**| 9 m / 30 ft.|
 
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Maîtrise|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|-|
-|**Griffes**|+6|1d4+4|5 ft.|Grapple / Shove|1d20+FOR+PROF|1d4+FOR|
-|**Epée longue**|+6|2d6+4|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
-|**Arc long**|+4|1d8+2|150 / 600 ft.|Slow|1d20+DEX+PROF|1d8+DEX|
+|**Griffes**|+7|1d4+4|5 ft.|Grapple / Shove|1d20+FOR+PROF|1d4+FOR|
+|**Epée longue**|+7|2d6+4|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
+|**Arc long**|+5|1d8+2|150 / 600 ft.|Slow|1d20+DEX+PROF|1d8+DEX|
 
 *Graze* - Si votre attaque **rate**, vous pouvez infliger **4 (= FOR)**. Les dégâts sont du mùême type.
 
-*Slow* - Si votre attaque **touche** et **inflige** des dégâts, vous pouvez réduire la vitesse de la cible de **1.5 m / 3 ft.** (Non cumulable).
+*Slow* - Si votre attaque **touche** et **inflige** des dégâts, vous pouvez réduire la vitesse de la cible de **1.5 m / 5 ft.** (Non cumulable).
 
 *Grapple* - La cible doit effectuer un **JdS de FOR/DEX** (votre choix) sous peine d'être **Grappled**. **DC** = 13 ( = 8+PROF+FOR)
 
@@ -94,7 +94,7 @@ Rappels :
 * Vous puisez dans une réserve limité d'endurance physique et mentale. Vous regagnez **1d10+1** (1d10 + GUERRIER) points de vie.
 * Vous regagnez une charge par court repos.
 
-#### Manoeuvres - DD 14 (8+FOR+PROF) - D8
+#### Manoeuvres - DD 15 (8+FOR+PROF) - D8
 
 *Ambush*
 

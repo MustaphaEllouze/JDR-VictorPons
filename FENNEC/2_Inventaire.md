@@ -12,13 +12,14 @@
 |**Doigt 1**||
 |**Doigt 2**| |
 |**Ceinture**||
+|**Pieds**|Paire de bottes ailés|
 |**Dos**||
 |**Instrument**||
 
 ## Inventaire
 
 ### Equipement
-* 
+* Paire de bottes ailés (4 charges, 1d4 de recharge par jour, 1h, 9m de vol) - Attunement
 
 ### Armes
 * Arc long
@@ -43,6 +44,7 @@
 * Huile
 * Rations (10)
 * Torche (10)
+* Potion de force de géant des collines (Monte à 21 pendant 1h)
 
 *Quêtes*
 
@@ -62,7 +64,7 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|331|
+|**Or**|145|
 |**Argent**|8|
 |**Cuivre**|0|
 

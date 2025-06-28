@@ -173,7 +173,35 @@ Séance 7
 * On rentre dans la caverne :
     * Un grand gars qui donne des ordres aux goblins ;
     * Il tient Gris Loup en captivité et s'amuse avec ;
-    
+
+---
+
+Séance 8
+
+* Fin de la deuxième journée ;
+* On arrive sur la voie du Lion, qui va vers Chateausuif ;
+* Un portail s'ouvre devant nous, quelque chose qui n'a rien à voir avec le Plan Matériel ;
+    * Braban, le marchand itinérant : un "kobold" ?
+    * Il faut un livre que la bibliothèque de la ville ne possède pas ;
+    * Il a une lotterie magique pour aller récupérer des objets dans son sac ;
+* On rencontre des gardes ;
+    * On y laisse le livre magique de Vlad, et on laisse notre bouclier ;
+    * En fait c'était des voleurs ;
+    * En fait, c'était aussi des démons ! Ils ont volé le bouclier ; ils voulaient le ramener chez Hhune (?) ;
+* On rentre dans Chateausuif ;
+* On passe la nuit à l'auberge ;
+* On va voir Silvira Savykas ;
+    * Une étoile à 9 branches au sol ;
+    * C'est une tieffline d'âge moyen ;
+    * Elle prend le rubicon et le bouclier pour les examiner ;
+    * Taddeus a fait en sorte que les habitants doivent juré un serment "Le Credo Résolu" qui oblige tous les habitants à défendre Eltugarde (le pays d'Elturel) ;
+    * Elle ouvre une des faces du cube : des petites plaques de fer noirs tombent ;
+        * Taddeus : a passé un pacte avec Zariel, et le pacte est le suivant : En gros c'est son esclave ; il acquiert le "Compagnon" (le Soleil) ; toutes les terres sous le Compagnon appartiennent à Zariel, et toutes les personnes dans Elturel appartiennent à Zariel ;
+    * La famille Hhune est une famille de Baldur, ils veulent le bouclier (Gargoth) ;
+    * Gargoth jure de nous aider jusqu'aux Enfers ;
+    * Elle nous envoie vers un de ses potes qui est spécialiste en voyage interplanaire : Thraxigor;
+    * Lulu : amie de Thraxigor et Zariel, et spécialiste des Enfers ;
+    * 
 
 ---
 
