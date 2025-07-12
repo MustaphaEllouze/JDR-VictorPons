@@ -16,11 +16,14 @@
 | **HP actuels** | 54 | **HP Max** | 54 (Nat. 36) |
 | **HP temporaires** | 0 | | |
 | **Dés de vie actuels** | 3d8 3d6 | **Dés de vie max** | 3d8 3d6 |
-| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
+| **Points de chance** | 2 | **Points Max. de chance** | 3 |
+| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 0 | 2| 
+| Occultiste (Level 2) | 2 | 2| 
 | Level 1 | 4 | 4| 
 | Level 2 | 2 | 2| 
 | Sorcellerie | 1 | 3 (niv. sorc.)|
@@ -32,10 +35,10 @@
 |-|-|-|-|
 |Force|**8**|**-1**|**+0 (Nat. -1)**|
 |Dextérité|**16**|**+3**|**+4 (Nat. +3)**|
-|Constitution|**19 (Nat. 12)**|**+4 (Nat. +1)**|**+5 (Nat. +1)**|
+|Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+5 (Nat. +0)**|
 |Intelligence|**13**|**+1**|**+2 (Nat. +1)**|
 |Sagesse|**10**|**+0**|**+4 (Nat. +3)** (prof)|
-|Charisme|**16**|**+3**|**+7 (Nat. +6)** (prof)|
+|Charisme|**17**|**+3**|**+7 (Nat. +6)** (prof)|
 
 
 |Nom|Type|Proficiency|Bonus|
@@ -53,7 +56,7 @@
 |Médecine|SAG||+0|
 |Nature|INT||+1|
 |Perception|SAG|x (Tabaxi / Far Traveler)|+3|
-|Persuasion|CHA||+3|
+|Persuasion|CHA|x (Warlock)|+6|
 |Religion|INT||+1|
 |Représentation|CHA||+3|
 |Survie|SAG||+0|
@@ -63,7 +66,7 @@
 | | |
 |-|-|
 |**Bonus d'initiative**|+3|
-|**Classe d'armure**|15 = 10 + 1 (Robe de puissance) +1 (Anneau de protection) + 3 (DEX)|
+|**Classe d'armure**|18 = 10 + 1 (Robe de puissance) +1 (Anneau de protection) + 3 (DEX) +3 (Mage Armor)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -79,57 +82,74 @@
 
 ### Sorts
 
-*DD de sauvegarde contre les sorts* - **14** (8+prof+CHA)
+*DD de sauvegarde contre les sorts* -
+  * Warlock - 15 (8+PROF+CHA+1 (sceptre))
+  * Sorcerer - 14 (8+PROF+CHA+1 (sceptre))
 
-* En contact avec l'eau (**Anneau des profondeurs**) - **15** (8+prof+CHA+1) 
+* En contact avec l'eau (**Anneau des profondeurs**) - +1
 
-*Modificateur d'attaque pour les sorts* - **+7** (prof+CHA+1 (*daredevil's gloves*))
+*Modificateur d'attaque pour les sorts* - 
+  * Warlock : **+8** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
+  * Warlock : **+7** (prof+CHA+2 (*daredevil's gloves*))
 
 #### Métamagie
 | Métamagie | Effet | Coût |
 | - | - | - |
 | **Sort accéléré** | Changer le temps d'incantation à 1 **action bonus** | 2 |
-| **Sort subtil** | Lancer sans composantes somatiques ou verbales | 1 |
+| **Sort chercheur** | Si échec lors d'une attaque, peut relancer le dé 20 | 1 |
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
+|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8+3 feu| Ensorceleur |
 |[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+6 (2*CHA), 2 rayons| Occultiste |
+|[**Elementalism**](./SORTS/LEVEL0/Elementalism.md)|Élémentalism|Cantrip|| Ensorceleur |
+|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 3 (CHA), JdS INT, -1d4 JdS|Psionique |
+|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 minute| Ensorceleur |
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure| Occultiste |
-|[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute| Livre des Ombres |
-|[**Shillelagh**](./SORTS/LEVEL0/Shillelagh.md)|Crosse des druides|Cantrip|Action Bonus| Livre des Ombres |
 |[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure| Livre des Ombres |
 |[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+3 (CHA), pas de réaction| Ensorceleur |
-|[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 action par créature pour dissiper, Jet INT| Ensorceleur |
-|[**Control Flames**](./SORTS/LEVEL0/ControlFlames.md)|Contrôles des flammes|Cantrip|3 effets| Ensorceleur |
-|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8 feu| Ensorceleur |
-|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 3 (CHA), JdS INT, Désavantage prochain JdS|Psionique |
+|[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute| Livre des Ombres |
+|[**True Strike**](./SORTS/LEVEL0/TrueStrike.md)|Frappe précise|Cantrip|Arme+1d6 Radiants| Livre des Ombres |
 
-#### Leveled Spells
+#### Level 1
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[**Armor of Agathys**](./SORTS/LEVEL1/ArmorOfAgathys.md)|Armure d'Agathys|Level 1|1 heure, 10 PV, 10 dégâts| Occultiste |
-|[**Unseen Servant**](./SORTS/LEVEL1/UnseenServant.md)|Serviteur invisible|Level 1|18m| Occultiste |
-|[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
+|[**Alarm**](./SORTS/LEVEL1/Alarm.md)|Alarme| Level 1 | | Livre des Ombres |
+|[**Arms of Hadar**](./SORTS/LEVEL1/ArmsOfHadar.md)|Bras de Hadar|Level 1|| Psionique |
 |[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1|JdS SAG|Psionique|
-|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA| Ensorceleur |
 |[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8| Ensorceleur |
+|[**Comprehend Languages**](./SORTS/LEVEL1/ComprehendLanguages.md)|Compréhension des Langues|Level 1|| Livre des Ombres |
 |[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
-|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Occultiste |
-|[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
+|[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
+|[**Hellish Rebuke**](./SORTS/LEVEL1/HellishRebuke.md)|Représailles Infernale|Level 1||Occultiste|
+|[**Mage Armor**](./SORTS/LEVEL1/MageArmor.md)|Armure du Mage|Level 1||Invocation Occulte|
+|[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA| Ensorceleur |
+|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|| Occultiste |
+
+#### Level 2
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
+|-|-| - |-| - |
 |[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
+|[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|| Ensoreleur |
+|[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|| Occultiste |
+|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Sorcerer |
+|[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 |[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
-|[**Rime's Binding Ice**](./SORTS/LEVEL2/RimesBindingIce.md)|Entrave de givre| Level 2 | 3d8, JdS CON, Cône 9m, Immo. | Ensorceleur |
 
 #### Rituels
 
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| -|
-|[**Find Familiar**](./SORTS/LEVEL1/FindFamiliar.md)|Appel de familier|Level 1|**10po**, 1 heure (Rituel uniquement)| Livre des Ombres |
-|[**Detect Magic**](./SORTS/LEVEL1/DetectMagic.md)|Détection de la magie|Level 1|9m (Rituel uniquement)| Livre des Ombres |
+|[**Alarm**](./SORTS/LEVEL1/Alarm.md)|Alarme| Level 1 | | Livre des Ombres |
+|[**Comprehend Languages**](./SORTS/LEVEL1/ComprehendLanguages.md)|Compréhension des Langues|Level 1|| Livre des Ombres |
 
 ### Autres
+*Sorcellerie innée* - Deux fois par long repos, vous pouvez utiliser une **action bonus** pour libérer la magie qui sommeille en vous. 
+* +1 aux DD des sorts d'ensorceleur que vous lancez ;
+* Avantage sur les jets d'attaque des sorts d'ensorceleur ;
+
 *Agilité féline* - Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez à votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser jusqu'à ce que vous vous déplaciez de 0 m à l'un de vos tours.
 
 *Tentacule des profondeurs*
@@ -145,6 +165,11 @@
 * Vous n'êtes pas désavantagés pour lancer des sorts au corps à corps.
 
 ## Traits utilitaires
+### Chanceux
+Vous avez 3 dés de chance, que vous regagnez à chaque **long repos**.
+* *Avantage* - Vous gagnez avantage sur un test D20 ;
+* *Désavatange* - Lorsqu'une créature vous attaque, vous pouvez lui imposer désavatange.
+
 ### Discours télépathique
 Vous pouvez créer un lien télépathique entre votre esprit et celui d'un autre. En tant qu'**action bonus**, choisissez une créature que vous pouvez voir à **6 mètres** de vous. Vous et cette créature pouvez parler télépathiquement l'un avec l'autre tant que vous êtes à une nombre de kilomètres inférieur à votre modificateur de Charisme multiplié par 1.5.
 
@@ -157,6 +182,15 @@ Le lien télépathique dure un nombre de minutes égal à votre niveau d'ensorce
 
 
 ### Traits de classe
+*Source de magie* - Vous pouvez transformer des points de sorcellerie en emplacement de sort.
+
+|Spell Slot|Coût|
+|-|-|
+|1|2|
+|2|3|
+
+*Ruse magique* - Vous pouvez utiliser une action pour regagner un emplacement de sort d'occultiste (une fois par long repos).
+
 *Don de la mer* - Vous pouvez respirer sous l'eau.
 
 ### Pacte du Grimoire
@@ -164,9 +198,6 @@ Votre protecteur vous donne un grimoire appelé un **livre des ombres** :
 * Quand vous gagnez cette aptitude, vous choisissez trois sorts mineurs dans n'importe quelle liste de sorts. Tant que le livre est sur vous, vous pouvez lancer ces sorts mineurs à volonté et ils ne comptent pas dans le nombre de sorts mineurs que vous connaissez. Vous les considérez comme des sorts d'occultiste.
 * Si vous perdez votre livre, vous pouvez accomplir une cérémonie d'une heure pour que votre protecteur vous donne une nouveau livre de remplacement.
 * Votre livre des ombres se désagrège à votre mort.
-
-### Sorts psioniques
-A chaque fois que vous gagnez un niveau d'ensorceleur, vous pouvez remplacer un sort **psionique** par un autre sort du même niveau. Le nouveau sort doit être un sort de **divination** ou d'**enchantement** de la liste des sorts d'**ensorceleur**, **occultiste** ou **magicien**.
 
 ## Invocations Occultes
 
@@ -177,6 +208,9 @@ A chaque fois que vous gagnez un niveau d'ensorceleur, vous pouvez remplacer un 
 * Quand vous avez votre livre des ombres en main, vous pouvez lancer les sorts que vous avez choisis en tant que rituels. Vous pouvez lancer ces sorts uniquement comme des rituels.
 * Vous pouvez lancer un sort d'occultiste que vous conaissez comme un rituel s'il possède la mention *rituel*.
 * Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l'ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau d'occultiste (arrondi au supérieur). Pour chaque niveau de sort, le processus de transcription prend deux heures et coûte 50 PO.
+
+*Armor of Shadows*
+* Vous pouvez lancer **Armure du Mage** sans utiliser d'emplacement de sort.
 
 ## Maîtrises
 

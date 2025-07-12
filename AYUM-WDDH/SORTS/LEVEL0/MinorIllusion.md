@@ -1,6 +1,6 @@
 # Minor Illusion - Illusion mineure
 
-![Minor Illusion](../_images/MinorIllusion.png)
+![Minor Illusion](../../../_images/MinorIllusion.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

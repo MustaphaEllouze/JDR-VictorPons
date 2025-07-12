@@ -1,5 +1,5 @@
 # Thunderwave - Vague Tonnante
-![Thunderwave](../_images/thunderwave.png)
+![Thunderwave](../../../_images/thunderwave.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

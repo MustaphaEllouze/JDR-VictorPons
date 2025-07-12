@@ -1,5 +1,5 @@
 # Thaumaturgy - Thaumaturgie
-![Thaumaturgy](../_images/thaumaturgy.png)
+![Thaumaturgy](../../../_images/thaumaturgy.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

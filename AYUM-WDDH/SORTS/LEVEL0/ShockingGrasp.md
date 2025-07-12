@@ -1,6 +1,6 @@
 # Shocking Grasp - Poigne électrique
 
-![Shocking Grasp](../_images/ShokingGrasp.png)
+![Shocking Grasp](../../../_images/ShokingGrasp.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

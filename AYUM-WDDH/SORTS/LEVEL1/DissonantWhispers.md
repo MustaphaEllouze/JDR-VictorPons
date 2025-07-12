@@ -1,6 +1,6 @@
 # Dissonant Whispers - Murmures dissonants
 
-![Dissonant Whispers](../_images/dissonant.png)
+![Dissonant Whispers](../../../_images/dissonant.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

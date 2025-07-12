@@ -205,6 +205,35 @@ Séance 8
 
 ---
 
+Séance 9 :
+
+* On va à la bibliothèque pour se renseigner sur les Enfers, les pactes, etc.
+  * Changer brutalement de plans peuvent avoir des impacts sur la psychés, dans des cas très particuliers ;
+  * Il est possible de trouver des failles dans les contrats, et les avocats infernaux sont les meilleurs pour trouver, et ils se trouvent dans toutes les strates ;
+  * Le point faible des diables, c'est qu'ils sont convaincus d'être plus intelligents que soi ;
+* On prend les griffons pour aller voir Thraxigor ;
+  * On se dirige vers une tour d'une château, qui a vécu de meilleurs jours ; 
+  * On arrive ;
+* Une loutre vêtue de rouge : parle en commun, parle d'une sorte de fourche -> C'est Thraxigor ;
+  * Il s'est transformé et est resté comme ça ;
+* Lulu a une très bonne amie en Averne > Zariel ;
+  * Amie quand elle était encore une archange, avec les Cavaliers Infernaux ;
+  * Zariel lui a ordonné de cacher son épée en Enfer, les Cavaliers les auraient trahis ?
+  * Il lui est arrivé un truc qui fait qu'elle a perdu la mémoire ;
+* Thraxigor fait le spell ;
+* On arrive sur Elturel, au milieu des Enfers ;
+  * Une sphère d'ombre lâche des éclairs sur la ville de façon périodique ;
+  * Une forteresse en ruine surplombe la ville ;
+* On se dirige vers une mère avec ses enfants qui se fait agressée ; 
+  * Ulder Gardecorbeau est dans la ville ; 
+  * La ville est supposée être divisée en deux par un fleux, là il n'y a plus que du vide ; 
+  * Il suffit de traverser les ponts ;
+  * Il y a pleins de gens qui meurent et c'est très triste ;
+  * Il faut atteindre la Cathédrale de Thorm ;
+*  
+
+---
+
 * Expressions Tabaxi :
     * Minibosse = Un gars un peu grand, un peu balèze
     * Réseau Sinkgé = Un réseau et des contacts très puissants
