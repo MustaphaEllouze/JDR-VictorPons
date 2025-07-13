@@ -1,5 +1,5 @@
 # Ayum Teeh
-![Ayum Teeh](../_images/dynamicpose.png)
+![Ayum Teeh](../_images/ShokingGrasp.png)
 
 ## Informations générales
 
@@ -13,20 +13,21 @@
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 54 | **HP Max** | 54 (Nat. 36) |
+| **HP actuels** | 52 | **HP Max** | 54 (Nat. 30) |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 3d8 3d6 | **Dés de vie max** | 3d8 3d6 |
-| **Charges Tentacules des Profondeurs** | 2 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **Dés de vie actuels** | 2d8 0d6 | **Dés de vie max** | 3d8 3d6 |
+| **Charges Tentacules des Profondeurs** | 1 | **Charges Max. Tentacules des Profondeurs** | 3 |
 | **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 2 | **Points Max. de chance** | 3 |
-| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
+| **Points de chance** | 0 | **Points Max. de chance** | 3 |
+| **Utilisation Ruse Magique** | | **Utilisation Sceptre Occultiste** | |
+| **Inspiration** |  |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 2 | 2| 
-| Level 1 | 4 | 4| 
+| Occultiste (Level 2) | 0 | 2 | 
+| Level 1 | 2 | 4| 
 | Level 2 | 2 | 2| 
-| Sorcellerie | 1 | 3 (niv. sorc.)|
+| Sorcellerie | 0 | 3 (niv. sorc.)|
 
 
 ## Ability scores
@@ -90,7 +91,7 @@
 
 *Modificateur d'attaque pour les sorts* - 
   * Warlock : **+8** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
-  * Warlock : **+7** (prof+CHA+2 (*daredevil's gloves*))
+  * Sorcerer : **+7** (prof+CHA+2 (*daredevil's gloves*))
 
 #### Métamagie
 | Métamagie | Effet | Coût |

@@ -38,9 +38,6 @@
 * Masque à gaz
 
 *Consommables*
-* 1 potion de résistance de feu
-* 1 potion de résistance de nécrotique
-* 2 potions de soin supérieure (8d4 + 8)
 * Huile
 * Rations (10)
 * Torche (10)
@@ -64,17 +61,10 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|145|
+|**Or**|0|
 |**Argent**|8|
 |**Cuivre**|0|
 
-## Pot commun
-| | |
-|-|-|
-|**Platine**|0|
-|**Or**|21|
-|**Argent**|0|
-|**Cuivre**|0|
 
 ## Rappels
 

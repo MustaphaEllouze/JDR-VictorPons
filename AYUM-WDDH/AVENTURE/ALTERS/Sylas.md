@@ -14,4 +14,4 @@ Il est le plus **méthodique** de la bande, et il prendra tout le temps qu'il fa
 | **Âge** | 52 |
 | **Espèce** | Tabaxi |
 | **MBTI** | ISTJ |
-| **Accent** | Calme |
+| **Accent** | Calme, vouvoie les gens |

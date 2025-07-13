@@ -47,7 +47,10 @@
 
 *Consommables*
 * 1 Potion de vol 
-* 2 Potions de soin Greater
+* 1 Potions de soin Greater (4d4+4)
+* 1 potion de résistance de feu
+* 1 potion de résistance de nécrotique
+* 2 potions de soin supérieure (8d4 + 8)
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -72,6 +75,14 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|11756|
+|**Or**|12021|
 |**Argent**|2|
+|**Cuivre**|0|
+
+## Pot commun
+| | |
+|-|-|
+|**Platine**|0|
+|**Or**|21|
+|**Argent**|0|
 |**Cuivre**|0|

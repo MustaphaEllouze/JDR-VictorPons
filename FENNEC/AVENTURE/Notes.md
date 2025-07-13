@@ -230,7 +230,61 @@ Séance 9 :
   * Il suffit de traverser les ponts ;
   * Il y a pleins de gens qui meurent et c'est très triste ;
   * Il faut atteindre la Cathédrale de Thorm ;
-*  
+
+---
+
+Séance 10
+
+* On continue d'avancer dans la ville ;
+* On voit des figures rentrer dans une petite maison ; 
+  * On s'en approche ;
+  * Ce sont des blêmes, on sauve petite fille, on va la ramener au grand hall ;
+* On arrive au pont :
+  * Il y a des runes sur le pont qu'on peut activer pour tuer tous les diables sur le pont ;
+* On rencontre un halfelin qui veut passer un pacte pour nourrir sa famille ; 
+  * On essaye de lui convaincre de ne pas lui faire ;
+  * On tue le diablotin, et on récupère une pièce spirituelle ;
+* On arrive devant la porte de la forteresse (cathédrale de Thorme);
+  * Il en reste plus grand chose, beaucoup de suie, de choses cassées ;
+  * On entre à l'intérieur ; 
+  * Il y a des gardes qui sont en train de vider de leur sang ;
+  * On a tué tous les diables qui étaient dans la cathédrale ;
+
+---
+
+Séance 11 
+
+* On descend dans la crypte, on croise un autel, et le corps d'une jeune femme qui traîne dans l'autel ;
+* On trouve des gens qui s'étaient cachés ;
+* On arrive à la crypte principale, il y a environ une centaine de personnes ;
+  * Pharria Jinks, la cheffe des lieux, Ulder est parti ;
+  * Elle est prêtre ;
+  * Heaume de vision de Torm -> Ulder Gardecorbeau est allé parti le récupérer ; 
+  * Il se trouve au Grand Cimetière ;
+  * Elle a le Tome du Credo Résolu, toutes les signatures des gens sont dedans ;
+* Il y a des zombies dans le cimetière qui ont l'air d'errer sans but dans le cimetière ;
+  * Il y a des minotaures squelettes démons qui nous attaquent ;
+  * On se fait attaquer par des ombres ;
+  * Un vitrail représentait Torm, l'autre Lathandre ;
+  * On rentre dans la dernière pièce avant de descendre, on trouve un certain Gidéon qui a vu Ulder et certains de ces amis, le Heaume est bien en dessous du Mausolée ;
+* On descend dans le Mausolée
+  * On trouve une statue sur laquelle il y avait le Heaume a priori ;
+  * On rentre dans un ossuaire ; 
+  * Il y a des symboles de Tyr, Torm, Lathandre, etc. 
+  * Les symboles commencent à luire d'une lueur peu divine ;
+  * On trouve une pièce avec une piscine de méditation ;
+  * Il y a un homme avec son casque, il prononce des formules très étranges (c'est Ulder) ;
+  * Il alterne entre Abyssal et Célestial : il parle de Torm de bonté et justice, puis de Baphomet, des hordes infernales ; 
+  * Il y a comme une lutte entre les deux mondes ;
+  * On lui retire son casque ; 
+  * Des visions d'armées meurtrières, sur des plaines et sur des terres corrompues dans l'esprit d'Ulder ;
+  * Une femme ensanglantée qui porte une armure, une épée longue digne d'un ange, porte les couleurs d'Elturel ;
+  * A côté de la femme, Lulu ; 
+  * Un démon qui menace de manger la femme (Zariel a priori), l'éléphant ailé fait du son avec sa trompe, le démon est repoussé, 
+  le palais d'albatre sort du sol autour de l'épée, l'éléphant ailé fuit et file vers le ciel d'Averne, une croûte se forme autour du palais, comme si elle essaie de rejeter le palais ;
+  * Lulu fuit, et a erré sans but dans un état de semi-conscience avant de rencontre 2 humanoides qui ont des dégaine d'oiseau, ils se tiennent à côté d'un véhicule infernal, et ils tiennent des armes ;
+* On ré-arrive à la cathédrale ;
+* 
 
 ---
 
