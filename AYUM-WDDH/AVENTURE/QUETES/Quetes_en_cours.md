@@ -68,10 +68,12 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
 * Tiffelin d'Asmodée - **Sarbina**, secréataire du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 * Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
-* Aasimar - Vaelin
+* Aasimar - Vaelin ;
+* Bonnet-Rouge - Oizik ;
 
 *Dans l'ordre alphabétique* : 
-* Aasimar - Vaelin
+* Aasimar - Vaelin ;
+* Bonnet-Rouge - Oizik ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
 * Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);

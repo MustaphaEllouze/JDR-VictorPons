@@ -5,29 +5,29 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 6 |
-| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 3 |
+| **Nom** | Ayum Teeh | **Niveau** | 7 |
+| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 4 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +3 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 52 | **HP Max** | 54 (Nat. 30) |
-| **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 2d8 0d6 | **Dés de vie max** | 3d8 3d6 |
-| **Charges Tentacules des Profondeurs** | 1 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **HP actuels** | 62 | **HP Max** | 62 (Nat. 34) |
+| **HP temporaires** | 11 | **Niveaux de fatigue** | 1 |
+| **Dés de vie actuels** | 3d8 4d6 | **Dés de vie max** | 3d8 4d6 |
+| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 | **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 0 | **Points Max. de chance** | 3 |
-| **Utilisation Ruse Magique** | | **Utilisation Sceptre Occultiste** | |
-| **Inspiration** |  |  |  |
+| **Points de chance** | 3 | **Points Max. de chance** | 3 |
+| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
+| **Inspiration** | X |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 0 | 2 | 
-| Level 1 | 2 | 4| 
-| Level 2 | 2 | 2| 
-| Sorcellerie | 0 | 3 (niv. sorc.)|
+| Occultiste (Level 2) | 2 | 2 | 
+| Level 1 | 4 | 4| 
+| Level 2 | 3 | 3| 
+| Sorcellerie | 4 | 4 (niv. sorc.)|
 
 
 ## Ability scores
@@ -39,7 +39,7 @@
 |Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+5 (Nat. +0)**|
 |Intelligence|**13**|**+1**|**+2 (Nat. +1)**|
 |Sagesse|**10**|**+0**|**+4 (Nat. +3)** (prof)|
-|Charisme|**17**|**+3**|**+7 (Nat. +6)** (prof)|
+|Charisme|**18**|**+4**|**+8 (Nat. +7)** (prof)|
 
 
 |Nom|Type|Proficiency|Bonus|
@@ -51,17 +51,17 @@
 |Dressage|SAG||+0|
 |Escamotage|DEX||+3|
 |Histoire|INT||+1|
-|Intimidation|CHA||+3|
+|Intimidation|CHA||+4|
 |Intuition/Perspicacité|SAG|x (Far Traveler)|+3|
 |Investigation|INT||+1|
 |Médecine|SAG||+0|
 |Nature|INT||+1|
 |Perception|SAG|x (Tabaxi / Far Traveler)|+3|
-|Persuasion|CHA|x (Warlock)|+6|
+|Persuasion|CHA|x (Warlock)|+7|
 |Religion|INT||+1|
-|Représentation|CHA||+3|
+|Représentation|CHA||+4|
 |Survie|SAG||+0|
-|Tromperie|CHA|x (Warlock)|+6|
+|Tromperie|CHA|x (Warlock)|+7|
 
 ## Caractéristiques de combat
 | | |
@@ -84,14 +84,14 @@
 ### Sorts
 
 *DD de sauvegarde contre les sorts* -
-  * Warlock - 15 (8+PROF+CHA+1 (sceptre))
-  * Sorcerer - 14 (8+PROF+CHA+1 (sceptre))
+  * Warlock - 16 (8+PROF+CHA+1 (sceptre))
+  * Sorcerer - 15 (8+PROF+CHA)
 
 * En contact avec l'eau (**Anneau des profondeurs**) - +1
 
 *Modificateur d'attaque pour les sorts* - 
-  * Warlock : **+8** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
-  * Sorcerer : **+7** (prof+CHA+2 (*daredevil's gloves*))
+  * Warlock : **+9** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
+  * Sorcerer : **+8** (prof+CHA+1 (*daredevil's gloves*))
 
 #### Métamagie
 | Métamagie | Effet | Coût |
@@ -102,16 +102,17 @@
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8+3 feu| Ensorceleur |
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+6 (2*CHA), 2 rayons| Occultiste |
+|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8+4 feu| Ensorceleur |
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+8 (2*CHA), 2 rayons| Occultiste |
 |[**Elementalism**](./SORTS/LEVEL0/Elementalism.md)|Élémentalism|Cantrip|| Ensorceleur |
-|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 3 (CHA), JdS INT, -1d4 JdS|Psionique |
+|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 4 (CHA), JdS INT, -1d4 JdS|Psionique |
 |[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 minute| Ensorceleur |
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure| Occultiste |
 |[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure| Livre des Ombres |
-|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+3 (CHA), pas de réaction| Ensorceleur |
+|[**Sorcerous Burst**](./SORTS/LEVEL0/SorcerousBurst.md)|Explosion de sorcellerie |Cantrip|2d8+4, relancer les 8| Ensorceleur |
+|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+4 (CHA), pas de réaction| Ensorceleur |
 |[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute| Livre des Ombres |
-|[**True Strike**](./SORTS/LEVEL0/TrueStrike.md)|Frappe précise|Cantrip|Arme+1d6 Radiants| Livre des Ombres |
+|[**True Strike**](./SORTS/LEVEL0/TrueStrike.md)|Frappe précise|Cantrip|Arme+1d6+4 Radiants| Livre des Ombres |
 
 #### Level 1
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
@@ -119,7 +120,6 @@
 |[**Alarm**](./SORTS/LEVEL1/Alarm.md)|Alarme| Level 1 | | Livre des Ombres |
 |[**Arms of Hadar**](./SORTS/LEVEL1/ArmsOfHadar.md)|Bras de Hadar|Level 1|| Psionique |
 |[**Charm Person**](./SORTS/LEVEL1/CharmPerson.md)|Charme-Personne|Level 1|JdS SAG|Psionique|
-|[**Chromatic Orb**](./SORTS/LEVEL1/ChromaticOrb.md)|Orbe Chromatique|Level 1|3d8| Ensorceleur |
 |[**Comprehend Languages**](./SORTS/LEVEL1/ComprehendLanguages.md)|Compréhension des Langues|Level 1|| Livre des Ombres |
 |[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
 |[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
@@ -131,10 +131,12 @@
 #### Level 2
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
+|[**Aganazzar's Scorcher**](./SORTS/LEVEL2/AganazzarsScorcher.md)| Flambée d'Aganazzar | Level 2 | 9m, 3d8, JdS DEX | Ensorceleur |
+|[**Arcane Vigor**](./SORTS/LEVEL2/ArcaneVigor.md)| Vigueur Arcanique | Level 2 |  | Ensorceleur |
 |[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
-|[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|| Ensoreleur |
-|[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|| Occultiste |
+|[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|Concentration 1h| Ensoreleur |
+|[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|2d8+3 Psy, 6m/18m| Occultiste |
 |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Sorcerer |
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 |[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
@@ -164,6 +166,9 @@
 
 *Daredevil's Glove*
 * Vous n'êtes pas désavantagés pour lancer des sorts au corps à corps.
+
+*Bolstering Performance* - (Inspiring Leader) 
+* When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to **six allies** (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to **your character level plus the modifier** of the ability you increased with this feat (CHA > 11 = 7+4).
 
 ## Traits utilitaires
 ### Chanceux

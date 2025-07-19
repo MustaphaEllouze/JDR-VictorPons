@@ -284,7 +284,45 @@ Séance 11
   le palais d'albatre sort du sol autour de l'épée, l'éléphant ailé fuit et file vers le ciel d'Averne, une croûte se forme autour du palais, comme si elle essaie de rejeter le palais ;
   * Lulu fuit, et a erré sans but dans un état de semi-conscience avant de rencontre 2 humanoides qui ont des dégaine d'oiseau, ils se tiennent à côté d'un véhicule infernal, et ils tiennent des armes ;
 * On ré-arrive à la cathédrale ;
-* 
+* On purge notre ami Ulder ;
+
+--- 
+
+Séance 12 
+
+* Il y a de gigantesques chaînes qui tiennent Elturel jusqu'à Averne, et c'est ce qui fait que la ville tremble une fois de temps en temps ;
+  * Elle va aller se poser sur la rivière Styx ;
+* Avec le heaume, Torm peut communiquer des visions aux mortels pour leur donner la voie à suivre ;
+* Lulu commence à se rappeler des hommes aux dégaines d'oiseaux :
+  * Tchuka et Klonk, dans le Fort d'Osphalange
+  * Ce sont des amis Kenkus de Lulu ;
+  * Ils ont des machines qui servent à se déplacer en Averne ;
+* On envoie Sending pour envoyer un message à Liara Portir ;
+  * Vlad sent un inconfort : des gens seront au courant de notre message également ;
+  * Bien reçu ;
+* Il faut retoruver l'épée de Zariel ;
+* Les chaînes sont en fer infernal + de la magie de pacte (contrat infernal) ;
+* On descend d'Elturel via les chaînes ;
+* Gargoth essaye de sortir, il n'y arrive pas ;
+  * Il nous demande de rejoindre Mahadi (le Tabaxi) des Châpiteaux Vagabonds ;
+  * Il est prêt à m'aider si jamais on l'amène à Mahadi ;
+* On met 5 heures à arriver, c'est à 15 miles ;
+  * On a vu passé de grosses machines infernales ;
+  * Une sorte de main qui ressort du sol, qui forme une colline (dans le complexe de la forteresse)
+  * On voit voir six Bonnets Rouges ;
+  * Il y en a beaucoup plus à l'intérieur, mais ça ressemble à une sorte de casse infernale ;
+  * On réussit à rentrer en faisant la danse ;
+  * Il y a deux Kenkus à l'intérieur : Tchuka et Klonk ;
+  * C'est le fort d'Osphalange ;
+  * On aide Tchuka à réparer une de ses bécanes, et la machine avance avec de la combustion d'âmes ;
+* La chef vient : elle a des yeux qui fonctionnent indépendamment, robe déchiquetée, avec deux corbeaux sur chaque épaule, une créature avec elle en mode monstre de Frankenstein faits de diables ;
+  * Maggie La Folle ;
+  * C'est une guenaude ;
+  * Elle avait "aidé" Lulu avant, et elle veut l'aider à retrouver la mémoire ;
+  * Deux des corbeaux sont en fait des diablotins, et nous disent que le Bonnet Rouge Oizik veut faire du mal à Lulu ;
+  * On croise "Barnabas le Crâne en Feu" ;
+    * Il était en la possession d'une autre guenaude ;
+  * 
 
 ---
 
