@@ -1,4 +1,4 @@
-# ? - Le Gardien
+# Gris Loup - Le Gardien
 ![Le Gardien](../../../_images/LeGardien.png)
 
 Alter calme, il est celui qui s'occupe de contrôler l'accès des autres alters au devant de la scène, et celui qui contrôle les souvenirs des autres.

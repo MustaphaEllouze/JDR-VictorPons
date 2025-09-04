@@ -6,30 +6,33 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Fennec Noir | **Niveau** | 4 |
-| **Age** | 25 | **Classe** | Guerrier 4 - Maître de Guerre |
+| **Nom** | Fennec Noir | **Niveau** | 7 |
+| **Age** | 25 | **Classe** | Guerrier 6 / Rôdeur 1- Maître de Guerre |
 | **Alignement** | Lawful Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m73 | **Race** | Tabaxi |
-| **Inspiration** | x | **Bonus de maîtrise** | +2 |
+| **Inspiration** | x | **Bonus de maîtrise** | +3 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 44 | **HP Max** | 44 |
+| **HP actuels** | 44 | **HP Max** | 60 |
 | **HP temporaires** | 0 | | |
-| **Dés de vie actuels** | 5d10 | **Dés de vie max** | 5d10 |
-| **Second Souffle actuels** | 2 | **Second Souffle max** | 2 |
-| **Action Surge** | 1 | **Action Surge Max** | 1 |
-| **Dés de Supériorité** | 4 | **Dés de Supériorité Max** | 4 | 
+| **Dés de vie actuels** | 7d10 | **Dés de vie max** | 7d10 |
+| **Second Souffle actuels** | 3 | **Second Souffle max** | 3 |
+| **Action Surge** | 0 | **Action Surge Max** | 1 |
+| **Dés de Supériorité** | 0 | **Dés de Supériorité Max** | 4 | 
+| **Charge de Marque du Chasseur** | 1 | **Charge de Marque du Chasseur Max** | 2 | 
+| **Charges de Bottes Ailées** | 3 | **Charge de Bottes Ailées** | 4 | 
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | - | 
+| 1 | 2 | 2 | 
 
 
 ## Ability scores
 
 | |Caractéristique|Modificateur| Jets de Sauvegarde |
 |-|-|-|-|
-|Force|**18**|**+4**|**+7 (prof)**|
+|Force|**19**|**+4**|**+7 (prof)**|
 |Dextérité|**14**|**+2**|**+2**|
 |Constitution|**14**|**+2**|**+5 (prof)**|
 |Intelligence|**8**|**-1**|**-1**|
@@ -43,7 +46,7 @@
 |Arcanes|INT|||-1|
 |Athlétisme|FOR|x (Guerrier)||+7|
 |Discrétion|DEX|x (Tabaxi)|x (Skill Expert)|+8|
-|Dressage|SAG|||+1|
+|Dressage|SAG|x (Ranger)||+4|
 |Escamotage|DEX|x (Skill Expert)||+5|
 |Histoire|INT|||-1|
 |Intimidation|CHA|||-1|
@@ -69,7 +72,7 @@
 |Arme|Toucher|Dégâts|Portée|Maîtrise|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|-|
 |**Griffes**|+7|1d4+4|5 ft.|Grapple / Shove|1d20+FOR+PROF|1d4+FOR|
-|**Epée longue**|+7|2d6+4|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR|
+|**Epée longue**|+7|2d6+7|5 ft.|Graze|1d20+FOR+PROF|1d4+FOR+PROF|
 |**Arc long**|+5|1d8+2|150 / 600 ft.|Slow|1d20+DEX+PROF|1d8+DEX|
 
 *Graze* - Si votre attaque **rate**, vous pouvez infliger **4 (= FOR)**. Les dégâts sont du mùême type.
@@ -86,6 +89,15 @@ Rappels :
 * Prone : Désavantagé sur les jets d'attaque, avantage pour attaquer la cible à moins de 5 ft., désavantage sinon.
 ```
 
+### Sorts
+
+#### Level 1
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
+|-|-| - |-| - |
+|[**Hunter's Mark**](./SORTS/LEVEL1/HuntersMark.md)|Marque du Chasseur| Level 1 | | Rôdeur |
+|[**Jump**](./SORTS/LEVEL1/Jump.md)|Saut| Level 1 | | Rôdeur |
+|[**Zephyr Strike**](./SORTS/LEVEL1/ZephyrStrike.md)|Frappe du Zéphyr| Level 1 | | Rôdeur |
+
 ### Traits de classe
 *Style de combat* - Combat d'armes à deux mains
 * Lors que vous infligez des dégâts avec une arme à deux mains, traitez tous les dés de dégâts dont le résultat est **1 ou 2 comme des 3**.
@@ -93,6 +105,12 @@ Rappels :
 *Second Souffle* - **Action Bonus**
 * Vous puisez dans une réserve limité d'endurance physique et mentale. Vous regagnez **1d10+1** (1d10 + GUERRIER) points de vie.
 * Vous regagnez une charge par court repos.
+
+*Hew*
+* Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
+
+*Great Weapon Master*
+* When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 #### Manoeuvres - DD 15 (8+FOR+PROF) - D8
 
@@ -119,7 +137,7 @@ Rappels :
 *Vision dans le noir* - Vous avez les sens aiguisés d'un chat, surtout dans l'obscurité. Vous pouvez voir dans une lumière faible à moins de 20 m / 60.ft de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible. Dans l'obscurité, vous ne discernez pas les couleurs, mais seulement les nuances de gris.
 
 ### Traits de classe
-*Maîtrises* - Greatsword, Greataxe, Longbow
+*Maîtrises* - Greatsword, Greataxe, Longbow, Heavy Crossbow, Halbarde
 
 *Tactical Mind* - Vous avez un esprit tactique sur et en dehors du champ de bataille. Quand vous ratez un jet de compétence, vous pouvez utiliser une charge de votre **Second Souffle** pour vous pousser vers le succès. Plutôt que de gagner des points de vie, vous pouvez ajouter **1d10** au résultat. Si cela reste un échec, votre charge n'est pas utilisée.
 

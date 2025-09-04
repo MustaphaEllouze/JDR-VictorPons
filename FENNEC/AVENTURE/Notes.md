@@ -326,6 +326,64 @@ Séance 12
 
 ---
 
+*Séance 13*
+
+* On va aller dans les rêves de Lulu pour faire le rituel ;
+* Etape 1 : On arrive dans une large colline d'herbes vertes ;
+  * Il y a un ange (Zariel) avec les yeux bandés, et Lulu à côté ;
+  * Maggie : Ce sont des faux souvenirs, dans des illusions ;
+  * On arrive sur la terre chaud d'Averne, bruits de la Guerre de Sang ;
+* Etape 3 : On descend dans les rêves, et on arrive devant le château d'albâtre, mais formé de mélasse noire ;
+* Lulu se souvient d'où est l'épée ;
+* Lulu avait des défenses psychologiques établies par Zariel sur elle ;
+* L'épée est plantée sur une colline, et elle sait où elle se trouve ;
+* Smiler a déjà eu des problèmes similaires à moi ;
+  * Un Elfe ;
+* J'ai échangé mon oeil contre un Oeild e Guenaude ;
+
+---
+
+*Séance 14*
+
+* L'épée se trouve sur la Colline d'Haruman ;
+* On va vers la colline d'Haruman ;
+* On tombe contre des Rats-Garous, on les affronte ;
+  * On tue les rats, ils venaient d'une base ;
+  * Leur base est près d'une colline faite de ferraille ;
+* On pique leur tank (un Mâche-Démon);
+* On se dirige encore vers la colline d'Haruman ;
+  * Haruman (cavalier infernal)  est resté après avoir subi une trahison ;
+* On arrive à la colline, il y a une haie et une forêt d'arbres métalliques, avec des humanoides qui sont empalés sur, qui sont des déserteurs, et des striges qui boivent leur sang ;
+  * Lulu les reconnaît -> des cavaliers infernaux ;
+  * Un elfe empâlé dans un grand arbre tout au sommet ;
+    * Jander Sunstar -> Il récupère tout le sang ;
+    * Lulu : C'est le premier déserteur, et a bloqué tout le monde dans les Enfers ;
+    * C'est un vampire ;
+    * Une fois dans les Enfers, ils sont arrivés devant une horde de démons ;
+    * C'était trop dur pour eux -> pris de panique, et n'ont combattu que quelques minutes ;
+* Lulu nous dit qu'elle s'est trompée
+  * Lulu -> Il faudrait plutôt aller vers les Arbres de l'Engeance ou le Zapping Pit ;
+
+---
+
+*Séance 15*
+
+* On arrive à l'Imperium Ambulant / Chapiteaux Ambulants, le repère de Mahadi ;
+*  On recroise Brabant -> Le kobold itinérant ;
+* On rentre dans la tente de Mahadi ;
+  * Un homme chauve souriant ;
+  * On a ramené Gargoth ;
+  * "En Enfer, tout est plus cher"
+  * C'est un diable (?) du clan d'Asmodée ;
+* L'entrée est gratuite cette fois-ci ;
+* On rentre dans le Boudoir ;
+  * C'est un demi-plan ;
+* On croise Smiler, il faut le faire sortir de l'Imperium pour avoir plus d'informations ;
+* On a pas fait affaire ;
+  * 
+
+---
+
 * Expressions Tabaxi :
     * Minibosse = Un gars un peu grand, un peu balèze
     * Réseau Sinkgé = Un réseau et des contacts très puissants

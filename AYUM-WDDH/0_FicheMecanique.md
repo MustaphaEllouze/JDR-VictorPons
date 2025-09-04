@@ -14,20 +14,20 @@
 | | | | |
 |---|---|---|---|
 | **HP actuels** | 62 | **HP Max** | 62 (Nat. 34) |
-| **HP temporaires** | 11 | **Niveaux de fatigue** | 1 |
-| **Dés de vie actuels** | 3d8 4d6 | **Dés de vie max** | 3d8 4d6 |
+| **HP temporaires** | 11 | **Niveaux de fatigue** |  |
+| **Dés de vie actuels** | 2d8 0d6 | **Dés de vie max** | 3d8 4d6 |
 | **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 | **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 3 | **Points Max. de chance** | 3 |
-| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
+| **Points de chance** | 2 | **Points Max. de chance** | 3 |
+| **Utilisation Ruse Magique** |  | **Utilisation Sceptre Occultiste** | |
 | **Inspiration** | X |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 2 | 2 | 
-| Level 1 | 4 | 4| 
+| Occultiste (Level 2) | 0 | 2 | 
+| Level 1 | 3 | 4| 
 | Level 2 | 3 | 3| 
-| Sorcellerie | 4 | 4 (niv. sorc.)|
+| Sorcellerie | 0 | 4 (niv. sorc.)|
 
 
 ## Ability scores
@@ -51,7 +51,7 @@
 |Dressage|SAG||+0|
 |Escamotage|DEX||+3|
 |Histoire|INT||+1|
-|Intimidation|CHA||+4|
+|Intimidation|CHA|+1 (Oeil de Guenaude)|+5|
 |Intuition/Perspicacité|SAG|x (Far Traveler)|+3|
 |Investigation|INT||+1|
 |Médecine|SAG||+0|

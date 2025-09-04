@@ -51,6 +51,7 @@
 * 1 potion de résistance de feu
 * 1 potion de résistance de nécrotique
 * 2 potions de soin supérieure (8d4 + 8)
+* 3 Pièce spirituelle
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -75,7 +76,7 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|12021|
+|**Or**|11871|
 |**Argent**|2|
 |**Cuivre**|0|
 
