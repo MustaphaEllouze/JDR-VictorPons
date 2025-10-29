@@ -9,65 +9,67 @@
 | **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 4 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
-| |  | **Bonus de maîtrise** | +3 |
+| |  | **Bonus de maîtrise** | +4 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 62 | **HP Max** | 62 (Nat. 34) |
+| **HP actuels** | 79 | **HP Max** | 79 (Nat. 43) |
 | **HP temporaires** | 11 | **Niveaux de fatigue** |  |
-| **Dés de vie actuels** | 2d8 0d6 | **Dés de vie max** | 3d8 4d6 |
+| **Dés de vie actuels** | 4d8 5d6 | **Dés de vie max** | 4d8 5d6 |
 | **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
 | **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 2 | **Points Max. de chance** | 3 |
-| **Utilisation Ruse Magique** |  | **Utilisation Sceptre Occultiste** | |
-| **Inspiration** | X |  |  |
+| **Points de chance** | 3 | **Points Max. de chance** | 3 |
+| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
+| **Utilisation Bloodwell** | X |   **Sorcerous Restoration** | X |  |  |
+| **Utilisation Bloodwell** | X |    |  |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 0 | 2 | 
-| Level 1 | 3 | 4| 
+| Occultiste (Level 2) | 2 | 2 | 
+| Level 1 | 4 | 4| 
 | Level 2 | 3 | 3| 
-| Sorcellerie | 0 | 4 (niv. sorc.)|
+| Level 3 | 2 | 2| 
+| Sorcellerie | 5 | 5 (niv. sorc.)|
 
 
 ## Ability scores
 
-| |Caractéristique|Modificateur| Jets de Sauvegarde |
-|-|-|-|-|
-|Force|**8**|**-1**|**+0 (Nat. -1)**|
-|Dextérité|**16**|**+3**|**+4 (Nat. +3)**|
-|Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+5 (Nat. +0)**|
-|Intelligence|**13**|**+1**|**+2 (Nat. +1)**|
-|Sagesse|**10**|**+0**|**+4 (Nat. +3)** (prof)|
-|Charisme|**18**|**+4**|**+8 (Nat. +7)** (prof)|
+| |Caractéristique|Modificateur| Jets de Sauvegarde | Notes |
+|-|-|-|-|-|
+|Force|**8**|**-1**|**-1**|
+|Dextérité|**16**|**+3**|**+3**|
+|Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+4 (Nat. +0)**|
+|Intelligence|**14 (Nat. 13)**|**+2 (Nat +1)**|**+2 (Nat. +1)**| (+1 grâce à Méphistophélès)
+|Sagesse|**10**|**+0**|**+4** (prof)|
+|Charisme|**20**|**+5**|**+9** (prof)|
 
 
 |Nom|Type|Proficiency|Bonus|
 |-|-|-|-|
 |Acrobaties|DEX||+3|
-|Arcanes|INT|x (Warlock)|+4|
+|Arcanes|INT|x (Warlock)|+6|
 |Athlétisme|FOR||-1|
-|Discrétion|DEX|x (Tabaxi)|+6|
+|Discrétion|DEX|x (Tabaxi)|+7|
 |Dressage|SAG||+0|
 |Escamotage|DEX||+3|
-|Histoire|INT||+1|
-|Intimidation|CHA|+1 (Oeil de Guenaude)|+5|
-|Intuition/Perspicacité|SAG|x (Far Traveler)|+3|
-|Investigation|INT||+1|
+|Histoire|INT||+2|
+|Intimidation|CHA|+1 (Oeil de Guenaude)|+6|
+|Intuition/Perspicacité|SAG|x (Far Traveler)|+4|
+|Investigation|INT||+2|
 |Médecine|SAG||+0|
-|Nature|INT||+1|
-|Perception|SAG|x (Tabaxi / Far Traveler)|+3|
-|Persuasion|CHA|x (Warlock)|+7|
-|Religion|INT||+1|
-|Représentation|CHA||+4|
+|Nature|INT||+2|
+|Perception|SAG|x (Tabaxi / Far Traveler)|+4|
+|Persuasion|CHA|x (Warlock)|+9|
+|Religion|INT||+2|
+|Représentation|CHA||+5|
 |Survie|SAG||+0|
-|Tromperie|CHA|x (Warlock)|+7|
+|Tromperie|CHA|x (Warlock)|+9|
 
 ## Caractéristiques de combat
 | | |
 |-|-|
 |**Bonus d'initiative**|+3|
-|**Classe d'armure**|18 = 10 + 1 (Robe de puissance) +1 (Anneau de protection) + 3 (DEX) +3 (Mage Armor)|
+|**Classe d'armure**|17 = 10 + 1 (Robe de puissance) + 3 (DEX) +3 (Mage Armor)|
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
@@ -75,44 +77,45 @@
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
 |-|-|-|-|-|-|
-|**Griffes**|1d20+2|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
-|**Sceptre du gardien des pactes +1**|1d20+3|1d8 contondants||1d20+FOR+PROF+1|1d8+FOR+1|
-|**Sceptre du gardien des pactes +1 / Shillelagh**|1d20+7|1d8+4 contondants||1d20+CHA+PROF+1|1d8+CHA+1|
-|**Dague**|1d20+6|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
-|**Arbalète Légère**|1d20+6|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
+|**Griffes**|1d20+3|1d4-1 tranchants||1d20+FOR+PROF|1d4+FOR|
+|**Sceptre du gardien des pactes +2**|1d20+5|1d8 contondants+1||1d20+FOR+PROF+2|1d8+FOR+2|
+|**Sceptre du gardien des pactes +2 / Shillelagh**|1d20+11|1d8+7 contondants||1d20+CHA+PROF+2|1d8+CHA+2|
+|**Dague**|1d20+7|1d4+3 tranchants|20/60|1d20+DEX+PROF|1d8+DEX|
+|**Arbalète Légère**|1d20+7|1d8+3 perforants|20/60|1d20+DEX+PROF|1d8+DEX|
 
 ### Sorts
 
 *DD de sauvegarde contre les sorts* -
-  * Warlock - 16 (8+PROF+CHA+1 (sceptre))
-  * Sorcerer - 15 (8+PROF+CHA)
+  * Warlock - 19 (8+PROF+CHA+2 (sceptre))
+  * Sorcerer - 19 (8+PROF+CHA+2(*bloodwell vial*))
 
 * En contact avec l'eau (**Anneau des profondeurs**) - +1
 
 *Modificateur d'attaque pour les sorts* - 
-  * Warlock : **+9** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
-  * Sorcerer : **+8** (prof+CHA+1 (*daredevil's gloves*))
+  * Warlock : **+12** (prof+CHA+2 (*daredevil's gloves* + *sceptre+1*))
+  * Sorcerer : **+12** (prof+CHA+2 (*daredevil's gloves*) +2 (*bloodwell vial*))
 
 #### Métamagie
 | Métamagie | Effet | Coût |
 | - | - | - |
 | **Sort accéléré** | Changer le temps d'incantation à 1 **action bonus** | 2 |
-| **Sort chercheur** | Si échec lors d'une attaque, peut relancer le dé 20 | 1 |
+| **Sort transmutateur** | Change to Acid, Cold, Fire, Lightning, Poison, Thunder | 1 |
 
 #### Cantrips
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
-|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8+4 feu| Ensorceleur |
-|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+8 (2*CHA), 2 rayons| Occultiste |
+|[**Create Bonfire**](./SORTS/LEVEL0/CreateBonfire.md)|Embrasement|Cantrip|Concentration, 1mn, JdS Dex, 2d8+5 feu| Ensorceleur |
+|[**Eldritch Blast**](./SORTS/LEVEL0/EldritchBlast.md)|Décharge Occulte|Cantrip|1d10+10 (2*CHA), 2 rayons| Occultiste |
 |[**Elementalism**](./SORTS/LEVEL0/Elementalism.md)|Élémentalism|Cantrip|| Ensorceleur |
-|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 4 (CHA), JdS INT, -1d4 JdS|Psionique |
+|[**Mage Hand**](./SORTS/LEVEL0/MageHand.md)|Main du mage|Cantrip||Occultiste |
+|[**Mind Sliver**](./SORTS/LEVEL0/MindSliver.md)|Piqûre Mentale|Cantrip|2d6 + 5 (CHA), JdS INT, -1d4 JdS|Psionique |
 |[**Minor Illusion**](./SORTS/LEVEL0/MinorIllusion.md)|Illusion Mineure|Cantrip|1 minute| Ensorceleur |
 |[**Prestidigitation**](./SORTS/LEVEL0/Prestiditation.md)|Prestidigitation|Cantrip|3 effets, 1 heure| Occultiste |
 |[**Shape Water**](./SORTS/LEVEL0/ShapeWater.md)|Façonnage de l'eau|Cantrip|2 effets, 1 heure| Livre des Ombres |
-|[**Sorcerous Burst**](./SORTS/LEVEL0/SorcerousBurst.md)|Explosion de sorcellerie |Cantrip|2d8+4, relancer les 8| Ensorceleur |
-|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+4 (CHA), pas de réaction| Ensorceleur |
+|[**Sorcerous Burst**](./SORTS/LEVEL0/SorcerousBurst.md)|Explosion de sorcellerie |Cantrip|2d8+5, relancer les 8| Ensorceleur |
+|[**Shocking Grasp**](./SORTS/LEVEL0/ShockingGrasp.md)|Poigne électrique|Cantrip|2d8+5 (CHA), pas de réaction| Ensorceleur |
 |[**Thaumaturgy**](./SORTS/LEVEL0/Thaumaturgy.md)|Thaumaturgie|Cantrip|3 effets, 1 minute| Livre des Ombres |
-|[**True Strike**](./SORTS/LEVEL0/TrueStrike.md)|Frappe précise|Cantrip|Arme+1d6+4 Radiants| Livre des Ombres |
+|[**True Strike**](./SORTS/LEVEL0/TrueStrike.md)|Frappe précise|Cantrip|Arme+1d6+5 Radiants| Livre des Ombres |
 
 #### Level 1
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
@@ -134,12 +137,22 @@
 |[**Aganazzar's Scorcher**](./SORTS/LEVEL2/AganazzarsScorcher.md)| Flambée d'Aganazzar | Level 2 | 9m, 3d8, JdS DEX | Ensorceleur |
 |[**Arcane Vigor**](./SORTS/LEVEL2/ArcaneVigor.md)| Vigueur Arcanique | Level 2 |  | Ensorceleur |
 |[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
+|[**Crown of Madness**](./SORTS/LEVEL2/CrownOfMadness.md)|Couronne de démence | Level 2 |  | Occultiste |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
 |[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|Concentration 1h| Ensoreleur |
 |[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|2d8+3 Psy, 6m/18m| Occultiste |
-|[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Sorcerer |
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 |[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
+<!-- |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Sorcerer | -->
+
+#### Level 3
+|Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
+|-|-| - |-| - |
+|[**Fireball**](./SORTS/LEVEL3/Fireball.md)|Boule de feu| 3 | 8d6, JdS DEX| Ensorceleur |
+|[**Slow**](./SORTS/LEVEL3/Slow.md)|Lenteur| 3 | JdS WIS, carré 12m | Ensorceleur |
+|[**Hunger of Hadar**](./SORTS/LEVEL3/HungerOfHadar.md)|Faim de Hadar| 3 |  | Psionique |
+|[**Sending**](./SORTS/LEVEL3/Sending.md)| Communication à distance | 3 |  | Psionique |
+|[**Tongues**](./SORTS/LEVEL3/Tongues.md)| Langues | 3 |  | Ensorceleur |
 
 #### Rituels
 
@@ -161,14 +174,22 @@
 * Comme action bonus à votre tour, vous pouvez déplacer le tentacule jusqu'à 9 m et répéter l'attaque.
 * Vous pouvez invoquer le tentacule un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
 
-*Sceptre du gardien des pactes +1* (DISPONIBLE)
+*Sceptre du gardien des pactes +2*
 * Vous pouvez récupérer un emplacement de sort d'occultiste dépensé si vous tenez le sceptre en main. Coûte **une action** et une fois par **repos long**.
 
 *Daredevil's Glove*
 * Vous n'êtes pas désavantagés pour lancer des sorts au corps à corps.
 
 *Bolstering Performance* - (Inspiring Leader) 
-* When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to **six allies** (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to **your character level plus the modifier** of the ability you increased with this feat (CHA > 11 = 7+4).
+* When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to **six allies** (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to **your character level plus the modifier** of the ability you increased with this feat (CHA > 14 = 9+5).
+
+*Bloodwell vial +2* -
+
+When you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can't be used again until the next dawn.
+
+*Sorcerous Restoration* -
+
+When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
 ## Traits utilitaires
 ### Chanceux
@@ -194,6 +215,7 @@ Le lien télépathique dure un nombre de minutes égal à votre niveau d'ensorce
 |-|-|
 |1|2|
 |2|3|
+|3|5|
 
 *Ruse magique* - Vous pouvez utiliser une action pour regagner un emplacement de sort d'occultiste (une fois par long repos).
 

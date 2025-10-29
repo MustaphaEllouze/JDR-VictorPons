@@ -6,12 +6,12 @@
 |||
 |-|-|
 |**Corps**|Robe de puissance|
-|**Main droite**|Sceptre du gardien des pactes|
-|**Main gauche**|Sceptre du gardien des pactes|
+|**Main droite**|Sceptre du gardien des pactes +2|
+|**Main gauche**|Sceptre du gardien des pactes +2|
 |**Amulette**| Amulette de bonne santé |
 |**Doigt 1**| Anneau des profondeurs |
-|**Doigt 2**| Anneau de protection |
-|**Ceinture**|2 Dagues, Arbalète légère (20 carreaux)|
+|**Doigt 2**|  |
+|**Ceinture**| Bloodwell Vial +2 |
 |**Dos**|Sac à dos|
 |**Instrument**|Chamisen|
 
@@ -26,6 +26,7 @@
 * Vêtements de voyageur
 * Vêtements de Xanatharien
 * Armure de cuir clouté
+* Anneau de protection
 
 ### Armes
 * Arme d'hast
@@ -51,7 +52,7 @@
 * 1 potion de résistance de feu
 * 1 potion de résistance de nécrotique
 * 2 potions de soin supérieure (8d4 + 8)
-* 3 Pièce spirituelle
+* 4 Pièce spirituelle (+10 dans le coffre de la bagnole)
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)
@@ -76,7 +77,7 @@
 | | |
 |-|-|
 |**Platine**|0|
-|**Or**|11871|
+|**Or**|10971|
 |**Argent**|2|
 |**Cuivre**|0|
 

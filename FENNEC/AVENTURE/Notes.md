@@ -380,7 +380,85 @@ Séance 12
   * C'est un demi-plan ;
 * On croise Smiler, il faut le faire sortir de l'Imperium pour avoir plus d'informations ;
 * On a pas fait affaire ;
-  * 
+
+---
+
+*Séance 16*
+
+* On va au Spawning Tree ;
+  * On va pouvoir obtenir des informations sur la Citadelle Ensanglantée ; 
+* On arrive devant un lac avec du sang de démon ;
+  * Il y a des arbres tout dégueulasses avec de la chair dessus, et ils sont tous tordus ;
+  * Il y a un mage qui emploie des Yugoloths ;
+  * On va essayer de trouver le mage ;
+* La tour apparaît ;
+  * C'est Mordenkaïnen ;
+  * Y a un autre mage dans le coin apparemment, il est à côté d'une obélisque ;
+* On arrive à l'obélisque ; 
+  * Il y a plusieurs petites pierres, de notre taille, autour de l'obélisque ;
+  * Il est coincé à l'intérieur ;
+  * Barlgura -> son nom ;
+  * On est frappés par la foudre ;
+  * En fait c'était un diable 
+* Le DEAL = On le libère vs. il nous donne de quoi libérer Smiler (deux machines inernales + deux âmes) et nous donne un indice sur l'épée de Zariel;
+
+--- 
+
+*Séance 17*
+
+* Barlgura nous a donné un endroit (un miroir) où on peut contacter Méphistophélès --> Le miroir de Méphistar
+* On retrourne voir Mordekaïnen ;
+  * Il nous donne une soul coin, et on part ensuite sans demander notre reste (maudite zone of truth) ;
+* On va vers le miroir de Méfistar ;
+  * Un miroir en glace un peu bizarre ;
+  * Ralo regarde dans le miroir, et il voit une version toute gelée de lui même ;
+  * On y voit également une grande tour de glace ;
+  * Un diable vient vers nous -> Rigorath, émissaire de Méphistophélès ;
+  * Méphistophélès a besoin qu'on fasse un truc : 
+    * Veut faire un barrage sur le Styx (un anti-affluent) ;
+    * Ce bras se déverser dans la fosse de Shumrath ; 
+    * En échange, il libère Barlgura et nous donne +1 soit en INT soit en SAG ;
+    * On signe le contrat ;
+* On va vers le lac de Limon et le Styx ;
+  * Il y a un Yugoloth qui se noie à intervalles réguliers ;
+  * On a libéré une entité qui était dans le limon en cassant le flux du Styx ;
+  * Le gros diable part et se dit "Bel ! Je vais me le faire !"
+  * Bel est le maître de la Forge ;
+* On retourne voir Barlgura ;
+  * On trouvera des indices à la Crypte des Cavaliers Infernaux ; 
+    * "Pour la Gloire !" > Mot de passe pour ouvrir la crypte ;
+    * Chevalier de la Mort : Olanthius, ancien cavalier infernal -> Il connaît 
+  * Il accepte de tout trouver de tout ramener, même Smiler et de faire tous les échanges ;
+
+---
+
+*Séance 18*
+
+* On se met en route vers la Grotte ; 
+  * On trouve la Foretresse Volante de Zariel ; 
+  * On décide de se cacher ;
+* On finit par arriver à la Crypte ;
+  * Il y a deux rangées de Cavaliers Infernaux morts, qui sont dans leur armure ;
+  * "Il y a un chevalier et un diable en gravure" ;
+  * On ouvre la crypte avec le mot de passe !
+  * La Crypte a été érigée par Zariel pour enfermer les Cavaliers Infernaux pour les rappeler un jour ;
+  * On arrive dans la Crypte ;
+  * On voit Zariel bandée, qui chevauche Lulu dans un bas relief ;
+  * On trouve des journaux posés sur la table ; Ce sont les journaux tenus par Olanthius ;
+    * Il ne s'est jamais remis de la capitulation de Zariel face à Asmodée ; 
+    * Il se rejette la faute sur lui ;
+    * Olanthius s'est donné la mort, mais Zariel l'a transformé en Chevalier de la Mort ; 
+    * Il parle de Haruman ;
+    * Il respecte la générale Yaelle ;
+    * Il sait qu'Olanthius sait où se trouve l'Epée et la Citadelle
+* Olanthius arrive, il a trois spectres autour de lui, il semble contrôlé par Zariel ou un truc du genre ;
+  * On réussit à le persuader de se calmer un peu ;
+  * Il est magiquement lié à Zariel ;
+  * Zariel a emprisonné un Seigneur Démon, qu'il faudrait libérer, il est rempli de haine envers Zariel, Zariel lui a volé son marteau ;
+    * Kostchtchie (le nom du Diable) ;
+    * En libérant le démon, on occupera Zariel ce qui permettra à Olanthius de trahir Zariel et aller chercher l'épée avec nous ;
+*  
+
 
 ---
 
@@ -389,3 +467,4 @@ Séance 12
     * Réseau Sinkgé = Un réseau et des contacts très puissants
     * Une mission tactac = Un petite mission rapide, 20 minutes, in and out, pas plus
     * Neldritch-blass : Un sort un peu occulte ;
+    * Un superman : un truc qui vole et qu'on n'arrive pas à identifier ;
