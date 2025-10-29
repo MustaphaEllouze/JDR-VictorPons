@@ -1,6 +1,6 @@
 # Hellish Rebuke - Représailles Infernales
 
-![Hellish Rebuke](../../../_images/hellish_rebuke.png)
+![Hellish Rebuke]()
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|

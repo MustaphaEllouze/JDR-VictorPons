@@ -1,6 +1,6 @@
 # Fireball - Boule de feu
 
-![Boule de feu]()
+![Boule de feu](../../../_images/hellish_rebuke.png)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
