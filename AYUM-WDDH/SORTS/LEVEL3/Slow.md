@@ -1,19 +1,18 @@
 # Slow - Lenteur
 
-![Slow]()
+![](../../../_images/)
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
-|Transmutation|Niveau 3|1 action|36 m|V, S, M|1 minute|
+|Transmutation|Niveau 3|1 Action|36 m|V, S, M|1 minute (concentration)|
 
-Vous modifiez le temps autour de **6 créatures** de votre choix maximum, dans un cube de **12 mètres** de côté à portée. Chaque cible doit réussir un jet de sauvegarde de **Sagesse** pour être affectée par ce sort pendant toute sa durée.
+Vous modifiez le temps autour de **6 créatures** de votre choix dans un **cube de 12 mètres** à portée. Chaque cible doit réussir un **jet de sauvegarde de Sagesse** ou être affectée par ce sort pendant toute sa durée.
 
-* La Vitesse d'une cible affectée est **réduite de moitié** ;
-* Elle subit un malus de **-2 à sa CA** ;
-* Elle subit un malus de **-2 à ses jets de sauvegarde de Dextérité** ; 
-* Elle **ne peut pas effectuer de Réactions** ; 
-* Elle peut effectuer **soit une action, soit une action bonus**, mais pas les deux ;
-* Elle ne peut effectuer qu'**une seule attaque** si elle utilise l'action Attaquer. 
-* Si elle lance un sort avec une composante somatique, il y a **25 % de chances** que le sort échoue si la cible effectue les gestes requis trop lentement.
+* Vitesse réduite de moitié ;
+* -2 CA ;
+* -2 Jets de Sauvegarde de Dextérité ;
+* Pas de réaction ;
+* 1 action, 1 bonus action ou une Attaque ;
+* 25% de chances qu'un sort avec composantes somatique échoue ;
 
-Une cible affectée **renouvelle le jet de sauvegarde** **à la fin** de chacun de ses tours ; en cas de réussite, le sort prend fin.
+Une cible affectée **répète le jet de sauvegarde** à la fin de chacun de ses tours, mettant fin au sort sur elle-même en cas de réussite.

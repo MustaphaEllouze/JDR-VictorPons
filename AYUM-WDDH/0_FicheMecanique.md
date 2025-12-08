@@ -5,8 +5,8 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 7 |
-| **Age** | 21 | **Classe** | Occultiste 3 / Ensorceleur 4 |
+| **Nom** | Ayum Teeh | **Niveau** | 9 |
+| **Age** | 21 | **Classe** | Occultiste 4 / Ensorceleur 5 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +4 |
@@ -14,14 +14,13 @@
 | | | | |
 |---|---|---|---|
 | **HP actuels** | 79 | **HP Max** | 79 (Nat. 43) |
-| **HP temporaires** | 11 | **Niveaux de fatigue** |  |
-| **Dés de vie actuels** | 4d8 5d6 | **Dés de vie max** | 4d8 5d6 |
-| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 3 |
+| **HP temporaires** | 14 | **Niveaux de fatigue** |  |
+| **Dés de vie actuels** | 4d8 4d6 | **Dés de vie max** | 4d8 5d6 |
+| **Charges Tentacules des Profondeurs** | 4 | **Charges Max. Tentacules des Profondeurs** | 4 |
 | **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
 | **Points de chance** | 3 | **Points Max. de chance** | 3 |
 | **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
-| **Utilisation Bloodwell** | X |   **Sorcerous Restoration** | X |  |  |
-| **Utilisation Bloodwell** | X |    |  |  |  |
+| **Utilisation Bloodwell** | X |   **Sorcerous Restoration** | X  |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
@@ -135,7 +134,7 @@
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
 |[**Aganazzar's Scorcher**](./SORTS/LEVEL2/AganazzarsScorcher.md)| Flambée d'Aganazzar | Level 2 | 9m, 3d8, JdS DEX | Ensorceleur |
-|[**Arcane Vigor**](./SORTS/LEVEL2/ArcaneVigor.md)| Vigueur Arcanique | Level 2 |  | Ensorceleur |
+|[**Arcane Vigor**](./SORTS/LEVEL2/ArcaneVigor.md)| Vigueur Arcanique | Level 2 | 1+CHA dés de vie | Ensorceleur |
 |[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
 |[**Crown of Madness**](./SORTS/LEVEL2/CrownOfMadness.md)|Couronne de démence | Level 2 |  | Occultiste |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
@@ -150,8 +149,8 @@
 |-|-| - |-| - |
 |[**Fireball**](./SORTS/LEVEL3/Fireball.md)|Boule de feu| 3 | 8d6, JdS DEX| Ensorceleur |
 |[**Slow**](./SORTS/LEVEL3/Slow.md)|Lenteur| 3 | JdS WIS, carré 12m | Ensorceleur |
-|[**Hunger of Hadar**](./SORTS/LEVEL3/HungerOfHadar.md)|Faim de Hadar| 3 |  | Psionique |
-|[**Sending**](./SORTS/LEVEL3/Sending.md)| Communication à distance | 3 |  | Psionique |
+|[**Hunger of Hadar**](./SORTS/LEVEL3/HungerOfHadar.md)|Faim de Hadar| 3 | 6m, 2d6 début, 2d6 fin | Psionique |
+|[**Sending**](./SORTS/LEVEL3/Sending.md)| Communication à distance | 3 | 5% d'échec sur autre plan | Psionique |
 |[**Tongues**](./SORTS/LEVEL3/Tongues.md)| Langues | 3 |  | Ensorceleur |
 
 #### Rituels

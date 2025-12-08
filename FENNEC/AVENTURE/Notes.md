@@ -455,10 +455,34 @@ Séance 12
   * On réussit à le persuader de se calmer un peu ;
   * Il est magiquement lié à Zariel ;
   * Zariel a emprisonné un Seigneur Démon, qu'il faudrait libérer, il est rempli de haine envers Zariel, Zariel lui a volé son marteau ;
-    * Kostchtchie (le nom du Diable) ;
-    * En libérant le démon, on occupera Zariel ce qui permettra à Olanthius de trahir Zariel et aller chercher l'épée avec nous ;
-*  
+    * Kostchtchie (le nom du Démon) ;
+    * En libérant le démon, on occupera Zariel ce qui permettra à Olanthius de trahir Zariel et aller chercher l'épée avec nous ; 
 
+---
+
+*Séance 19*
+
+* On va voir Kostchtchie, il est dans une fosse, il y a des diables méchants qui le retiennent ;
+* Maggie la Folle a récupéré Smiler ;
+* On arrive devant la Grande Croute où dedans y a le château, c'est ce qu'on a vu dans les souvenirs de Lulu ;
+* C'est de la roche, en escaladant le dôme, la croûte ne s'est pas totalement refermée ;
+  * Il y a des galeries qui sont creusées dans le dôme ;
+* On commence à descendre petit à petit dans le dôme !
+
+---
+
+*Séance 20*
+
+* On arrive dans une salle pleine de sang, on se fait aggresser par un démon ;
+  * On trouve une gueunaude, on prévient Magguie la Folle de la présence de sa consoeur ;
+  * On trouve un peu d'eau du Styx dans une fiole sur la gueunaude ;
+* On arrive dans une zone moins spongieuse ;
+* On tombe sur des gnolls et sur Yeenoghu ; 
+  * C'est le dieu Gnolls, un des acteurs principaux dans l'invasion Démon dans la Guerre de Sang ; 
+* On arrive devant la dernière salle : il y a une double porte qui mène vers la cathédrale ;
+  * On entre dans la cathédrale : plein de lumière ;
+  * On voit une femme avec une armure de plates qui nous accueille : c'est un fantôme ;
+  
 
 ---
 

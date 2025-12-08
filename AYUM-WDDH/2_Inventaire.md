@@ -47,7 +47,6 @@
 * Une outre d'eau
 
 *Consommables*
-* 1 Potion de vol 
 * 1 Potions de soin Greater (4d4+4)
 * 1 potion de résistance de feu
 * 1 potion de résistance de nécrotique
