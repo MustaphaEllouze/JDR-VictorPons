@@ -48,7 +48,6 @@
 
 *Consommables*
 * 1 Potions de soin Greater (4d4+4)
-* 1 potion de résistance de feu
 * 1 potion de résistance de nécrotique
 * 2 potions de soin supérieure (8d4 + 8)
 * 4 Pièce spirituelle (+10 dans le coffre de la bagnole)

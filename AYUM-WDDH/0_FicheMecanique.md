@@ -5,30 +5,30 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 9 |
-| **Age** | 21 | **Classe** | Occultiste 4 / Ensorceleur 5 |
+| **Nom** | Ayum Teeh | **Niveau** | 10 |
+| **Age** | 21 | **Classe** | Occultiste 5 / Ensorceleur 5 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +4 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 79 | **HP Max** | 79 (Nat. 43) |
-| **HP temporaires** | 14 | **Niveaux de fatigue** |  |
-| **Dés de vie actuels** | 4d8 4d6 | **Dés de vie max** | 4d8 5d6 |
-| **Charges Tentacules des Profondeurs** | 4 | **Charges Max. Tentacules des Profondeurs** | 4 |
-| **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 3 | **Points Max. de chance** | 3 |
-| **Utilisation Ruse Magique** | X | **Utilisation Sceptre Occultiste** | X |
-| **Utilisation Bloodwell** | X |   **Sorcerous Restoration** | X  |  |  |
+| **HP actuels** | 108 | **HP Max** | 108 (Nat. 68) |
+| **HP temporaires** | | **Niveaux de fatigue** |  |
+| **Dés de vie actuels** | 5d8 5d6 | **Dés de vie max** | 5d8 5d6 |
+| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 4 |
+| **Charges Sorcellerie Innée** | 1 | **Charges Max. Sorcellerie Innée** | 2 |
+| **Points de chance** | 0 | **Points Max. de chance** | 4 |
+| **Utilisation Ruse Magique** | | **Utilisation Sceptre Occultiste** | |
+| **Utilisation Bloodwell** |  |   **Sorcerous Restoration** | X  |  |  |
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 2) | 2 | 2 | 
-| Level 1 | 4 | 4| 
-| Level 2 | 3 | 3| 
+| Occultiste (Level 3) | 1 | 2 | 
+| Level 1 | 0 | 4| 
+| Level 2 | 1 | 3| 
 | Level 3 | 2 | 2| 
-| Sorcellerie | 5 | 5 (niv. sorc.)|
+| Sorcellerie | 0 | 5 (niv. sorc.)|
 
 
 ## Ability scores
@@ -37,7 +37,7 @@
 |-|-|-|-|-|
 |Force|**8**|**-1**|**-1**|
 |Dextérité|**16**|**+3**|**+3**|
-|Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+4 (Nat. +0)**|
+|Constitution|**19 (Nat. 10)**|**+4 (Nat. +0)**|**+4 (Nat. +0)**|Avantage Concentration|
 |Intelligence|**14 (Nat. 13)**|**+2 (Nat +1)**|**+2 (Nat. +1)**| (+1 grâce à Méphistophélès)
 |Sagesse|**10**|**+0**|**+4** (prof)|
 |Charisme|**20**|**+5**|**+9** (prof)|
@@ -139,9 +139,9 @@
 |[**Crown of Madness**](./SORTS/LEVEL2/CrownOfMadness.md)|Couronne de démence | Level 2 |  | Occultiste |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
 |[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|Concentration 1h| Ensoreleur |
-|[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|2d8+3 Psy, 6m/18m| Occultiste |
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 |[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
+<!-- |[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|2d8+3 Psy, 6m/18m| Occultiste | -->
 <!-- |[**Shatter**](./SORTS/LEVEL2/Shatter.md)|Fracassement|Level 2|3d8 tonnerre, JdS Constitution| Sorcerer | -->
 
 #### Level 3
@@ -152,6 +152,8 @@
 |[**Hunger of Hadar**](./SORTS/LEVEL3/HungerOfHadar.md)|Faim de Hadar| 3 | 6m, 2d6 début, 2d6 fin | Psionique |
 |[**Sending**](./SORTS/LEVEL3/Sending.md)| Communication à distance | 3 | 5% d'échec sur autre plan | Psionique |
 |[**Tongues**](./SORTS/LEVEL3/Tongues.md)| Langues | 3 |  | Ensorceleur |
+|[**Counterspell**](./SORTS/LEVEL3/Counterspell.md)| Contresort | 3 |  | Occultiste |
+|[**Spirit Shroud**](./SORTS/LEVEL3/SpiritShroud.md)| Linceul Spirituel | 3 | 1d8 par attaque | Occultiste |
 
 #### Rituels
 
@@ -238,6 +240,15 @@ Votre protecteur vous donne un grimoire appelé un **livre des ombres** :
 
 *Armor of Shadows*
 * Vous pouvez lancer **Armure du Mage** sans utiliser d'emplacement de sort.
+
+*Eldritch Mind*
+* Vous avez Avantage sur les Jets de Sauvegarde de Constitution pour maintenir votre
+Concentration
+
+*Lesson of the First Ones*
+* Vous avez reçu des connaissances d'une entité ancienne du multivers, vous permettant d'acquérir un don d'origine de votre choix.
+  * *Tough*
+    * Votre maximum de points de vie augmente d'un montant égal à deux fois votre niveau de personnage lorsque vous obtenez ce don. Par la suite, à chaque niveau de personnage gagné, votre maximum de points de vie augmente de 2 points supplémentaires.
 
 ## Maîtrises
 

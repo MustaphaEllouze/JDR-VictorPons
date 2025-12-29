@@ -482,7 +482,36 @@ Séance 12
 * On arrive devant la dernière salle : il y a une double porte qui mène vers la cathédrale ;
   * On entre dans la cathédrale : plein de lumière ;
   * On voit une femme avec une armure de plates qui nous accueille : c'est un fantôme ;
-  
+
+--- 
+
+*Séance 21*
+
+* Femme fantôme devant nous ;
+* Flash blanc ; Lulu = "Je me souviens !"
+* On est transportés : 
+  * On est dans la ville d'Eddilglen (banlieu d'Elturel) ! Jour de l'invasion des forces démoniaques de Yenoghu ; 
+  * On est dans un monde onirique ; 
+  * Femme se fait harceler par des méchants ;
+  * Statue de Zariel au milieu de la place de la ville ; 
+  * Tous les bâtiments sont en feu ;
+
+--- 
+
+*Séance 22*
+
+* On frappe pleins de monstres ;
+* Zariel à dos de Lulu descend des cieux et tue Yenoghu ;
+* On chope chacun un charme :
+  * Charm of Restoration : 3 charges ;  charge = Greater Restoration (2), Lesser Restoration (1)
+* Zariel ouvre un portail, le temps s'arrête, sauf pour le Lulu Mammouth ;
+* On quitte le rêve/souvenirs de Lulu ;
+* On reprend nos esprits au milieu de la citadelle sanglante ;
+* Asmodée est apparu en Eddilglen selon Lulu, Yaelle et Lulu ont subtilisé 
+  l'épée de Lulu en espérant pouvoir la remettre dans le droit chemin, yaelle et Lulu ont donné leur vie pour forger la Citadelle de Sang ;
+* "Le héros qui deviendra un avec cette épée n'existera plus"
+* Vaelin prend l'épée, il devient très beau, et sa personnalité est totalement effacée ; 
+* Toute la carcasse autour de la Citadelle explose, et un démon s'échappe 
 
 ---
 
