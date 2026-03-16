@@ -503,7 +503,7 @@ Séance 12
 * On frappe pleins de monstres ;
 * Zariel à dos de Lulu descend des cieux et tue Yenoghu ;
 * On chope chacun un charme :
-  * Charm of Restoration : 3 charges ;  charge = Greater Restoration (2), Lesser Restoration (1)
+  * Charm of Restoration : 3 charges ;  charge = Greater Restoration (2), Lesser Restoration (1) -> Il ne reste plus qu'une charge ;
 * Zariel ouvre un portail, le temps s'arrête, sauf pour le Lulu Mammouth ;
 * On quitte le rêve/souvenirs de Lulu ;
 * On reprend nos esprits au milieu de la citadelle sanglante ;
@@ -515,9 +515,49 @@ Séance 12
 
 ---
 
+*Séance 23*
+
+* On va chez Maggie la Folle ;
+* Y a pleins de fortifications, des bonnets de rouge en bagnoles qui nous charge ;
+* Les bonnets rouges vont très vite à l'intérieur, et sont quasiment flous ;
+* Le temps est accéléré à l'intérieur ;
+  * Il y a des Fées et des gens du Feywild ;
+  * On rencontre un très classe Bonnet Rouge : Georges ;
+* On arrive dans une cabine en métal infernal tout en haut de l'arbre, on revoit Maggie, elle est accompagné de deux autres guenaudes ;
+* Maggie propose de changer de patron, que ça devienne elle, et elle verra ce qu'elle pourra faire ;
+* On va voir Smiler ;
+  * Il a aussi eu un problèmes de personnalités multiples ;
+  * Il a fait affaire à des flagelleurs mentaux pour extraire les autres personnalités ;
+* On essaye de contacter Aium ;
+  * Ses réponses : NON x 5
+
+--- 
+
+*Séance 24* 
+
+* Maggie nous fait appeler ; 
+  * Marguerite et Marge ses deux amies guenaudes ;
+  * Elle peut faire un rituel qui va couper tout lien avec Aium ; 
+  * Marguerite m'endort et commence à sonder ma psychée ;
+* On commence le méga rituel, je parle à Aium ;
+  * Je vomis tout le sang ;
+  * C'est bon !
+
+---
+
+*Séance 25*
+
+* On doit passer un contrat avec Bazelestten, qui est un lieutenant qui veut trahir Zariel ;
+* Il faut faire distraction pour aller lui parler ;
+* On tue une tour, on va voir Bazelestten ;
+* 
+
+---
+
 * Expressions Tabaxi :
     * Minibosse = Un gars un peu grand, un peu balèze
     * Réseau Sinkgé = Un réseau et des contacts très puissants
     * Une mission tactac = Un petite mission rapide, 20 minutes, in and out, pas plus
     * Neldritch-blass : Un sort un peu occulte ;
     * Un superman : un truc qui vole et qu'on n'arrive pas à identifier ;
+    * Serrer les ceintures : prendre ses précautions ;

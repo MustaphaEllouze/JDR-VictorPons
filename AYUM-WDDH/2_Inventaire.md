@@ -27,6 +27,7 @@
 * Vêtements de Xanatharien
 * Armure de cuir clouté
 * Anneau de protection
+* Bottes ailés
 
 ### Armes
 * Arme d'hast
@@ -48,9 +49,8 @@
 
 *Consommables*
 * 1 Potions de soin Greater (4d4+4)
-* 1 potion de résistance de nécrotique
-* 2 potions de soin supérieure (8d4 + 8)
-* 4 Pièce spirituelle (+10 dans le coffre de la bagnole)
+* 1 potion de résistance de nécrotique 
+* 4 Pièce spirituelle (+3 dans le coffre de la bagnole)
 
 *Quêtes*
 * Papier attestant de l'arrivée à Eauprofonde (durée 10 jours ; expiré)

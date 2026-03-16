@@ -5,31 +5,31 @@
 
 | | | | |
 |---|---|---|---|
-| **Nom** | Ayum Teeh | **Niveau** | 10 |
-| **Age** | 21 | **Classe** | Occultiste 5 / Ensorceleur 5 |
+| **Nom** | Ayum Teeh | **Niveau** | 12 |
+| **Age** | 21 | **Classe** | Occultiste 6 / Ensorceleur 6 |
 | **Alignement** | Chaotic Neutral  | **Expérience** | *Threshold* |
 |**Taille** | 1m77 | **Race** | Tabaxi |
 | |  | **Bonus de maîtrise** | +4 |
 
 | | | | |
 |---|---|---|---|
-| **HP actuels** | 108 | **HP Max** | 108 (Nat. 68) |
-| **HP temporaires** | | **Niveaux de fatigue** |  |
-| **Dés de vie actuels** | 5d8 5d6 | **Dés de vie max** | 5d8 5d6 |
-| **Charges Tentacules des Profondeurs** | 3 | **Charges Max. Tentacules des Profondeurs** | 4 |
-| **Charges Sorcellerie Innée** | 1 | **Charges Max. Sorcellerie Innée** | 2 |
-| **Points de chance** | 0 | **Points Max. de chance** | 4 |
-| **Utilisation Ruse Magique** | | **Utilisation Sceptre Occultiste** | |
-| **Utilisation Bloodwell** |  |   **Sorcerous Restoration** | X  |  |  |
+| **HP actuels** | 129 | **HP Max** | 129 (Nat. 80) |
+| **HP temporaires** | 17 | **Niveaux de fatigue** |  |
+| **Dés de vie actuels** | 6d8 3d6 | **Dés de vie max** | 6d8 6d6 |
+| **Charges Misty Step** | 3 | **Charges Max. Misty Step** | 5 |
+| **Charges Sorcellerie Innée** | 2 | **Charges Max. Sorcellerie Innée** | 2 |
+| **Points de chance** | 2 | **Points Max. de chance** | 4 |
+| **Utilisation Ruse Magique** | x | **Utilisation Sceptre Occultiste** | x |
+| **Utilisation Bloodwell** | |   **Sorcerous Restoration** | X  |  |  |
+|**Inspiration**| | | | | 
 
 | Niveau Emplacement | Actuels | Maximum | 
 | - | - | -| 
-| Occultiste (Level 3) | 1 | 2 | 
-| Level 1 | 0 | 4| 
-| Level 2 | 1 | 3| 
-| Level 3 | 2 | 2| 
-| Sorcellerie | 0 | 5 (niv. sorc.)|
-
+| Occultiste (Level 3) | 2 | 2 | 
+| Level 1 | 4 | 4| 
+| Level 2 | 2 | 3| 
+| Level 3 | 2 | 3| 
+| Sorcellerie | 5 | 6 (niv. sorc.)|
 
 ## Ability scores
 
@@ -42,6 +42,7 @@
 |Sagesse|**10**|**+0**|**+4** (prof)|
 |Charisme|**20**|**+5**|**+9** (prof)|
 
+**Avantage contre les JdS pour être Charmé ou Effrayé**
 
 |Nom|Type|Proficiency|Bonus|
 |-|-|-|-|
@@ -72,6 +73,8 @@
 |**Vitesse**|9m|
 |**Vitesse d'escalade**|6m|
 |**Vitesse de nage**|12m|
+
+*Résistances* - Psychique
 
 ### Attaques
 |Arme|Toucher|Dégâts|Portée|Formule Toucher|Formule Dégâts|
@@ -125,20 +128,23 @@
 |[**Comprehend Languages**](./SORTS/LEVEL1/ComprehendLanguages.md)|Compréhension des Langues|Level 1|| Livre des Ombres |
 |[**Create Water**](./SORTS/LEVEL1/CreateWater.md)|Création d'Eau|Level 1|9 m| **Anneau des profondeurs** 1 / Court Repos [x]|
 |[**Dissonant Whispers**](./SORTS/LEVEL1/DissonantWhispers.md)|Murmures Dissonants|Level 1|JdS SAG, 3d6 psychiques|Psionique|
-|[**Hellish Rebuke**](./SORTS/LEVEL1/HellishRebuke.md)|Représailles Infernale|Level 1||Occultiste|
+|[**Faerie Fire**](./SORTS/LEVEL1/FaerieFire.md)|Luueurs féériques|Level 1|JdS DEX, Concentration|Occultiste|
 |[**Mage Armor**](./SORTS/LEVEL1/MageArmor.md)|Armure du Mage|Level 1||Invocation Occulte|
 |[**Shield**](./SORTS/LEVEL1/Shield.md)|Bouclier|Level 1|+5 CA| Ensorceleur |
-|[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|| Occultiste |
+|[**Sleep**](./SORTS/LEVEL1/Sleep.md)|Sommeil|Level 1|JdS SAG| Occultiste |
+<!-- |[**Hellish Rebuke**](./SORTS/LEVEL1/HellishRebuke.md)|Représailles Infernale|Level 1||Occultiste| -->
+<!-- |[**Thunderwave**](./SORTS/LEVEL1/Thunderwave.md)|Vague Tonnante|Level 1|| Occultiste | -->
 
 #### Level 2
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
 |[**Aganazzar's Scorcher**](./SORTS/LEVEL2/AganazzarsScorcher.md)| Flambée d'Aganazzar | Level 2 | 9m, 3d8, JdS DEX | Ensorceleur |
 |[**Arcane Vigor**](./SORTS/LEVEL2/ArcaneVigor.md)| Vigueur Arcanique | Level 2 | 1+CHA dés de vie | Ensorceleur |
-|[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique |
+|[**Calm Emotions**](./SORTS/LEVEL2/CalmEmotions.md)|Apaisement des émotions | Level 2 | 18m portée, 6m rayon | Psionique + Occultiste |
 |[**Crown of Madness**](./SORTS/LEVEL2/CrownOfMadness.md)|Couronne de démence | Level 2 |  | Occultiste |
 |[**Detect Thoughts**](./SORTS/LEVEL2/DetectThoughts.md)|Détection des pensées | Level 2 | Portée Pers., 9 m, JdS Sag pour approfondir, Opposition Intel| Psionique |
 |[**Invisibility**](./SORTS/LEVEL2/Invisibility.md)|Invisibilité|Level 2|Concentration 1h| Ensoreleur |
+|[**Misty Step**](./SORTS/LEVEL2/MistyStep.md)|Foulée brumeuse|Level 2|| Occultiste |
 |[**Silence**](./SORTS/LEVEL2/Silence.md)|Silence|Level 2|36m, Concentration, Rayon 6m, Immu. Tonnerre (Rituel)| Occultiste |
 |[**Tasha's Mind Whip**](./SORTS/LEVEL2/TashasMindWhip.md)|Fouet mental de Tasha | Level 2 | 27 m, JdS INT, 3d6, (action/bonus/mouv), pas réaction | Ensorceleur |
 <!-- |[**Shadow Blade**](./SORTS/LEVEL2/ShadowBlade.md)|Lame des Ombres|Level 2|2d8+3 Psy, 6m/18m| Occultiste | -->
@@ -147,12 +153,16 @@
 #### Level 3
 |Nom - EN|Nom - FR|Level| Cheat Sheet | Origine |
 |-|-| - |-| - |
+|[**Blink**](./SORTS/LEVEL3/Blink.md)| Clignotement | 3 |  | Occultiste |
 |[**Fireball**](./SORTS/LEVEL3/Fireball.md)|Boule de feu| 3 | 8d6, JdS DEX| Ensorceleur |
+|[**Fly**](./SORTS/LEVEL3/Fly.md)|Vol|Level 3|Concentration, 10 minutes|Occultiste|
 |[**Slow**](./SORTS/LEVEL3/Slow.md)|Lenteur| 3 | JdS WIS, carré 12m | Ensorceleur |
 |[**Hunger of Hadar**](./SORTS/LEVEL3/HungerOfHadar.md)|Faim de Hadar| 3 | 6m, 2d6 début, 2d6 fin | Psionique |
 |[**Sending**](./SORTS/LEVEL3/Sending.md)| Communication à distance | 3 | 5% d'échec sur autre plan | Psionique |
 |[**Tongues**](./SORTS/LEVEL3/Tongues.md)| Langues | 3 |  | Ensorceleur |
 |[**Counterspell**](./SORTS/LEVEL3/Counterspell.md)| Contresort | 3 |  | Occultiste |
+|[**Hypnotic Pattern**](./SORTS/LEVEL3/HypnoticPattern.md)| Motif hypnotique | 3 |  | Ensorceleur |
+|[**Plant Growth**](./SORTS/LEVEL3/PlantGrowth.md)| Croissance de Plantes | 3 |  | Occultiste |
 |[**Spirit Shroud**](./SORTS/LEVEL3/SpiritShroud.md)| Linceul Spirituel | 3 | 1d8 par attaque | Occultiste |
 
 #### Rituels
@@ -221,6 +231,30 @@ Le lien télépathique dure un nombre de minutes égal à votre niveau d'ensorce
 *Ruse magique* - Vous pouvez utiliser une action pour regagner un emplacement de sort d'occultiste (une fois par long repos).
 
 *Don de la mer* - Vous pouvez respirer sous l'eau.
+
+*Psionic Sorcery*
+
+When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell’s level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
+
+*Steps of the Fey* 
+
+Your patron grants you the ability to move between the boundaries of the planes. You can cast Misty Step without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+In addition, whenever you cast that spell, you can choose one of the following additional effects.
+
+**Refreshing Step**. Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 Temporary Hit Points.
+
+**Taunting Step**. Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have Disadvantage on attack rolls against creatures other than you until the start of your next turn.
+
+*Misty Escape*
+
+You can cast Misty Step as a Reaction in response to taking damage.
+
+In addition, the following effects are now among your Steps of the Fey options.
+
+**Disappearing Step**. You have the Invisible condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.
+
+**Dreadful Step**. Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 Psychic damage.
 
 ### Pacte du Grimoire
 Votre protecteur vous donne un grimoire appelé un **livre des ombres** : 

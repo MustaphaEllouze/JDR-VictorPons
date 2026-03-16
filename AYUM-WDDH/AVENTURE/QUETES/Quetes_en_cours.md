@@ -70,17 +70,21 @@ A ce jour, j'ai réuni les espèces suivantes :
 * Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 * Aasimar - Vaelin ;
 * Bonnet-Rouge - Oizik ;
+* Elfe - Smiler ;
+* Halfelin - Ralo ;
 
 *Dans l'ordre alphabétique* : 
 * Aasimar - Vaelin ;
 * Bonnet-Rouge - Oizik ;
 * Demi-Orc - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Demi-Elfe - [Finn](../PERSONNAGES/Finn.md) ;
+* Elfe - Smiler ;
 * Flagelleur mental - L'imposteur du [Docteur Viguelin](../PERSONNAGES/DrViguelin.md);
 * Gnome des profondeurs - [**Xoblob**](../PERSONNAGES/Xoblob.md);
 * Gobelin - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md) ;
 * Goblours - [**Seamon**](../PERSONNAGES/Seemon.md) ;
 * Gnome - [**Timbur**](../Lieux.md#le-temple-de-la-main-ouverte) ;
+* Halfelin - Ralo ;
 * Humain - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Kenku - Membre de la [**Guilde de Xanathar**](../ORGANISATIONS/GuildeDeXanathar.md);
 * Tabaxi - Un marchand d'armure à Eauprofonde ;
